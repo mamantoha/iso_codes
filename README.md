@@ -1,6 +1,6 @@
 # ISO Codes
 
-![Crystal CI](https://github.com/mamantoha/iso_codes/workflows/Crystal%20CI/badge.svg)
+[![Crystal CI](https://github.com/mamantoha/iso_codes/actions/workflows/crystal.yml/badge.svg)](https://github.com/mamantoha/iso_codes/actions/workflows/crystal.yml)
 [![GitHub release](https://img.shields.io/github/release/mamantoha/iso_codes.svg)](https://github.com/mamantoha/iso_codes/releases)
 [![License](https://img.shields.io/github/license/mamantoha/iso_codes.svg)](https://github.com/mamantoha/iso_codes/blob/master/LICENSE)
 
