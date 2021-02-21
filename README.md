@@ -43,17 +43,13 @@ Congress.
 ```crystal
 require "iso_codes"
 
-countries = ISOCodes.countries
-
-country = countries.find_by_alpha_2("TW")
+country = ISOCodes.countries.find_by_alpha_2("TW")
 # => #<ISOCodes::Country:0x7fcce33cbbc0 @alpha_2="TW", @alpha_3="TWN", @name="Taiwan, Province of China", @numeric="158", @official_name="Taiwan, Province of China", @common_name="Taiwan">
 
 country.translation("zh_TW")
 # => 中華民國
 
-languages = ISOCodes.languages
-
-language = languages.find_by_name("French")
+language = ISOCodes.languages.find_by_name("French")
 # => #<ISOCodes::Language:0x7fcce33d9300 @alpha_2="fr", @alpha_3="fra", @name="French", @common_name=nil, @bibliographic="fre">
 
 language.translation("fr")
