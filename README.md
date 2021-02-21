@@ -1,5 +1,9 @@
 # ISO Codes
 
+![Crystal CI](https://github.com/mamantoha/iso_codes/workflows/Crystal%20CI/badge.svg)
+[![GitHub release](https://img.shields.io/github/release/mamantoha/iso_codes.svg)](https://github.com/mamantoha/iso_codes/releases)
+[![License](https://img.shields.io/github/license/mamantoha/iso_codes.svg)](https://github.com/mamantoha/iso_codes/blob/master/LICENSE)
+
 This project provides lists of various ISO standards (`ISO 3166-1` for countries and `ISO 639-2` for languages) with translations for Crystal programming language.
 
 ## ISO 3166-1
