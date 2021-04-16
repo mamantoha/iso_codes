@@ -19,7 +19,7 @@ jobs:
       - name: Check format
         run: crystal tool format --check
 
-check_ameba:
+  check_ameba:
     runs-on: ubuntu-latest
     steps:
       - name: Install Crystal
