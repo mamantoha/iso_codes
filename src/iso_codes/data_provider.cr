@@ -31,10 +31,6 @@ module ISOCodes
     end
 
     def translations(type, language_code)
-      code = language_code.split("_")
-      code[0] = code[0].downcase
-      code = code.join("_")
-
       @@translations["#{type}_#{language_code}"] ||= begin
         path = TRANSLATIONS[type] + "#{language_code}.po"
 

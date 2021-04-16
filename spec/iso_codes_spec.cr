@@ -126,10 +126,10 @@ describe ISOCodes do
       languages = ISOCodes.languages
 
       country = countries.find_by_alpha_2("UA")
-      translation = country.try(&.translation("it"))
+      country.try(&.translation("it"))
 
       language = languages.find_by_name("English")
-      translation = language.try(&.translation("fr"))
+      language.try(&.translation("fr"))
 
       translations = ISOCodes::DataProvider.translations
 
