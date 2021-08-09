@@ -23,8 +23,8 @@ Congress.
 
 ## Translations
 
-* 249 Country codes (`ISO 3166-1`) in 158 languages
-* 486 Language codes (`ISO_639-2`) in 92 languages
+* 249 Country codes (`ISO 3166-1` - 2 letter) in 158 Languages
+* 486 Language codes (`ISO_639-2` - 2 letter) in 93 Languages
 
 ## Installation
 
