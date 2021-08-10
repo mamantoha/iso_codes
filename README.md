@@ -49,6 +49,9 @@ country = ISOCodes.countries.find_by_alpha_2("TW")
 country.translation("zh_TW")
 # => 中華民國
 
+country.emoji
+# => 🇹🇼
+
 language = ISOCodes.languages.find_by_name("French")
 # => #<ISOCodes::Language:0x7fcce33d9300 @alpha_2="fr", @alpha_3="fra", @name="French", @common_name=nil, @bibliographic="fre">
 

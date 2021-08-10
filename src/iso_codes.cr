@@ -1,4 +1,5 @@
 require "json"
+require "./emoji_flag"
 require "./iso_codes/*"
 
 module ISOCodes

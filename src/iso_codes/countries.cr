@@ -33,6 +33,10 @@ module ISOCodes
       ISOCodes::DataProvider.translations(:countries, language_code)[name]?
     end
 
+    def emoji
+      EmojiFlag.new(alpha_2)
+    end
+
     def to_s(io : IO) : Nil
       inspect(io)
     end
