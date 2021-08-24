@@ -43,20 +43,20 @@ Congress.
 ```crystal
 require "iso_codes"
 
-country = ISOCodes.countries.find_by_alpha_2("TW")
-# => #<ISOCodes::Country:0x7fcce33cbbc0 @alpha_2="TW", @alpha_3="TWN", @name="Taiwan, Province of China", @numeric="158", @official_name="Taiwan, Province of China", @common_name="Taiwan">
+country = ISOCodes.countries.find_by_alpha_2("UA")
+# => #<ISOCodes::Country:0x7fcbdd59db00 @alpha_2="UA", @alpha_3="UKR", @name="Ukraine", @numeric="804", @official_name=nil, @common_name=nil>
 
-country.translation("zh_TW")
-# => 中華民國
+country.translation("pt")
+# => Ucrânia
 
 country.emoji
-# => 🇹🇼
+# => 🇺🇦
 
-language = ISOCodes.languages.find_by_name("French")
-# => #<ISOCodes::Language:0x7fcce33d9300 @alpha_2="fr", @alpha_3="fra", @name="French", @common_name=nil, @bibliographic="fre">
+language = ISOCodes.languages.find_by_name("Ukrainian")
+# => #<ISOCodes::Language:0x7fcbd8d6a2c0 @alpha_2="uk", @alpha_3="ukr", @name="Ukrainian", @common_name=nil, @bibliographic=nil>
 
 language.translation("fr")
-# => français
+# => ukrainien
 ```
 
 ## Development
