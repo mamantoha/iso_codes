@@ -10,15 +10,16 @@
 # Meital Bourvine <meitalbourvine@gmail.com>, 2007.
 # Lior Kaplan <kaplan@debian.org>, 2005-2008, 2010-2012, 2015.
 # jeremy rutman <jeremy.rutman@gmail.com>, 2019.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2020.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2020-09-19 14:36+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-08-25 18:44+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/he/>\n"
 "Language: he\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -51,11 +52,11 @@ msgstr "הרפובליקה של אנגולה"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr "אנגואילה"
+msgstr "אנגווילה"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr "איי אלנד"
+msgstr "אולנד"
 
 #. Name for ALB
 msgid "Albania"
@@ -75,7 +76,7 @@ msgstr "נסיכות אנדורה"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "איחוד האמירויות"
+msgstr "איחוד האמירויות הערביות"
 
 #. Name for ARG
 msgid "Argentina"
@@ -123,7 +124,7 @@ msgstr "הרפובליקה של אוסטריה"
 
 #. Name for AZE
 msgid "Azerbaijan"
-msgstr "אזרביג'ן"
+msgstr "אזרבייג׳ן"
 
 #. Official name for AZE
 msgid "Republic of Azerbaijan"
@@ -195,7 +196,7 @@ msgstr "בהאמס"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "בוסניה הרצגובינה"
+msgstr "בוסניה והרצגובינה"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -207,7 +208,7 @@ msgstr "סנט ברתלמי"
 
 #. Name for BLR
 msgid "Belarus"
-msgstr "בלרוס"
+msgstr "בלארוס"
 
 #. Official name for BLR
 msgid "Republic of Belarus"
@@ -263,7 +264,7 @@ msgstr "האי באווט"
 
 #. Name for BWA
 msgid "Botswana"
-msgstr "בוטסוואנה"
+msgstr "בוטסואנה"
 
 #. Official name for BWA
 msgid "Republic of Botswana"
@@ -271,7 +272,7 @@ msgstr "הרפובליקה של בוטסוואנה"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "הרפובליקה המרכז אפריקנית"
+msgstr "הרפובליקה המרכז־אפריקאית"
 
 #. Name for CAN
 msgid "Canada"
@@ -279,11 +280,11 @@ msgstr "קנדה"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "איי קוקוס, קילינג"
+msgstr "איי קוקוס (קילינג)"
 
 #. Name for CHE
 msgid "Switzerland"
-msgstr "שוייץ"
+msgstr "שווייץ"
 
 #. Official name for CHE
 msgid "Swiss Confederation"
@@ -347,7 +348,7 @@ msgstr "הרפובליקה של קולומביה"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "קומורוס"
+msgstr "קומורו"
 
 #. Official name for COM
 msgid "Union of the Comoros"
@@ -387,7 +388,7 @@ msgstr "איי חג המולד"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "איי קימן"
+msgstr "איי קיימן"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -403,7 +404,7 @@ msgstr "צ'כיה"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "הרפובליקה הצ'כית"
+msgstr "צ׳כיה"
 
 #. Name for DEU
 msgid "Germany"
@@ -467,7 +468,7 @@ msgstr "מצרים"
 
 #. Name for ERI
 msgid "Eritrea"
-msgstr "איריתריאה"
+msgstr "אריתריאה"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
@@ -475,7 +476,7 @@ msgstr "מדינת אריתריאה"
 
 #. Name for ESH
 msgid "Western Sahara"
-msgstr "מערב סהרה"
+msgstr "סהרה המערבית"
 
 #. Name for ESP
 msgid "Spain"
@@ -828,6 +829,10 @@ msgstr "סנט קיטס ונביס"
 #. Name for KOR
 msgid "Korea, Republic of"
 msgstr "קוריאה, הרפובליקה של"
+
+#. Common name for KOR
+msgid "South Korea"
+msgstr "קוריאה הדרומית"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1240,6 +1245,10 @@ msgstr "קוריאה, דמוקרטיית העם של"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "הרפובליקה הדמוקרטית של העם של קוריאה"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "קוריאה הצפונית"
 
 #. Name for PRT
 msgid "Portugal"
