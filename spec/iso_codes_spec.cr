@@ -99,12 +99,21 @@ describe ISOCodes do
       country.try(&.name).should eq("Germany")
     end
 
-    it ".emoji" do
+    it ".find_by_flag" do
       countries = ISOCodes.countries
 
-      country = countries.find_by_alpha_2("UA")
-      emoji = country.try(&.emoji)
-      emoji.should eq("🇺🇦")
+      if country = countries.find_by_flag("🇺🇦")
+        country.should be_a(ISOCodes::Country)
+        country.alpha_2.should eq("UA")
+      end
+    end
+
+    it ".flag" do
+      countries = ISOCodes.countries
+
+      if country = countries.find_by_alpha_2("UA")
+        country.flag.should eq("🇺🇦")
+      end
     end
 
     context "translations" do

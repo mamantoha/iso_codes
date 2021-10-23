@@ -44,13 +44,10 @@ Congress.
 require "iso_codes"
 
 country = ISOCodes.countries.find_by_alpha_2("UA")
-# => #<ISOCodes::Country:0x7fcbdd59db00 @alpha_2="UA", @alpha_3="UKR", @name="Ukraine", @numeric="804", @official_name=nil, @common_name=nil>
+# => #<ISOCodes::Country:0x7f4bd307e5a0 @alpha_2="UA", @alpha_3="UKR", @name="Ukraine", @numeric="804", @official_name=nil, @flag="🇺🇦", @common_name=nil>
 
 country.translation("pt")
 # => Ucrânia
-
-country.emoji
-# => 🇺🇦
 
 language = ISOCodes.languages.find_by_name("Ukrainian")
 # => #<ISOCodes::Language:0x7fcbd8d6a2c0 @alpha_2="uk", @alpha_3="ukr", @name="Ukrainian", @common_name=nil, @bibliographic=nil>
