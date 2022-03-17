@@ -6,22 +6,23 @@
 # .
 # Copyright ©
 # Erdal Ronahi <erdal.ronahi@gmail.com>, 2005, 2007.
+# Pêşeroja paşerojê <cyax1@protonmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2018-02-24 12:38+0000\n"
-"Last-Translator: Hüseyin Kaya <kaya6491@gmail.com>\n"
-"Language-Team: Kurdish <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-1/ku/>\n"
-"Language: ku\n"
+"PO-Revision-Date: 2022-01-14 11:56+0000\n"
+"Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
+"Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/kmr/>\n"
+"Language: kmr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 "X-Poedit-Language: Kurdish\n"
 
 #. Name for ABW
@@ -592,8 +593,6 @@ msgid "Gambia"
 msgstr "Gambiya"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
 msgstr "Komara Zambiya"
 
@@ -833,10 +832,8 @@ msgid "Korea, Republic of"
 msgstr "Kore, Komara"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Efrîka Basur"
+msgstr "Koriya Başûr"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -995,14 +992,10 @@ msgid "Republic of the Marshall Islands"
 msgstr "Komara Giravên Marşal"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Kaledonyaya Nû"
+msgstr "Makedonyaya Bakur"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
 msgstr "Komara Lîtuaniya"
 

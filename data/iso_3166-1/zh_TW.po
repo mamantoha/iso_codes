@@ -12,14 +12,15 @@
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2010, 2012-2013.
 # Louies <louies0623@gmail.com>, 2019.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
+# Jack Liu <ywp033319@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2019-10-18 14:54+0000\n"
-"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"PO-Revision-Date: 2022-02-22 02:55+0000\n"
+"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-3166-1/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -830,10 +831,8 @@ msgid "Korea, Republic of"
 msgstr "大韓民國"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "南非"
+msgstr "南韓"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1248,10 +1247,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "朝鮮民主主義人民共和國"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "北馬其頓"
+msgstr "北韓"
 
 #. Name for PRT
 msgid "Portugal"

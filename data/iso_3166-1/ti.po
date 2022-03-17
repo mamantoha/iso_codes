@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Joan Piñero <joanpinero71@gmail.com>, 2020.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2020.
+# ds4647318 ds4647318 <ds4647318@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2020-10-27 21:27+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2022-01-01 07:54+0000\n"
+"Last-Translator: ds4647318 ds4647318 <ds4647318@gmail.com>\n"
 "Language-Team: Tigrinya <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ti/>\n"
 "Language: ti\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.3.2-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -95,7 +96,7 @@ msgstr ""
 
 #. Name for ATA
 msgid "Antarctica"
-msgstr ""
+msgstr "ኣንታርክቲካ"
 
 #. Name for ATF
 msgid "French Southern Territories"
@@ -127,7 +128,7 @@ msgstr "ሪፓብሊክ ኣዘርባጃን"
 
 #. Name for BDI
 msgid "Burundi"
-msgstr ""
+msgstr "ቡሩንዲ"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
@@ -159,7 +160,7 @@ msgstr "ቡርኪና ፋሶ"
 
 #. Name for BGD
 msgid "Bangladesh"
-msgstr ""
+msgstr "ባንግላዴሽ"
 
 #. Official name for BGD
 msgid "People's Republic of Bangladesh"
@@ -167,7 +168,7 @@ msgstr ""
 
 #. Name for BGR
 msgid "Bulgaria"
-msgstr "ቡልጌሪያ"
+msgstr "ቡልጋሪያ"
 
 #. Official name for BGR
 msgid "Republic of Bulgaria"
@@ -183,7 +184,7 @@ msgstr ""
 
 #. Name for BHS
 msgid "Bahamas"
-msgstr ""
+msgstr "ባሃማስ"
 
 #. Official name for BHS
 msgid "Commonwealth of the Bahamas"
@@ -211,7 +212,7 @@ msgstr ""
 
 #. Name for BLZ
 msgid "Belize"
-msgstr "ቤሊዘ"
+msgstr "ቤሊዝ"
 
 #. Name for BMU
 msgid "Bermuda"
