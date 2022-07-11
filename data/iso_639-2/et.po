@@ -11,14 +11,15 @@
 # Kristjan Räts <kristjanrats@gmail.com>, 2018.
 # Mihkel Tõnnov <mihhkel@gmail.com>, 2019.
 # Janar Leas <janar.leas@gmail.com>, 2020.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-12-05 15:29+0000\n"
-"Last-Translator: Janar Leas <janar.leas@gmail.com>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-06-02 18:16+0000\n"
+"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/et/>\n"
 "Language: et\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -379,6 +380,10 @@ msgstr "šaieeni"
 #. Name for cmc
 msgid "Chamic languages"
 msgstr "tšaami keeled"
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr "montenegro"
 
 #. Name for cop
 msgid "Coptic"

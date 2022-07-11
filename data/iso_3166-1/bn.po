@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Nasir Khan <nasir.khan@bdosn.org>, 2013.
-# Oymate <dhruboadittya96@gmail.com>, 2020.
+# Oymate <dhruboadittya96@gmail.com>, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2020-05-10 12:40+0000\n"
+"PO-Revision-Date: 2022-05-27 14:17+0000\n"
 "Last-Translator: Oymate <dhruboadittya96@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/bn/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -825,10 +825,8 @@ msgid "Korea, Republic of"
 msgstr "কোরিয়া প্রজাতন্ত্র"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "দক্ষিণ আফ্রিকা"
+msgstr "দক্ষিণ কোরিয়া"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1243,10 +1241,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "গণতান্ত্রিক গণপ্রজাতন্ত্রী কোরিয়া"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "উত্তর ম্যাসেডোনিয়া"
+msgstr "উত্তর কোরিয়া"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1646,7 +1642,7 @@ msgstr "ব্রিটিশ ভার্জিন দ্বীপ"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "মার্কিন যুক্তরাষ্ট্র ভার্জিন দ্বীপ"
+msgstr "ভার্জিন দ্বীপ, মার্কিন যুক্তরাষ্ট্র"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

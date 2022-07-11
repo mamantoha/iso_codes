@@ -9,14 +9,15 @@
 # Piarres Beobide Egaña <pi@beobide.net>, 2004, 2006-2009, 2012.
 # Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2010, 2013.
 # Osoitz <oelkoro@gmail.com>, 2019.
+# Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2019-08-01 05:13+0000\n"
-"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
+"PO-Revision-Date: 2022-05-21 09:15+0000\n"
+"Last-Translator: Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/eu/>\n"
 "Language: eu\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -827,10 +828,8 @@ msgid "Korea, Republic of"
 msgstr "Korea, Errepublika"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Hegoafrika"
+msgstr "Hego Korea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1245,10 +1244,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Koreako Herri Errepublika Demokratikoa"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Ipar Mazedonia"
+msgstr "Ipar Korea"
 
 #. Name for PRT
 msgid "Portugal"

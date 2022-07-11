@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2013-03-09 13:55+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"
@@ -372,6 +372,10 @@ msgstr "Tiếng Chê-ienh"
 #. Name for cmc
 msgid "Chamic languages"
 msgstr "Hệ ngôn ngữ Cha-mic"
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr ""
 
 #. Name for cop
 msgid "Coptic"

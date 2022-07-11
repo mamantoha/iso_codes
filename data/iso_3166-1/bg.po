@@ -9,21 +9,23 @@
 # Georgi Georgiev <assenov_g@operamail.com>, 2001, 2004.
 # Ognyan Kulev <ogi@fmi.uni-sofia.bg>, 2004.
 # Damyan Ivanov <dmn@debian.org>, 2006-2012, 2014, 2016.
+# Georgi Georgiev <g.georgiev.shumen@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2016-01-03 17:54+0200\n"
-"Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
-"Language-Team: Bulgarian <dict@ludost.net>\n"
+"PO-Revision-Date: 2022-05-28 22:18+0000\n"
+"Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
+"Language-Team: Bulgarian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.7\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -350,16 +352,12 @@ msgid "Union of the Comoros"
 msgstr "Съюз на Комори"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "Кейп Верде"
+msgstr "Кабо Верде"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "Република Кейп Верде"
+msgstr "Република Кабо Верде"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -399,7 +397,7 @@ msgstr "Република Кипър"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Чехия"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -594,10 +592,8 @@ msgid "Gambia"
 msgstr "Гамбия"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Република Замбия"
+msgstr "Република Гамбия"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -832,10 +828,8 @@ msgid "Korea, Republic of"
 msgstr "Корея, Република"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Южна Африка"
+msgstr "Южна Корея"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -994,16 +988,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Република на маршалските острови"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Нова Каледония"
+msgstr "Северна Македония"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Република Литва"
+msgstr "Република Северна Македония"
 
 #. Name for MLI
 msgid "Mali"
@@ -1254,10 +1244,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Демократична народна република Корея"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Нова Каледония"
+msgstr "Северна Корея"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1457,13 +1445,11 @@ msgstr "Кралство Швеция"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Есватини"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Кралство Испания"
+msgstr "Кралство Есватини"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1674,8 +1660,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Социалистическа република Виетнам"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Виетнам"
 

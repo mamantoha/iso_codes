@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2018-05-03 12:39+0000\n"
 "Last-Translator: Muhammad Nur Hidayat Yasuyoshi <mnh48mail@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/iso-codes/"
@@ -399,6 +399,10 @@ msgstr ""
 
 #. Name for cmc
 msgid "Chamic languages"
+msgstr ""
+
+#. Name for cnr
+msgid "Montenegrin"
 msgstr ""
 
 #. Name for cop

@@ -12,14 +12,15 @@
 # Softcatalà <info@softcatala.org>, 2001.
 # Orestes Mas i Casals <orestes@tsc.upc.es>, 2004-2006.
 # Toni Hermoso Pulido <toniher@softcatala.org>, 2010-2012.
+# Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2018-02-01 11:34+0000\n"
-"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"PO-Revision-Date: 2022-06-21 08:20+0000\n"
+"Last-Translator: Sergi Almacellas Abellana <sergi@koolpi.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ca/>\n"
 "Language: ca\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -354,14 +355,10 @@ msgid "Union of the Comoros"
 msgstr "Unió de les Comores"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Cap Verd"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "República de Cap Verd"
 
@@ -475,7 +472,7 @@ msgstr "Eritrea"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr ""
+msgstr "Estat d'eritrea"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -598,8 +595,6 @@ msgid "Gambia"
 msgstr "Gàmbia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
 msgstr "República de Zàmbia"
 
@@ -836,10 +831,8 @@ msgid "Korea, Republic of"
 msgstr "Corea del Sud"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Sudàfrica"
+msgstr "Corea del Sud"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -998,16 +991,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "República de les Illes Marshall"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nova Caledònia"
+msgstr "Macedònia del Nord"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "República de Lituània"
+msgstr "República de Lituània del Nord"
 
 #. Name for MLI
 msgid "Mali"
@@ -1259,10 +1248,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "República Democràtica Popular de Corea"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Nova Caledònia"
+msgstr "Corea del Nord"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1282,12 +1269,11 @@ msgstr "República de Paraguai"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "Palestina, Estat de"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "Estats Units d'Amèrica"
+msgstr "Estat de Palestina"
 
 #. Name for PYF
 msgid "French Polynesia"

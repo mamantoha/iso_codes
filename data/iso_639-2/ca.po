@@ -12,14 +12,15 @@
 # Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015.
 # ferranroig <forums@ferranroig.com>, 2018.
 # Joan Montané <joan@montane.cat>, 2019.
+# Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-24 08:04+0000\n"
-"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-06-21 08:20+0000\n"
+"Last-Translator: Sergi Almacellas Abellana <sergi@koolpi.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ca/>\n"
 "Language: ca\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -63,7 +64,7 @@ msgstr "afrihili"
 
 #. Name for afr
 msgid "Afrikaans"
-msgstr "afrikaans"
+msgstr "Afrikaans"
 
 #. Name for ain
 msgid "Ainu"
@@ -379,6 +380,10 @@ msgstr "xeiene; cheyenne"
 msgid "Chamic languages"
 msgstr "llengües txam"
 
+#. Name for cnr
+msgid "Montenegrin"
+msgstr "Montenegrí"
+
 #. Name for cop
 msgid "Coptic"
 msgstr "copte"
@@ -637,7 +642,7 @@ msgstr "gilbertès"
 
 #. Name for gla
 msgid "Gaelic; Scottish Gaelic"
-msgstr "gaèlic; gaèlic escocès"
+msgstr "Gaèlic; escocès gaèlic"
 
 #. Name for gle
 msgid "Irish"

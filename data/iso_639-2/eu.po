@@ -11,14 +11,15 @@
 # Xabier Bilbao <xabidu@gmail.com>, 2008.
 # Osoitz <oelkoro@gmail.com>, 2019, 2020.
 # Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2020.
+# Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: xd-ISO_639-eu\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-06-01 11:41+0000\n"
-"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-06-16 07:27+0000\n"
+"Last-Translator: Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/eu/>\n"
 "Language: eu\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -218,7 +219,7 @@ msgstr "Bengalera"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bengalera"
+msgstr "bengalera"
 
 #. Name for ber
 msgid "Berber languages"
@@ -234,7 +235,7 @@ msgstr "Bihari hizkuntzak"
 
 #. Name for bik
 msgid "Bikol"
-msgstr "Bikol"
+msgstr "bikol"
 
 #. Name for bin
 msgid "Bini; Edo"
@@ -242,7 +243,7 @@ msgstr "edoera"
 
 #. Name for bis
 msgid "Bislama"
-msgstr "Bislama"
+msgstr "bislama"
 
 #. Name for bla
 msgid "Siksika"
@@ -250,7 +251,7 @@ msgstr "siksikera"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr "Bantu (beste batzuk)"
+msgstr "bantu (beste batzuk)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -266,7 +267,7 @@ msgstr "Brajera"
 
 #. Name for bre
 msgid "Breton"
-msgstr "Bretoiera"
+msgstr "bretoiera"
 
 #. Name for btk
 msgid "Batak languages"
@@ -282,7 +283,7 @@ msgstr "Buginera"
 
 #. Name for bul
 msgid "Bulgarian"
-msgstr "Bulgariera"
+msgstr "bulgariera"
 
 #. Name for byn
 msgid "Blin; Bilin"
@@ -293,13 +294,12 @@ msgid "Caddo"
 msgstr "Caddo"
 
 #. Name for cai
-#, fuzzy
 msgid "Central American Indian languages"
-msgstr "Mesoamerikar hizkuntzak"
+msgstr "Erdialdeko Amerikako jatorrizko hizkuntzak"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr ""
+msgstr "Kariba"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -355,17 +355,19 @@ msgstr "choctaw"
 
 #. Name for chp
 msgid "Chipewyan; Dene Suline"
-msgstr ""
+msgstr "chipewyanera; dene suline"
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "Txeroki"
+msgstr "txeroki"
 
 #. Name for chu
 msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
 msgstr ""
+"Elizako eslaviar hizkuntza, Eliza Ortodoxoak zerabilen eslaviar hizkuntza, "
+"bulgariera zaharra, Elizako hizkuntza eslaviar zaharra"
 
 #. Name for chv
 msgid "Chuvash"
@@ -378,6 +380,10 @@ msgstr "cheyennera"
 #. Name for cmc
 msgid "Chamic languages"
 msgstr "Chamic hizkuntzak"
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr "montenegroera"
 
 #. Name for cop
 msgid "Coptic"
@@ -445,15 +451,15 @@ msgstr "Dayak hizkuntzak"
 
 #. Name for del
 msgid "Delaware"
-msgstr ""
+msgstr "delaware, lenape, leni"
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr "Slave (Athapascan)"
+msgstr "slavey (athapascan)"
 
 #. Name for deu
 msgid "German"
-msgstr "Alemana"
+msgstr "alemana"
 
 #. Name for dgr
 msgid "Dogrib"
@@ -461,7 +467,7 @@ msgstr "dogribera"
 
 #. Name for din
 msgid "Dinka"
-msgstr ""
+msgstr "Dinka"
 
 #. Name for div
 msgid "Divehi; Dhivehi; Maldivian"
@@ -513,7 +519,7 @@ msgstr "Greko modernoa (1453tik aurrera)"
 
 #. Name for elx
 msgid "Elamite"
-msgstr ""
+msgstr "elamita"
 
 #. Name for eng
 msgid "English"
@@ -545,7 +551,7 @@ msgstr "ewondera"
 
 #. Name for fan
 msgid "Fang"
-msgstr ""
+msgstr "fangera"
 
 #. Name for fao
 msgid "Faroese"
@@ -556,8 +562,9 @@ msgid "Persian"
 msgstr "Persiera"
 
 #. Name for fat
+#, fuzzy
 msgid "Fanti"
-msgstr ""
+msgstr "fantera"
 
 #. Name for fij
 msgid "Fijian"
@@ -616,12 +623,14 @@ msgid "Ga"
 msgstr "ga"
 
 #. Name for gay
+#, fuzzy
 msgid "Gayo"
-msgstr ""
+msgstr "gayoera"
 
 #. Name for gba
+#, fuzzy
 msgid "Gbaya"
-msgstr ""
+msgstr "gbaya hizkuntzak"
 
 #. Name for gem
 msgid "Germanic languages"
@@ -661,7 +670,7 @@ msgstr "Erdi Aro baxuko alemana (750-1050 inguru)"
 
 #. Name for gon
 msgid "Gondi"
-msgstr ""
+msgstr "gondera"
 
 #. Name for gor
 msgid "Gorontalo"
@@ -673,7 +682,7 @@ msgstr "Gotikoa"
 
 #. Name for grb
 msgid "Grebo"
-msgstr ""
+msgstr "greboera"
 
 #. Name for grc
 msgid "Greek, Ancient (to 1453)"
@@ -725,7 +734,7 @@ msgstr "hiligainona"
 
 #. Name for him
 msgid "Himachali languages; Western Pahari languages"
-msgstr ""
+msgstr "Himachal Pradesheko hizkuntzak, mendebaldeko pahari"
 
 #. Name for hin
 msgid "Hindi"
@@ -777,7 +786,7 @@ msgstr "Ido"
 
 #. Name for iii
 msgid "Sichuan Yi; Nuosu"
-msgstr ""
+msgstr "nuoso, Sichuan Yi"
 
 #. Name for ijo
 msgid "Ijo languages"
@@ -897,7 +906,7 @@ msgstr "Kanuri"
 
 #. Name for kaw
 msgid "Kawi"
-msgstr ""
+msgstr "kawi"
 
 #. Name for kaz
 msgid "Kazakh"
@@ -1121,7 +1130,7 @@ msgstr "mokxera"
 
 #. Name for mdr
 msgid "Mandar"
-msgstr ""
+msgstr "mandarera"
 
 #. Name for men
 msgid "Mende"
@@ -1209,7 +1218,7 @@ msgstr "mirandera"
 
 #. Name for mwr
 msgid "Marwari"
-msgstr ""
+msgstr "marwariera"
 
 #. Name for mya
 msgid "Burmese"
@@ -1290,7 +1299,7 @@ msgstr "Norvegiera (Nynorsk)"
 
 #. Name for nob
 msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+msgstr "bokmål, Norvegiako bokmål, norvegiera estandarra"
 
 #. Name for nog
 msgid "Nogai"
@@ -1298,7 +1307,7 @@ msgstr "nogaiera"
 
 #. Name for non
 msgid "Norse, Old"
-msgstr ""
+msgstr "antzinako eskandinaviera"
 
 #. Name for nor
 msgid "Norwegian"
@@ -1707,7 +1716,7 @@ msgstr "Tahitiera"
 
 #. Name for tai
 msgid "Tai languages"
-msgstr ""
+msgstr "tai hizkuntzak"
 
 #. Name for tam
 msgid "Tamil"
@@ -1755,7 +1764,7 @@ msgstr "Tigrinyera"
 
 #. Name for tiv
 msgid "Tiv"
-msgstr ""
+msgstr "tivera"
 
 #. Name for tkl
 msgid "Tokelau"
@@ -1787,7 +1796,7 @@ msgstr "tok pisina"
 
 #. Name for tsi
 msgid "Tsimshian"
-msgstr ""
+msgstr "tsimshianera"
 
 #. Name for tsn
 msgid "Tswana"
@@ -1879,7 +1888,7 @@ msgstr "Volapük-a"
 
 #. Name for vot
 msgid "Votic"
-msgstr ""
+msgstr "votera"
 
 #. Name for wak
 msgid "Wakashan languages"
@@ -1919,11 +1928,11 @@ msgstr "Xhosa"
 
 #. Name for yao
 msgid "Yao"
-msgstr ""
+msgstr "yaoera"
 
 #. Name for yap
 msgid "Yapese"
-msgstr ""
+msgstr "yapera"
 
 #. Name for yid
 msgid "Yiddish"
@@ -1939,15 +1948,15 @@ msgstr "Yupik hizkuntzak"
 
 #. Name for zap
 msgid "Zapotec"
-msgstr ""
+msgstr "zapotekera"
 
 #. Name for zbl
 msgid "Blissymbols; Blissymbolics; Bliss"
-msgstr ""
+msgstr "Bliss sinboloak, Bliss ideogramak"
 
 #. Name for zen
 msgid "Zenaga"
-msgstr ""
+msgstr "zenaga"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
@@ -1955,7 +1964,7 @@ msgstr "amazigera estandarra"
 
 #. Name for zha
 msgid "Zhuang; Chuang"
-msgstr ""
+msgstr "zhuangera"
 
 #. Name for zho
 msgid "Chinese"

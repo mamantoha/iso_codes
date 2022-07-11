@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Elian Myftiu <elian.myftiu@gmail.com>, 2004, 2006.
 # Besnik Bleta <besnik@programeshqip.org>, 2020.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2020-04-26 14:35+0000\n"
-"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"PO-Revision-Date: 2022-06-01 12:03+0000\n"
+"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sq/>\n"
 "Language: sq\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.2-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1267,7 +1268,7 @@ msgstr "Republika e Paraguait"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr "Palestinë, Shteti i "
+msgstr "Palestinë, Shteti i"
 
 #. Official name for PSE
 msgid "the State of Palestine"

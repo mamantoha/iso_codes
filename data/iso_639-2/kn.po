@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
 "PO-Revision-Date: 2009-07-27 14:37+0530\n"
 "Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
 "Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
@@ -373,6 +373,10 @@ msgstr "ಶೆಯೇನ್"
 #. Name for cmc
 msgid "Chamic languages"
 msgstr "ಚಾಮಿಕ್ ಭಾಷೆಗಳು"
+
+#. Name for cnr
+msgid "Montenegrin"
+msgstr ""
 
 #. Name for cop
 msgid "Coptic"
