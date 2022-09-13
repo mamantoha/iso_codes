@@ -9,7 +9,7 @@
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Reinout van Schouwen <reinouts@gnome.org>, 2007.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2010, 2012-2013, 2017.
-# Pander <pander@users.sourceforge.net>, 2018, 2020.
+# Pander <pander@users.sourceforge.net>, 2018, 2020, 2022.
 # Nathan Follens <nthn@unseen.is>, 2019.
 msgid ""
 msgstr ""
@@ -17,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-03-04 13:32+0000\n"
+"PO-Revision-Date: 2022-07-18 07:40+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/nl/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -51,7 +51,7 @@ msgstr "Adangme"
 
 #. Name for ady
 msgid "Adyghe; Adygei"
-msgstr "Adyghe, Circassisch"
+msgstr "Adygees; West-Circassisch"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
@@ -91,7 +91,7 @@ msgstr "Zuid-Altai"
 
 #. Name for amh
 msgid "Amharic"
-msgstr "Amhaars, Amharisch"
+msgstr "Amhaars"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
@@ -136,7 +136,7 @@ msgstr "Arawak"
 
 #. Name for asm
 msgid "Assamese"
-msgstr "Assamees, Assami"
+msgstr "Assamees"
 
 #. Name for ast
 msgid "Asturian; Bable; Leonese; Asturleonese"
@@ -152,7 +152,7 @@ msgstr "Australische talen"
 
 #. Name for ava
 msgid "Avaric"
-msgstr "Avaars, Awari"
+msgstr "Avaars"
 
 #. Name for ave
 msgid "Avestan"
@@ -180,11 +180,11 @@ msgstr "Bamileek-talen"
 
 #. Name for bak
 msgid "Bashkir"
-msgstr "Basjkiers, Basjkirisch"
+msgstr "Basjkiers"
 
 #. Name for bal
 msgid "Baluchi"
-msgstr "Balutsji, Baluchi"
+msgstr "Beloetsji"
 
 #. Name for bam
 msgid "Bambara"
@@ -204,11 +204,11 @@ msgstr "Baltische talen"
 
 #. Name for bej
 msgid "Beja; Bedawiyet"
-msgstr "Bejaans; Bedawiaans"
+msgstr "Bedzja"
 
 #. Name for bel
 msgid "Belarusian"
-msgstr "Wit-Russisch, Belarussisch"
+msgstr "Wit-Russisch; Belarussisch"
 
 #. Name for bem
 msgid "Bemba"
@@ -252,7 +252,7 @@ msgstr "Siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr "Bantu (Overige)"
+msgstr "Bantu (overige)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -268,15 +268,15 @@ msgstr "Braj"
 
 #. Name for bre
 msgid "Breton"
-msgstr "Bretons, Bretoens"
+msgstr "Bretons"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr "Batak-talen"
+msgstr "Bataktalen"
 
 #. Name for bua
 msgid "Buriat"
-msgstr "Boeriaats"
+msgstr "Boerjatisch"
 
 #. Name for bug
 msgid "Buginese"
@@ -366,7 +366,7 @@ msgstr "Cherokee"
 msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
-msgstr "Kerkslavisch; Oud-Slavisch; Oud-Bulgaars; Oud-Kerkslavisch"
+msgstr "Kerkslavisch; OudSlavisch; OudBulgaars; Oudkerkslavisch"
 
 #. Name for chv
 msgid "Chuvash"
@@ -382,7 +382,7 @@ msgstr "Chamische talen"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegrijns"
 
 #. Name for cop
 msgid "Coptic"
@@ -398,15 +398,15 @@ msgstr "Corsicaans"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English based"
-msgstr "Creools en pidgins, Op het Engels gebaseerd"
+msgstr "Creools en pidgins, op het Engels gebaseerd"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French-based"
-msgstr "Creools en pidgins, Op het Frans gebaseerd"
+msgstr "Creools en pidgins, op het Frans gebaseerd"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "Creools en pidgins, Op het Portugees gebaseerd"
+msgstr "Creools en pidgins, op het Portugees gebaseerd"
 
 #. Name for cre
 msgid "Cree"
@@ -490,7 +490,7 @@ msgstr "Duala"
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Middelnederlands (ca. 1050-1350)"
+msgstr "Nederlands, Middel (ca. 1050-1350)"
 
 #. Name for dyu
 msgid "Dyula"
@@ -590,11 +590,11 @@ msgstr "Frans"
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "Middelfrans (ca. 1400-1600)"
+msgstr "Frans, Middel (ca. 1400-1600)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Oudfrans (842-ca. 1400)"
+msgstr "Frans, Oud (842-ca. 1400)"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -658,11 +658,11 @@ msgstr "Manx"
 
 #. Name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "Middelhoogduits (ca. 1050-1500)"
+msgstr "Duits, Middelhoog (ca. 1050-1500)"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Oudhoogduits (ca. 750-1050)"
+msgstr "Duits, Oudhoog (ca. 750-1050)"
 
 #. Name for gon
 msgid "Gondi"
@@ -690,7 +690,7 @@ msgstr "Paraguaanse guarani"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
-msgstr "Zwitserduits; Alemannisch; Elzassisch"
+msgstr "Zwitserduits, Alemannisch en Elzassisch"
 
 #. Name for guj
 msgid "Gujarati"
@@ -1262,7 +1262,7 @@ msgstr "Ndonga"
 
 #. Name for nds
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr "Nederduits; Nedersaksisch; Duits, Neder-; Saksisch, Neder-"
+msgstr "Nederduits en Nedersaksisch; Duits, Neder en Saksisch, Neder"
 
 #. Name for nep
 msgid "Nepali"
@@ -1462,7 +1462,7 @@ msgstr "Rapanui"
 
 #. Name for rar
 msgid "Rarotongan; Cook Islands Maori"
-msgstr "Rarotongan; Cook Island Maori"
+msgstr "Rarotongan; Cookeilandmaori"
 
 #. Name for roa
 msgid "Romance languages"
@@ -1478,7 +1478,7 @@ msgstr "Roma"
 
 #. Name for ron
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Roemeens; Moldavisch"
+msgstr "Roemeens en Moldavisch"
 
 #. Name for run
 msgid "Rundi"
@@ -1486,7 +1486,7 @@ msgstr "Rundi"
 
 #. Name for rup
 msgid "Aromanian; Arumanian; Macedo-Romanian"
-msgstr "Aroemeens; Macedo-Roemeens"
+msgstr "Aroemeens en Macedo-Roemeens"
 
 #. Name for rus
 msgid "Russian"
@@ -1946,7 +1946,7 @@ msgstr "Zapotec"
 
 #. Name for zbl
 msgid "Blissymbols; Blissymbolics; Bliss"
-msgstr "Bliss-symbolen; Bliss symbolisme; Bliss"
+msgstr "Blisssymbolen; Blisssymboliek; Bliss"
 
 #. Name for zen
 msgid "Zenaga"

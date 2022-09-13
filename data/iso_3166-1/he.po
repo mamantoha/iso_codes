@@ -10,16 +10,16 @@
 # Meital Bourvine <meitalbourvine@gmail.com>, 2007.
 # Lior Kaplan <kaplan@debian.org>, 2005-2008, 2010-2012, 2015.
 # jeremy rutman <jeremy.rutman@gmail.com>, 2019.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021, 2022.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2021-09-08 22:33+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"PO-Revision-Date: 2022-09-04 00:24+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/he/>\n"
 "Language: he\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1547,11 +1547,11 @@ msgid "Republic of Tunisia"
 msgstr "הרפובליקה של טוניסיה"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "טורקיה"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "הרפובליקה של טורקיה"
 
 #. Name for TUV

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"POT-Creation-Date: 2022-09-01 22:53+0200\n"
 "PO-Revision-Date: 2010-04-05 17:41+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -1564,11 +1564,13 @@ msgid "Republic of Tunisia"
 msgstr "টিউনিছিয়া প্ৰজাতন্ত্ৰ"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "তুৰস্ক"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "তুৰস্ক প্ৰজাতন্ত্ৰ"
 
 #. Name for TUV

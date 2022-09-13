@@ -20,14 +20,15 @@
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2006, 2008-2009, 2011, 2013, 2016.
 # J. Lavoie <j.lavoie@net-c.ca>, 2020.
+# Nathan Schimmoller <nschimmo@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"PO-Revision-Date: 2022-08-05 14:21+0000\n"
+"Last-Translator: Nathan Schimmoller <nschimmo@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/de/>\n"
 "Language: de\n"
@@ -35,7 +36,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -392,7 +393,7 @@ msgstr "Cham-Sprachen"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegrinisch"
 
 #. Name for cop
 msgid "Coptic"

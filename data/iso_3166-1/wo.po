@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wo\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"POT-Creation-Date: 2022-09-01 22:53+0200\n"
 "PO-Revision-Date: 2018-01-02 16:34+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Wolof <https://hosted.weblate.org/projects/iso-codes/"
@@ -1567,11 +1567,13 @@ msgid "Republic of Tunisia"
 msgstr "Republik bu Tiniisi"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turki"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republik bu Turki"
 
 #. Name for TUV

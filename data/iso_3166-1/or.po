@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"POT-Creation-Date: 2022-09-01 22:53+0200\n"
 "PO-Revision-Date: 2019-09-07 05:25+0000\n"
 "Last-Translator: Pro Neon <proneon267@gmail.com>\n"
 "Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/"
@@ -1545,11 +1545,13 @@ msgid "Republic of Tunisia"
 msgstr "ଟ୍ଯୁନୀଶିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "ତୁର୍କୀ"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "ତୁର୍କୀ ଗଣତନ୍ତ୍ର"
 
 #. Name for TUV
