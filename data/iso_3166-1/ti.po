@@ -9,14 +9,15 @@
 # Joan Piñero <joanpinero71@gmail.com>, 2020.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2020.
 # ds4647318 ds4647318 <ds4647318@gmail.com>, 2022.
+# Mubarek Seyd Juhar <mubareksd@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-01-01 07:54+0000\n"
-"Last-Translator: ds4647318 ds4647318 <ds4647318@gmail.com>\n"
+"PO-Revision-Date: 2022-10-02 13:19+0000\n"
+"Last-Translator: Mubarek Seyd Juhar <mubareksd@gmail.com>\n"
 "Language-Team: Tigrinya <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ti/>\n"
 "Language: ti\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -36,7 +37,7 @@ msgstr "ኣፍጋኒስታን"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr ""
+msgstr "እስላማዊ ሪፓብሊክ ኣፍጋኒስታን"
 
 #. Name for AGO
 msgid "Angola"
@@ -48,19 +49,19 @@ msgstr "ሪፓብሊክ ኣንጎላ"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr ""
+msgstr "አንጉኢላ"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr ""
+msgstr "አላንድ ደሴታት"
 
 #. Name for ALB
 msgid "Albania"
-msgstr "አልባኒያ"
+msgstr "ኣልባንያ"
 
 #. Official name for ALB
 msgid "Republic of Albania"
-msgstr ""
+msgstr "ሪፓብሊክ አልባኒያ"
 
 #. Name for AND
 msgid "Andorra"
@@ -68,11 +69,11 @@ msgstr "አንዶራ"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr ""
+msgstr "ስርዓት ኣንድራ"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "የተባበሩት አረብ ኤምሬትስ"
+msgstr "ሕቡራት ኢማራት ዓረብ"
 
 #. Name for ARG
 msgid "Argentina"

@@ -8,7 +8,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010-2013.
 # Viktar Siarheichyk <vics@fsfe.org>, 2015.
-# Viktar Vauchkevich <victorenator@gmail.com>, 2019, 2020.
+# Viktar Vauchkevich <victorenator@gmail.com>, 2019, 2020, 2022.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2020.
 msgid ""
@@ -17,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2020-09-24 20:41+0000\n"
+"PO-Revision-Date: 2022-10-17 00:54+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/be/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -830,10 +830,8 @@ msgid "Korea, Republic of"
 msgstr "Карэя, Рэспубліка"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Паўднёва-Афрыканская Рэспубліка"
+msgstr "Паўднёвая Карэя"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1248,10 +1246,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Карэйская Народна-Дэмакратычная Рэспубліка"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Паўночная Македонія"
+msgstr "Паўночная Карэя"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1551,13 +1547,11 @@ msgstr "Рэспубліка Туніс"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Турцыя"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
-msgstr "Рэспубліка Турцыя"
+msgstr "Турэцкая Рэспубліка"
 
 #. Name for TUV
 msgid "Tuvalu"

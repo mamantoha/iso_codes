@@ -7,14 +7,15 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Mətin Əmirov <metin@karegen.com>, 2004.
+# Ata Ali Kilicli <ataali@kilic.li>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2022-11-09 13:47+0000\n"
+"Last-Translator: Ata Ali Kilicli <ataali@kilic.li>\n"
 "Language-Team: Azerbaijani <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/az/>\n"
 "Language: az\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -33,18 +34,16 @@ msgid "Afghanistan"
 msgstr "Əfqanıstan"
 
 #. Official name for AFG
-#, fuzzy
 msgid "Islamic Republic of Afghanistan"
-msgstr "Koreya, Respublika"
+msgstr "Əfqanıstan İslam Respublikası"
 
 #. Name for AGO
 msgid "Angola"
 msgstr "Anqola"
 
 #. Official name for AGO
-#, fuzzy
 msgid "Republic of Angola"
-msgstr "Respublika Anqola"
+msgstr "Anqola Respublikası"
 
 #. Name for AIA
 msgid "Anguilla"
@@ -236,7 +235,7 @@ msgstr "Bermuda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "Boliviya Çoxmillətli Dövləti"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
@@ -375,7 +374,7 @@ msgstr "Komor"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr ""
+msgstr "Qəmər Adaları İttifaqı"
 
 #. Name for CPV
 #, fuzzy
@@ -998,7 +997,7 @@ msgstr "Lüksemburq"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr ""
+msgstr "Lüksemburq Böyük Hersoqluğu"
 
 #. Name for LVA
 msgid "Latvia"
@@ -1718,12 +1717,11 @@ msgstr "Tunis"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Türkiyə"
 
 #. Official name for TUR
-#, fuzzy
 msgid "Republic of Türkiye"
-msgstr "Türkiyə"
+msgstr "Türkiyə Respublikası"
 
 #. Name for TUV
 msgid "Tuvalu"
