@@ -15,14 +15,14 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2015-04-02 10:54+0500\n"
+"PO-Revision-Date: 2022-12-04 17:11+0600\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.4\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -349,14 +349,10 @@ msgid "Union of the Comoros"
 msgstr "Комор Бірлестігі"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Кабо-Верде"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Кабо-Верде Республикасы"
 
@@ -398,7 +394,7 @@ msgstr "Кипр Республикасы"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Чехия"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -470,7 +466,7 @@ msgstr "Эритрея"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "Эритрея"
+msgstr "Эритрея мемлекеті"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -593,10 +589,8 @@ msgid "Gambia"
 msgstr "Гамбия"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Замбия Республикасы"
+msgstr "Гамбия Республикасы"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -831,10 +825,8 @@ msgid "Korea, Republic of"
 msgstr "Корея Республикасы"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Оңтүстік Африка"
+msgstr "Оңтүстік Корея"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -993,16 +985,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Маршалл Аралдары Республикасы"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Жаңа Каледония"
+msgstr "Солтүстік Македония"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Литва Республикасы"
+msgstr "Солтүстік Македония Республикасы"
 
 #. Name for MLI
 msgid "Mali"
@@ -1253,10 +1241,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Корей Халық Демократиялық Республикасы"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Жаңа Каледония"
+msgstr "Солтүстік Корея"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1280,7 +1266,7 @@ msgstr "Палестина мемлекеті"
 
 #. Official name for PSE
 msgid "the State of Palestine"
-msgstr "Палестина"
+msgstr "Палестина мемлекеті"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1456,13 +1442,11 @@ msgstr "Швеция Патшалығы"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Эсватини"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Испания Патшалығы"
+msgstr "Эсватини патшалығы"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1558,11 +1542,9 @@ msgstr "Тунис Республикасы"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Түркия"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Түркия Республикасы"
 
@@ -1588,7 +1570,7 @@ msgstr "Танзания Біріккен Республикасы"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Танзания"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1675,8 +1657,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Вьетнам Социалистік Республикасы"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Вьетнам"
 

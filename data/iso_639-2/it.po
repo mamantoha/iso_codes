@@ -8,15 +8,16 @@
 # Alessio Frusciante <algol@firenze.linux.it>, 2001.
 # Marcello Raffa <mrooth@tiscalinet.it>, 2001.
 # Milo Casagrande <milo@casagrande.name>, 2008-2010, 2012-2013, 2017.
-# Fabio Tomat <f.t.public@gmail.com>, 2020.
+# Fabio Tomat <f.t.public@gmail.com>, 2020, 2022.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-12-07 11:50+0000\n"
-"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
+"PO-Revision-Date: 2022-12-10 18:48+0000\n"
+"Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/it/>\n"
 "Language: it\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -329,7 +330,7 @@ msgstr "Chibcha"
 
 #. Name for che
 msgid "Chechen"
-msgstr "Chechen"
+msgstr "Ceceno"
 
 #. Name for chg
 msgid "Chagatai"
@@ -364,7 +365,7 @@ msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
 msgstr ""
-"Slavo ecclesiasito; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico"
+"Slavo ecclesiastico; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico"
 
 #. Name for chv
 msgid "Chuvash"
@@ -380,7 +381,7 @@ msgstr "Lingue chamic"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegrino"
 
 #. Name for cop
 msgid "Coptic"
@@ -476,7 +477,7 @@ msgstr "Dogri"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr "Lingue dravidiane"
+msgstr "Lingue dravidiche"
 
 #. Name for dsb
 msgid "Lower Sorbian"
@@ -576,7 +577,7 @@ msgstr "Finlandese"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr "Lingue finno-ungrian"
+msgstr "Lingue ugrofinniche"
 
 #. Name for fon
 msgid "Fon"
@@ -804,7 +805,7 @@ msgstr "Interlingua (International Auxiliary Language Association)"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr "Lingue indic"
+msgstr "Lingue indoarie"
 
 #. Name for ind
 msgid "Indonesian"
@@ -812,11 +813,11 @@ msgstr "Indonesiano"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr "Lingue indo-europee"
+msgstr "Lingue indoeuropee"
 
 #. Name for inh
 msgid "Ingush"
-msgstr "Ingush"
+msgstr "Inguscio"
 
 #. Name for ipk
 msgid "Inupiaq"
@@ -824,7 +825,7 @@ msgstr "Inupiaq"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr "Lingue iraniane"
+msgstr "Lingue iraniche"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -840,7 +841,7 @@ msgstr "Italiano"
 
 #. Name for jav
 msgid "Javanese"
-msgstr "Javanese"
+msgstr "Giavanese"
 
 #. Name for jbo
 msgid "Lojban"
@@ -972,7 +973,7 @@ msgstr "Karachay-Balkar"
 
 #. Name for krl
 msgid "Karelian"
-msgstr "Karelian"
+msgstr "Careliano"
 
 #. Name for kro
 msgid "Kru languages"
@@ -1028,7 +1029,7 @@ msgstr "Lezghian"
 
 #. Name for lim
 msgid "Limburgan; Limburger; Limburgish"
-msgstr "Limburgan"
+msgstr "Limburghese"
 
 #. Name for lin
 msgid "Lingala"
@@ -1108,7 +1109,7 @@ msgstr "Mandingo"
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr "Lingue austro-indonesiane"
+msgstr "Lingue austronesiane"
 
 #. Name for mar
 msgid "Marathi"
@@ -1192,7 +1193,7 @@ msgstr "Maori"
 
 #. Name for msa
 msgid "Malay"
-msgstr "Malay"
+msgstr "Malese"
 
 #. Name for mul
 msgid "Multiple languages"
@@ -1216,7 +1217,7 @@ msgstr "Marwari"
 
 #. Name for mya
 msgid "Burmese"
-msgstr "Burmese"
+msgstr "Birmano"
 
 #. Name for myn
 msgid "Mayan languages"
@@ -1228,7 +1229,7 @@ msgstr "Erzya"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr "Lingue salish"
+msgstr "Lingue nahuatl"
 
 #. Name for nai
 msgid "North American Indian languages"
@@ -1260,7 +1261,7 @@ msgstr "Ndonga"
 
 #. Name for nds
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr "Tedesco inferiore; Sassone inferiore"
+msgstr "Basso tedesco; Basso sassone"
 
 #. Name for nep
 msgid "Nepali"
@@ -1276,11 +1277,11 @@ msgstr "Nias"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr "Lingue niger-kordofanian"
+msgstr "Lingue niger-kordofaniane"
 
 #. Name for niu
 msgid "Niuean"
-msgstr "Niuean"
+msgstr "Niueano, niveano"
 
 #. Name for nld
 msgid "Dutch; Flemish"
@@ -1300,7 +1301,7 @@ msgstr "Nogai"
 
 #. Name for non
 msgid "Norse, Old"
-msgstr "Norse antico"
+msgstr "Norreno antico"
 
 #. Name for nor
 msgid "Norwegian"
@@ -1320,7 +1321,7 @@ msgstr "Lingue nubiane"
 
 #. Name for nwc
 msgid "Classical Newari; Old Newari; Classical Nepal Bhasa"
-msgstr "Newari calssico; Newsari antico; Nepal Bhasa classico"
+msgstr "Newari classico; Newari antico; Nepal Bhasa classico"
 
 #. Name for nya
 msgid "Chichewa; Chewa; Nyanja"
@@ -1372,11 +1373,11 @@ msgstr "Turco ottomano (1500-1928)"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr "Lingue ottomanne"
+msgstr "Lingue otomí"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Lungue papuane"
+msgstr "Lingue papuasiche"
 
 #. Name for pag
 msgid "Pangasinan"
@@ -1392,7 +1393,7 @@ msgstr "Pampanga; Kapampangan"
 
 #. Name for pan
 msgid "Panjabi; Punjabi"
-msgstr "Panjabi; Punjabi"
+msgstr "Pangiabi; Punjabi"
 
 #. Name for pap
 msgid "Papiamento"
@@ -1440,7 +1441,7 @@ msgstr "Provenzale antico (fino al 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
-msgstr "Pasthu; Afgano"
+msgstr "Pashtu; Afgano"
 
 #. Name for qaa-qtz
 msgid "Reserved for local use"
@@ -1460,7 +1461,7 @@ msgstr "Rapanui"
 
 #. Name for rar
 msgid "Rarotongan; Cook Islands Maori"
-msgstr "Rarotongan; Maori dell'Isola di Cook"
+msgstr "Rarotongan; Māori delle isole Cook"
 
 #. Name for roa
 msgid "Romance languages"
@@ -1468,11 +1469,11 @@ msgstr "Lingue romanze"
 
 #. Name for roh
 msgid "Romansh"
-msgstr "Romansh"
+msgstr "Romancio"
 
 #. Name for rom
 msgid "Romany"
-msgstr "Romany"
+msgstr "Romaní"
 
 #. Name for ron
 msgid "Romanian; Moldavian; Moldovan"
@@ -1484,7 +1485,7 @@ msgstr "Rundi"
 
 #. Name for rup
 msgid "Aromanian; Arumanian; Macedo-Romanian"
-msgstr "Macedone-Romeno"
+msgstr "Arumeno; Aromeno; Macedorumeno"
 
 #. Name for rus
 msgid "Russian"

@@ -12,14 +12,15 @@
 # Kalman Kemenczy <kkemenczy@gmail.com>, 2007-2008, 2010-2013.
 # Balázs Úr <urbalazs@gmail.com>, 2015.
 # Babos Gábor <gabor.babos@gmail.com>, 2019.
+# Balázs Meskó <meskobalazs@mailbox.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2019-07-15 14:02+0000\n"
-"Last-Translator: Babos Gábor <gabor.babos@gmail.com>\n"
+"PO-Revision-Date: 2023-02-13 21:36+0000\n"
+"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hu/>\n"
 "Language: hu\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
 
@@ -832,10 +833,8 @@ msgid "Korea, Republic of"
 msgstr "Koreai Köztársaság"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Dél-Afrika"
+msgstr "Dél-Korea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1250,10 +1249,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Koreai Népi Demokratikus Köztársaság"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Észak-Macedónia"
+msgstr "Észak-Korea"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1553,11 +1550,9 @@ msgstr "Tunéziai Köztársaság"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Törökország"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Török Köztársaság"
 

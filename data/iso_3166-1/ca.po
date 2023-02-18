@@ -19,7 +19,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-06-21 08:20+0000\n"
+"PO-Revision-Date: 2022-12-24 22:57+0100\n"
 "Last-Translator: Sergi Almacellas Abellana <sergi@koolpi.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ca/>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -472,7 +472,7 @@ msgstr "Eritrea"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "Estat d'eritrea"
+msgstr "Estat d'Eritrea"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -1450,13 +1450,11 @@ msgstr "Regne de Suècia"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Regne d'Espanya"
+msgstr "Regne d'Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1552,11 +1550,9 @@ msgstr "República de Tunísia"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turquia"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "República de Turquia"
 

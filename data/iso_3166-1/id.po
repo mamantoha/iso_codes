@@ -7,7 +7,7 @@
 # Copyright ©
 # Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>, 2004-2006.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2016.
-# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020, 2021.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020, 2021, 2022.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2021-08-25 10:47+0000\n"
+"PO-Revision-Date: 2022-12-10 18:48+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/id/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -1545,11 +1545,9 @@ msgstr "Republik Tunisia"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turki"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Republik Turki"
 
@@ -1647,7 +1645,7 @@ msgstr "Kepulauan Virgin Britania Raya"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Kepulauan Virgin Amerika Serikat"
+msgstr "Kepulauan Virgin, A.S."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

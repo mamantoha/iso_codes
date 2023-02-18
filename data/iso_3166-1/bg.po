@@ -10,14 +10,16 @@
 # Ognyan Kulev <ogi@fmi.uni-sofia.bg>, 2004.
 # Damyan Ivanov <dmn@debian.org>, 2006-2012, 2014, 2016.
 # Georgi Georgiev <g.georgiev.shumen@gmail.com>, 2022.
+# Дамян Иванов <dmn@debian.org>, 2022.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-05-28 22:18+0000\n"
-"Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
+"PO-Revision-Date: 2022-12-10 18:48+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/bg/>\n"
 "Language: bg\n"
@@ -25,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -53,7 +55,7 @@ msgstr "Ангила"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr "Аландски острови"
+msgstr "Оландски острови"
 
 #. Name for ALB
 msgid "Albania"
@@ -217,7 +219,7 @@ msgstr "Белиз"
 
 #. Name for BMU
 msgid "Bermuda"
-msgstr "Бермуда"
+msgstr "Бермудски острови"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
@@ -261,7 +263,7 @@ msgstr "Остров Буве"
 
 #. Name for BWA
 msgid "Botswana"
-msgstr "Ботсуана"
+msgstr "Ботсвана"
 
 #. Official name for BWA
 msgid "Republic of Botswana"
@@ -301,7 +303,7 @@ msgstr "Китай"
 
 #. Official name for CHN
 msgid "People's Republic of China"
-msgstr "Народна република Китай"
+msgstr "Китайска народна република"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"
@@ -345,7 +347,7 @@ msgstr "Република Колумбия"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "Комори"
+msgstr "Коморски острови"
 
 #. Official name for COM
 msgid "Union of the Comoros"
@@ -529,7 +531,7 @@ msgstr "Френска република"
 
 #. Name for FRO
 msgid "Faroe Islands"
-msgstr "Острови Фаро"
+msgstr "Фарьорски острови"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
@@ -561,7 +563,7 @@ msgstr "Грузия"
 
 #. Name for GGY
 msgid "Guernsey"
-msgstr "Гърнсей"
+msgstr "Гърнси"
 
 #. Name for GHA
 msgid "Ghana"
@@ -645,7 +647,7 @@ msgstr "Гуам"
 
 #. Name for GUY
 msgid "Guyana"
-msgstr "Гияна"
+msgstr "Гвиана"
 
 #. Official name for GUY
 msgid "Republic of Guyana"
@@ -653,7 +655,7 @@ msgstr "Република Гияна"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Хонг Конг"
+msgstr "Хонконг"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -713,7 +715,7 @@ msgstr "Република Индия"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "Английски територии в индийския океан"
+msgstr "Британска индоокеанска територия"
 
 #. Name for IRL
 msgid "Ireland"
@@ -821,7 +823,7 @@ msgstr "Република Кирибати"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Свети Китс и Невис"
+msgstr "Сейнт Китс и Невис"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -845,7 +847,7 @@ msgstr "Демократична република на народа на Ла�
 
 #. Name for LBN
 msgid "Lebanon"
-msgstr "Лебанон"
+msgstr "Ливан"
 
 #. Official name for LBN
 msgid "Lebanese Republic"
@@ -865,7 +867,7 @@ msgstr "Либия"
 
 #. Name for LCA
 msgid "Saint Lucia"
-msgstr "Санта Лучия"
+msgstr "Сейнт Лусия"
 
 #. Name for LIE
 msgid "Liechtenstein"
@@ -1013,7 +1015,7 @@ msgstr "Република Малта"
 
 #. Name for MMR
 msgid "Myanmar"
-msgstr "Мянмар"
+msgstr "Мианмар"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
@@ -1029,7 +1031,7 @@ msgstr "Монголия"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Северни марианови Острови"
+msgstr "Северни Мариански острови"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1125,11 +1127,11 @@ msgstr "Република Никарагуа"
 
 #. Name for NIU, Official name for NIU
 msgid "Niue"
-msgstr "Нию"
+msgstr "Ниуе"
 
 #. Name for NLD
 msgid "Netherlands"
-msgstr "Холандия"
+msgstr "Нидерландия"
 
 #. Official name for NLD
 msgid "Kingdom of the Netherlands"
@@ -1285,7 +1287,7 @@ msgstr "Катарска държава"
 
 #. Name for REU
 msgid "Réunion"
-msgstr "Риюниън"
+msgstr "Реюнион"
 
 #. Name for ROU
 msgid "Romania"
@@ -1361,7 +1363,7 @@ msgstr "Република Сиера Леоне"
 
 #. Name for SLV
 msgid "El Salvador"
-msgstr "Ел Салвадор"
+msgstr "Салвадор"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
@@ -1385,7 +1387,7 @@ msgstr "Федерална република Сомалия"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr "Свети Пиер и Микелон"
+msgstr "Сен Пиер и Микелон"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1469,7 +1471,7 @@ msgstr "Сирийска арабска република"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Острови Тюрк и Кайкос"
+msgstr "Търкс и Кайкос"
 
 #. Name for TCD
 msgid "Chad"
@@ -1545,11 +1547,9 @@ msgstr "Република Тунис"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Турция"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Република Турция"
 
@@ -1591,7 +1591,7 @@ msgstr "Украйна"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Обединени малки острови по крайбрежието на САЩ"
+msgstr "Малки далечни острови на САЩ"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1623,7 +1623,7 @@ msgstr "Ватикана"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "Свети Винсент и Гренадин"
+msgstr "Сейнт Винсент и Гренадини"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
@@ -1675,7 +1675,7 @@ msgstr "Република Вануату"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr "Острови Уолис и Футуна"
+msgstr "Уолис и Футуна"
 
 #. Name for WSM
 msgid "Samoa"

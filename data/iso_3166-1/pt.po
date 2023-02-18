@@ -13,14 +13,15 @@
 # Ayalos <reginaldoayalos0@gmail.com>, 2018.
 # Rui Mendes <xz9@protonmail.com>, 2019.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
+# Miguel Figueiredo <mfigueiredo@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2019-04-03 21:04+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2022-12-11 20:48+0000\n"
+"Last-Translator: Miguel Figueiredo <mfigueiredo@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pt/>\n"
 "Language: pt\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -831,10 +832,8 @@ msgid "Korea, Republic of"
 msgstr "Coreia, República da"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "África do Sul"
+msgstr "Coreia do Sul"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1249,10 +1248,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "República Popular Democrática da Coreia"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Macedónia do Norte"
+msgstr "Coreia do Norte"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1552,7 +1549,7 @@ msgstr "República da Tunísia"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turquia"
 
 #. Official name for TUR
 #, fuzzy

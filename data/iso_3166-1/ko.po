@@ -12,7 +12,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Jaegeum Choe <baedaron@hananet.net>, 2001.
 # Sunjae Park <darehanl@gmail.com>, 2006-2007.
-# Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015.
+# Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015, 2023.
 # Jun Hyung Shin <shmishmi79@gmail.com>, 2019.
 # Shinjo Park <peremen@gmail.com>, 2020.
 msgid ""
@@ -21,8 +21,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2020-04-26 14:35+0000\n"
-"Last-Translator: Shinjo Park <peremen@gmail.com>\n"
+"PO-Revision-Date: 2023-02-03 13:39+0000\n"
+"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ko/>\n"
 "Language: ko\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.0.2-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -833,10 +833,8 @@ msgid "Korea, Republic of"
 msgstr "대한민국"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "남아프리카 공화국"
+msgstr "대한민국"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1251,10 +1249,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "조선민주주의인민공화국"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "북마케도니아"
+msgstr "조선민주주의인민공화국"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1554,13 +1550,11 @@ msgstr "튀니지 공화국"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "튀르키예"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
-msgstr "터키 공화국"
+msgstr "튀르키예 공화국"
 
 #. Name for TUV
 msgid "Tuvalu"

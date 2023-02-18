@@ -10,23 +10,24 @@
 # Danilo Piazzalunga <danilopiazza@libero.it>, 2004.
 # Davide Viti <zinosat@tiscali.it>, 2006.
 # Milo Casagrande <milo@milo.name>, 2008-2013, 2017.
-# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2019.
+# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2022.
+# Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2020-05-05 17:25+0200\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2022-12-30 21:45+0100\n"
 "Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Bugs: Report translation errors to the Language-Team address.\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -166,7 +167,7 @@ msgstr "Bangladesh"
 
 #. Official name for BGD
 msgid "People's Republic of Bangladesh"
-msgstr "Repubblica popolare del Bangladesh"
+msgstr "Repubblica Popolare del Bangladesh"
 
 #. Name for BGR
 msgid "Bulgaria"
@@ -202,7 +203,7 @@ msgstr "Bosnia ed Erzegovina"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr "Saint Barts"
+msgstr "Saint-Barthélemy"
 
 #. Name for BLR
 msgid "Belarus"
@@ -841,10 +842,8 @@ msgid "Korea, Republic of"
 msgstr "Corea del sud"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Sudafrica"
+msgstr "Corea del Sud"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1266,10 +1265,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Repubblica democratica popolare di Corea"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Macedonia del Nord"
+msgstr "Corea del Nord"
 
 #. Name for PRT
 msgid "Portugal"

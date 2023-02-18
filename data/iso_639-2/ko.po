@@ -12,16 +12,17 @@
 # JeongHee Kang <Keizi@mail.co.kr>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Eungkyu Song <eungkyu@sparcs.org>, 2001.
-# Changwoo Ryu <cwryu@debian.org>, 2011, 2013.
+# Changwoo Ryu <cwryu@debian.org>, 2011, 2013, 2023.
 # Shinjo Park <peremen@gmail.com>, 2020.
+# 이정희 <daemul72@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2020-04-26 14:34+0000\n"
-"Last-Translator: Shinjo Park <peremen@gmail.com>\n"
+"PO-Revision-Date: 2023-02-13 21:36+0000\n"
+"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ko/>\n"
 "Language: ko\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.0.2-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -385,7 +386,7 @@ msgstr "참어"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "몬테네그로어"
 
 #. Name for cop
 msgid "Coptic"
@@ -1247,7 +1248,7 @@ msgstr "나폴리어"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "나우루"
+msgstr "나우루어"
 
 #. Name for nav
 msgid "Navajo; Navaho"
@@ -1299,7 +1300,7 @@ msgstr "뉘노리스크"
 
 #. Name for nob
 msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "보크몰"
+msgstr "노르웨이어"
 
 #. Name for nog
 msgid "Nogai"
@@ -1831,7 +1832,7 @@ msgstr "알타이어족"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "투발루"
+msgstr "투발루어"
 
 #. Name for twi
 msgid "Twi"

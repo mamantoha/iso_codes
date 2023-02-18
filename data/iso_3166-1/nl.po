@@ -18,7 +18,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-09-18 13:21+0000\n"
+"PO-Revision-Date: 2022-11-28 16:08+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/nl/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -908,7 +908,7 @@ msgstr "Luxemburg"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr "Groot-Hertogdom Luxemburg"
+msgstr "Groothertogdom Luxemburg"
 
 #. Name for LVA
 msgid "Latvia"
@@ -964,7 +964,7 @@ msgstr "Madagaskar"
 
 #. Official name for MDG
 msgid "Republic of Madagascar"
-msgstr "Republiek Madagascar"
+msgstr "Republiek Madagaskar"
 
 #. Name for MDV
 msgid "Maldives"
