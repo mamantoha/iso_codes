@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2010-04-05 17:41+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -730,6 +730,10 @@ msgstr "ইৰান, ইচ্‌লামিক প্ৰজাতন্ত্
 msgid "Islamic Republic of Iran"
 msgstr "ইচ্‌লামিক প্ৰজাতন্ত্ৰ ইৰান"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ইৰাক"
@@ -847,6 +851,10 @@ msgstr "কুৱেইট ৰাষ্ট্ৰ"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "গণপ্ৰজাতন্ত্ৰী লাও"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1486,6 +1494,10 @@ msgstr "ছেয়চেলছ প্ৰজাতন্ত্ৰ"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

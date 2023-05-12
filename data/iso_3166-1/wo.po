@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wo\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-01-02 16:34+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Wolof <https://hosted.weblate.org/projects/iso-codes/"
@@ -731,6 +731,10 @@ msgstr "Iraan, Republik Islaamik bu"
 msgid "Islamic Republic of Iran"
 msgstr "Republik Islaamik bu Iraan"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraak"
@@ -848,6 +852,10 @@ msgstr "Etaa bu Kuwet"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Republik Popileer Demokaraatik bu Laawos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1489,6 +1497,10 @@ msgstr "Republkc bu Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Republik Araab bu Siiri"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

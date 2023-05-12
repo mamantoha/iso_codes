@@ -16,8 +16,8 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2023-01-20 19:59+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-04-20 19:53+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pl/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15.1\n"
+"X-Generator: Weblate 4.18-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -440,7 +440,7 @@ msgstr "Królestwo Danii"
 
 #. Name for DOM
 msgid "Dominican Republic"
-msgstr "Dominikana"
+msgstr "Republika Dominikańska"
 
 #. Name for DZA
 msgid "Algeria"
@@ -725,11 +725,15 @@ msgstr "Irlandia"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr "Iran"
+msgstr "Iran, Islamska Republika"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "Islamska Republika Iranu"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -829,7 +833,7 @@ msgstr "Saint Kitts i Nevis"
 
 #. Name for KOR
 msgid "Korea, Republic of"
-msgstr "Korea Południowa"
+msgstr "Republika Korei"
 
 #. Common name for KOR
 msgid "South Korea"
@@ -845,6 +849,10 @@ msgstr "Państwo Kuwejt"
 
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
+msgstr "Laotańska Republika Ludowo-Demokratyczna"
+
+#. Common name for LAO
+msgid "Laos"
 msgstr "Laos"
 
 #. Name for LBN
@@ -1021,7 +1029,7 @@ msgstr "Mjanma"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
-msgstr "Związek Birmański"
+msgstr "Republika Związku Mjanmy"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1241,7 +1249,7 @@ msgstr "Portoryko"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr "Korea Północna"
+msgstr "Korea - Republika Ludowo-Demokratyczna"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
@@ -1471,6 +1479,10 @@ msgstr "Republika Seszeli"
 msgid "Syrian Arab Republic"
 msgstr "Syryjska Republika Arabska"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr "Syria"
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Turks i Caicos"
@@ -1623,7 +1635,7 @@ msgstr "Republika Uzbekistanu"
 
 #. Name for VAT
 msgid "Holy See (Vatican City State)"
-msgstr "Watykan"
+msgstr "Państwo Watykańskie (Stolica Apostolska)"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
@@ -1699,7 +1711,7 @@ msgstr "Republika Jemenu"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "Republika Południowej Afryki"
+msgstr "Południowa Afryka"
 
 #. Official name for ZAF
 msgid "Republic of South Africa"

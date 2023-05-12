@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2022-01-14 11:56+0000\n"
 "Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
 "Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/iso-"
@@ -732,6 +732,10 @@ msgstr "Îran, Komara Îslamî ya"
 msgid "Islamic Republic of Iran"
 msgstr "Komara Îslamî ya Îran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraq"
@@ -848,6 +852,10 @@ msgstr "Dewleta Kûveyt"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Komara Demokratîka Gelê Lao"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1485,6 +1493,10 @@ msgstr "Komara Seyşelan"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Sûriye"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

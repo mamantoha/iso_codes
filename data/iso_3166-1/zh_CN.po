@@ -10,7 +10,7 @@
 # Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004-2006.
 # YunQiang Su <wzssyqa@gmail.com>, 2011.
 # LI Daobing <lidaobing@gmail.com>, 2007-2011, 2013, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2023.
 # tao wang <tonywang5@163.com>, 2020.
 # Promesis Yuan <m3149154722@outlook.com>, 2022.
 msgid ""
@@ -18,17 +18,17 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-12-31 07:48+0000\n"
-"Last-Translator: Promesis Yuan <m3149154722@outlook.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"iso-codes/iso-3166-1/zh_Hans/>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-02-24 21:01+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.1-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -724,11 +724,15 @@ msgstr "爱尔兰"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr "伊朗"
+msgstr "伊朗伊斯兰共和国"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "伊朗伊斯兰共和国"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr "伊朗"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -845,6 +849,10 @@ msgstr "科威特国"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "老挝人民民主共和国"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "老挝"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1468,6 +1476,10 @@ msgstr "塞舌尔共和国"
 
 #. Name for SYR
 msgid "Syrian Arab Republic"
+msgstr "阿拉伯叙利亚共和国"
+
+#. Common name for SYR
+msgid "Syria"
 msgstr "叙利亚"
 
 #. Name for TCA
@@ -1548,11 +1560,9 @@ msgstr "突尼斯共和国"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr "土耳其的"
+msgstr "土耳其"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "土耳其共和国"
 

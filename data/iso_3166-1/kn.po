@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2007-05-03 14:19+0530\n"
 "Last-Translator: Vikram Vincent <vincentvikram@gmail.com>\n"
 "Language-Team: Kannada\n"
@@ -732,6 +732,10 @@ msgstr "ಇರಾನ್ ಇಸ್ಲಾಮಿಕ್ ಗಣರಾಜ್ಯ"
 msgid "Islamic Republic of Iran"
 msgstr "ಇರಾನ್ ಇಸ್ಲಾಮಿಕ್ ಗಣರಾಜ್ಯ"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ಇರಾಕ್"
@@ -849,6 +853,10 @@ msgstr "ಕುವೈಟ್ ರಾಜ್ಯ"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1490,6 +1498,10 @@ msgstr "ಸೇಷಲ್ಸ್ ಗಣರಾಜ್ಯ"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "ಸಿರಿಯನ್ ಅರಬ್ ಗಣರಾಜ್ಯ"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

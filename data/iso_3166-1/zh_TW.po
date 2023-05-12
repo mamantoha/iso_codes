@@ -13,14 +13,15 @@
 # Louies <louies0623@gmail.com>, 2019.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
 # Jack Liu <ywp033319@gmail.com>, 2022.
+# Abel Cheung <abelcheung@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-02-22 02:55+0000\n"
-"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-04-09 22:52+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-3166-1/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -28,11 +29,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
-msgstr "阿魯巴"
+msgstr "阿路巴"
 
 #. Name for AFG
 msgid "Afghanistan"
@@ -730,6 +731,10 @@ msgstr "伊朗伊斯蘭共和國"
 msgid "Islamic Republic of Iran"
 msgstr "伊朗伊斯蘭共和國"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "伊朗"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "伊拉克"
@@ -845,6 +850,10 @@ msgstr "科威特國"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "寮人民民主共和國"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "寮國"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1470,6 +1479,10 @@ msgstr "塞席爾共和國"
 msgid "Syrian Arab Republic"
 msgstr "敘利亞阿拉伯共和國"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr "敘利亞"
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "土克凱可群島"
@@ -1548,11 +1561,9 @@ msgstr "突尼西亞共和國"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "土耳其"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "土耳其共和國"
 

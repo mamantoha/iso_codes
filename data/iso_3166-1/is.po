@@ -7,14 +7,14 @@
 # Copyright ©
 # Þórarinn Rúnar Einarsson <thori@mindspring.com>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2015, 2017, 2019, 2021, 2022.
+# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2015, 2017, 2019, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-09-02 09:40+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-20 09:23+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/is/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -726,6 +726,10 @@ msgstr "Íran, íslamska lýðveldið"
 msgid "Islamic Republic of Iran"
 msgstr "Íslamska lýðveldið Íran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Íran"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Írak"
@@ -841,6 +845,10 @@ msgstr "Kúveitríki"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Alþýðulýðveldið Laó"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laós"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1465,6 +1473,10 @@ msgstr "Lýðveldi Seychelles-eyja"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Sýrlenska arabalýðveldið"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Sýrland"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

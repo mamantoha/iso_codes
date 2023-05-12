@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2021-08-04 17:47+0000\n"
 "Last-Translator: TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
@@ -785,6 +785,10 @@ msgstr "イラン・イスラム共和国"
 msgid "Islamic Republic of Iran"
 msgstr "イラン・イスラム共和国"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "イラク"
@@ -912,6 +916,10 @@ msgstr "クウェート国"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "ラオス人民民主共和国"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1599,6 +1607,10 @@ msgstr "セーシェル共和国"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "シリア・アラブ共和国"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 # 英領タークス諸島、カイコス諸島
 # カリブ海、ドミニカ共和国の北

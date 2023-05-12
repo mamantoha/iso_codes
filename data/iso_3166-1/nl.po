@@ -11,15 +11,15 @@
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
 # Pander <pander@users.sourceforge.net>, 2018, 2021, 2022.
 # powerburner-nl <peter.mulder.1981@gmail.com>, 2019.
-# Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2019.
+# Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2019, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-11-28 16:08+0000\n"
-"Last-Translator: Pander <pander@users.sourceforge.net>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-18 21:41+0000\n"
+"Last-Translator: Frans Spiesschaert <frans.spiesschaert@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/nl/>\n"
 "Language: nl\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -730,6 +730,10 @@ msgstr "Iran"
 msgid "Islamic Republic of Iran"
 msgstr "Islamitische Republiek Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -845,6 +849,10 @@ msgstr "Staat Koeweit"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Laos Democratische Volksrepubliek"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1468,6 +1476,10 @@ msgstr "Republiek Seychellen"
 
 #. Name for SYR
 msgid "Syrian Arab Republic"
+msgstr "Syrië"
+
+#. Common name for SYR
+msgid "Syria"
 msgstr "Syrië"
 
 #. Name for TCA

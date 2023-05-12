@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: fa\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2019-06-18 19:05+0000\n"
 "Last-Translator: Nader Jafari <naderpaskari@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"
@@ -729,6 +729,10 @@ msgstr "ایران، جمهوری اسلامی"
 msgid "Islamic Republic of Iran"
 msgstr "جمهوری اسلامی ایران"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "عراق"
@@ -846,6 +850,10 @@ msgstr "کشور کویت"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "جمهوری دموکراتیک خلق لائو"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1472,6 +1480,10 @@ msgstr "جمهوری سیشل"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "جمهوری عربی سوریه"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

@@ -18,11 +18,11 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2022-12-08 15:47+0000\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
-"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
-"iso-codes/iso-3166-1/pt_BR/>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -732,6 +732,10 @@ msgstr "Irã, República Islâmica do"
 msgid "Islamic Republic of Iran"
 msgstr "República Islâmica do Irã"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraque"
@@ -847,6 +851,10 @@ msgstr "Estado do Kuwait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "República Popular Democrática do Laos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1471,6 +1479,10 @@ msgstr "República de Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "República Árabe da Síria"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

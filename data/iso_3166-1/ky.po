@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Kyrgyz (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-02-19 17:27+0000\n"
 "Last-Translator: Ilyas Bakirov <i.bakirov@gmail.com>\n"
 "Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-codes/"
@@ -725,6 +725,10 @@ msgstr "Иран"
 msgid "Islamic Republic of Iran"
 msgstr "Иран Ислам Республикасы"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Ирак"
@@ -842,6 +846,10 @@ msgstr "Кувейт Мамлекети"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Лаос Элдик Демократияляк Республикасы"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1474,6 +1482,10 @@ msgstr "Сейшел Аралдары Республикасы"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Сирия Араб Республикасы"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

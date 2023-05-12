@@ -8,7 +8,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010-2013.
 # Viktar Siarheichyk <vics@fsfe.org>, 2015.
-# Viktar Vauchkevich <victorenator@gmail.com>, 2019, 2020, 2022.
+# Viktar Vauchkevich <victorenator@gmail.com>, 2019, 2020, 2022, 2023.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2020.
 msgid ""
@@ -16,8 +16,8 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-10-17 00:54+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-11 04:51+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/be/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -729,6 +729,10 @@ msgstr "Іран, Ісламская Рэспубліка"
 msgid "Islamic Republic of Iran"
 msgstr "Ісламская Рэспубліка Іран"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Іран"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Ірак"
@@ -844,6 +848,10 @@ msgstr "Дзяржава Кувейт"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Лаоская Народна-Дэмакратычная Рэспубліка"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Лаос"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1468,6 +1476,10 @@ msgstr "Рэспубліка Сейшэльскія Астравы"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Сірыйская Арабская Рэспубліка"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Сірыя"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

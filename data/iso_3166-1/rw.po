@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Kinyarwanda <https://hosted.weblate.org/projects/iso-codes/"
@@ -735,6 +735,10 @@ msgstr "Iran, Repubulika ya Kisilimu"
 msgid "Islamic Republic of Iran"
 msgstr "Repubulika ya Kisilimu ya Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irake"
@@ -852,6 +856,10 @@ msgstr "Leta ya Koweti"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Repubulika Iharanira Demokorasi ya Lawosi"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1493,6 +1501,10 @@ msgstr "Repubulika ya Seyishele"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Repubulika Nyarabu ya Siriya"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

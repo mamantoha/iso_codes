@@ -8,14 +8,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Dafydd Harries <daf@muse.19inch.net>, 2004, 2006.
 # Aled Powell <aled@aledpowell.cymru>, 2019.
+# dreigiau <sterilgrimed23@gmail.com>, 2023.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2019-04-19 13:34+0000\n"
-"Last-Translator: Aled Powell <aled@aledpowell.cymru>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-04-23 17:51+0000\n"
+"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/cy/>\n"
 "Language: cy\n"
@@ -24,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -72,7 +74,7 @@ msgstr "Tywysogaeth Andorra"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "Emiriaethau Arabaidd Unedig"
+msgstr "Yr Emiradau Arabaidd Unedig"
 
 #. Name for ARG
 msgid "Argentina"
@@ -92,7 +94,7 @@ msgstr "Gweriniaeth Armenia"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr "Samoa America"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -104,7 +106,7 @@ msgstr "French Southern Territories"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
-msgstr "Antigua ac Barbuda"
+msgstr "Antigua a Barbuda"
 
 #. Name for AUS
 msgid "Australia"
@@ -128,7 +130,7 @@ msgstr "Gweriniaeth Azerbaijan"
 
 #. Name for BDI
 msgid "Burundi"
-msgstr "Burundi"
+msgstr "Bwrwndi"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
@@ -192,7 +194,7 @@ msgstr "Cymanwlad y Bahamas"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnia a Herzegovina"
+msgstr "Bosnia a Hercegovina"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -268,7 +270,7 @@ msgstr "Gweriniaeth Botswana"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "Gweriniaeth Canol Affrica"
+msgstr "Gweriniaeth Canolbarth Affrica"
 
 #. Name for CAN
 msgid "Canada"
@@ -300,7 +302,7 @@ msgstr "Tsieina"
 
 #. Official name for CHN
 msgid "People's Republic of China"
-msgstr "Gweriniaeth Pobl Tseina"
+msgstr "Gweriniaeth Pobl Tsieina"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"
@@ -312,7 +314,7 @@ msgstr "Gweriniaeth Côte d'Ivoire"
 
 #. Name for CMR
 msgid "Cameroon"
-msgstr "Cameroon"
+msgstr "Camerŵn"
 
 #. Official name for CMR
 msgid "Republic of Cameroon"
@@ -384,7 +386,7 @@ msgstr "Ynys y Nadolig"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Ynysoedd y Cayman"
+msgstr "Ynysoedd Cayman"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -400,7 +402,7 @@ msgstr "Tsiecia"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "Y Weriniaeth Tsiec"
+msgstr "Gweriniaeth Tsiec"
 
 #. Name for DEU
 msgid "Germany"
@@ -528,7 +530,7 @@ msgstr "Gweriniaeth Ffrainc"
 
 #. Name for FRO
 msgid "Faroe Islands"
-msgstr "Ynysoedd y Ffaro"
+msgstr "Ynysoedd Ffaro"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
@@ -560,7 +562,7 @@ msgstr "Georgia"
 
 #. Name for GGY
 msgid "Guernsey"
-msgstr "Guernsey"
+msgstr "Ynys y Garn"
 
 #. Name for GHA
 msgid "Ghana"
@@ -604,7 +606,7 @@ msgstr "Gweriniaeth Guinea-Bissau"
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr "Guinea Cyhydeddol"
+msgstr "Guinea Gyhydeddol"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
@@ -624,7 +626,7 @@ msgstr "Grenada"
 
 #. Name for GRL
 msgid "Greenland"
-msgstr "Greenland"
+msgstr "Yr Ynys Las"
 
 #. Name for GTM
 msgid "Guatemala"
@@ -660,7 +662,7 @@ msgstr "Hong Kong, Rhanbarth Gweinyddol Arbennig o Tseina"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Ynys Heard ac Ynysoedd McDonald"
+msgstr "Ynysoedd Heard a McDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -712,7 +714,7 @@ msgstr "Gweriniaeth India"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "British Indian Ocean Territory"
+msgstr "Tiriogaeth Brydeinig Cefnfor India"
 
 #. Name for IRL
 msgid "Ireland"
@@ -725,6 +727,10 @@ msgstr "Iran, Gweriniaeth Islamaidd"
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "Gweriniaeth Islamaidd Iran"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -768,7 +774,7 @@ msgstr "Jersey"
 
 #. Name for JOR
 msgid "Jordan"
-msgstr "Gwlad Yr Iorddonen"
+msgstr "Gwlad Iorddonen"
 
 #. Official name for JOR
 msgid "Hashemite Kingdom of Jordan"
@@ -780,7 +786,7 @@ msgstr "Japan"
 
 #. Name for KAZ
 msgid "Kazakhstan"
-msgstr "Kazakhstan"
+msgstr "Kazakstan"
 
 #. Official name for KAZ
 msgid "Republic of Kazakhstan"
@@ -827,10 +833,8 @@ msgid "Korea, Republic of"
 msgstr "Corëa, Gweriniaeth"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "De Affrica"
+msgstr "De Corea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -844,9 +848,13 @@ msgstr "Talaith Coweit"
 msgid "Lao People's Democratic Republic"
 msgstr "Gweriniaeth Ddemocrataidd y Bobl Lao"
 
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
+
 #. Name for LBN
 msgid "Lebanon"
-msgstr "Lebanon"
+msgstr "Libanus"
 
 #. Official name for LBN
 msgid "Lebanese Republic"
@@ -1030,7 +1038,7 @@ msgstr "Mongolia"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Ynysoedd Northern Mariana"
+msgstr "Ynysoedd Gogledd Mariana"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1038,7 +1046,7 @@ msgstr "Cymanwlad Ynysoedd Gogleddol Mariana"
 
 #. Name for MOZ
 msgid "Mozambique"
-msgstr "Mozambique"
+msgstr "Mosambic"
 
 #. Official name for MOZ
 msgid "Republic of Mozambique"
@@ -1202,7 +1210,7 @@ msgstr "Gweriniaeth Periw"
 
 #. Name for PHL
 msgid "Philippines"
-msgstr "Pilipinas"
+msgstr "Y Philipinau"
 
 #. Official name for PHL
 msgid "Republic of the Philippines"
@@ -1245,10 +1253,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Gweriniaeth Democratic Corëa"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Gogledd Macedonia"
+msgstr "Gogledd Corea"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1276,7 +1282,7 @@ msgstr "Gwladwriaeth Palesteina"
 
 #. Name for PYF
 msgid "French Polynesia"
-msgstr "Polynesia Ffrangeg"
+msgstr "Polynesia Ffrengig"
 
 #. Name for QAT
 msgid "Qatar"
@@ -1340,7 +1346,7 @@ msgstr "Gweriniaeth Singapore"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "De Georgia ac Ynysoedd De Sandwich"
+msgstr "De Georgia ac Ynysoedd Sandwich y De"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1470,13 +1476,17 @@ msgstr "Gweriniaeth y Seychelles"
 msgid "Syrian Arab Republic"
 msgstr "Gweriniaeth Arabaidd Syria"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr "Syria"
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Ynysoedd y Turks a Caicos"
+msgstr "Ynysoedd Turks a Caicos"
 
 #. Name for TCD
 msgid "Chad"
-msgstr "Chad"
+msgstr "Tchad"
 
 #. Official name for TCD
 msgid "Republic of Chad"
@@ -1548,17 +1558,15 @@ msgstr "Gweriniaeth Twnisia"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Twrci"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Gweriniaeth Twrci"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "Tuvalu"
+msgstr "Twfalw"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
@@ -1594,7 +1602,7 @@ msgstr "Wcrain"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Mân Ynysoedd Pellenig yr Unol Daleithiau"
+msgstr "Ynysoedd Pellennig Bychain yr Unol Daleithiau"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1638,7 +1646,7 @@ msgstr "Gweriniaeth Bolifiaraidd Venezuela"
 
 #. Common name for VEN
 msgid "Venezuela"
-msgstr "Venezuela"
+msgstr "Feneswela"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
@@ -1646,7 +1654,7 @@ msgstr "Ynysoedd Virgin, Prydeinig"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "Ynysoedd Virgin Prydain"
+msgstr "Ynysoedd Prydeinig y Wyryf"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."

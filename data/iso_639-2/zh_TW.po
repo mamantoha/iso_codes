@@ -9,7 +9,7 @@
 # JOE MAN <trmetal@yahoo.com.hk>, 2001.
 # Mai Hao Hui <mhh@126.com>, 2001.
 # Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2005.
-# Abel Cheung <abelcheung@gmail.com>, 2007.
+# Abel Cheung <abelcheung@gmail.com>, 2007, 2023.
 # Hominid He(viperii) <hominid@39.net>, 2007.
 # LI Daobing <lidaobing@gmail.com>, 2007.
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2009, 2013.
@@ -22,8 +22,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-02-22 02:55+0000\n"
-"Last-Translator: Jack Liu <ywp033319@gmail.com>\n"
+"PO-Revision-Date: 2023-04-09 22:52+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-639-2/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -31,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -385,7 +385,7 @@ msgstr "查米克語系"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "黑山語"
 
 #. Name for cop
 msgid "Coptic"
@@ -421,7 +421,7 @@ msgstr "克里米亞韃靼語"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr "克里奧爾混合語系"
+msgstr "混合語"
 
 #. Name for csb
 msgid "Kashubian"
@@ -1157,7 +1157,7 @@ msgstr "馬其頓語"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr "南亞語系"
+msgstr "孟高棉語系"
 
 #. Name for mlg
 msgid "Malagasy"
@@ -1465,7 +1465,7 @@ msgstr "拉巴怒伊語"
 
 #. Name for rar
 msgid "Rarotongan; Cook Islands Maori"
-msgstr "拉羅通加語"
+msgstr "拉羅東加語／庫克群島毛利語"
 
 #. Name for roa
 msgid "Romance languages"
@@ -1509,7 +1509,7 @@ msgstr "雅庫特語"
 
 #. Name for sai
 msgid "South American Indian (Other)"
-msgstr "南美印地安諸語言 (其他)"
+msgstr "南美原住民語言（其他）"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1657,7 +1657,7 @@ msgstr "薩丁尼亞語"
 
 #. Name for srn
 msgid "Sranan Tongo"
-msgstr "蘇利南東墎語"
+msgstr "蘇利南語"
 
 #. Name for srp
 msgid "Serbian"

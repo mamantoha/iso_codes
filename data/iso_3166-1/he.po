@@ -10,15 +10,15 @@
 # Meital Bourvine <meitalbourvine@gmail.com>, 2007.
 # Lior Kaplan <kaplan@debian.org>, 2005-2008, 2010-2012, 2015.
 # jeremy rutman <jeremy.rutman@gmail.com>, 2019.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021, 2022.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021, 2022, 2023.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-09-04 00:24+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-02-24 21:01+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/he/>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -730,6 +730,10 @@ msgstr "אירן, הרפובליקה האיסלמית של"
 msgid "Islamic Republic of Iran"
 msgstr "הרפובליקה האיסלמית של אירן"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "איראן"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "עיראק"
@@ -844,6 +848,10 @@ msgstr "מדינת כווית"
 
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
+msgstr "לאוס"
+
+#. Common name for LAO
+msgid "Laos"
 msgstr "לאוס"
 
 #. Name for LBN
@@ -1469,6 +1477,10 @@ msgstr "הרפובליקה של איי סיישל"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "הרפובליקה הערבית הסורית"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "סוריה"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

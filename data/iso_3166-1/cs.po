@@ -7,14 +7,14 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Miroslav Kure <kurem@debian.cz>, 2004-2017.
-# Miroslav Kure <kurem@upcase.inf.upol.cz>, 2019, 2022.
+# Miroslav Kure <kurem@upcase.inf.upol.cz>, 2019, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-12-10 18:48+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-21 13:41+0000\n"
 "Last-Translator: Miroslav Kure <kurem@upcase.inf.upol.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/cs/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -725,6 +725,10 @@ msgstr "Írán, islámská republika"
 msgid "Islamic Republic of Iran"
 msgstr "Íránská islámská republika"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Írán"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irák"
@@ -840,6 +844,10 @@ msgstr "Stát Kuvajt"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Laoská lidově demokratická republika"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1464,6 +1472,10 @@ msgstr "Seychelská republika"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Syrská arabská republika"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Sýrie"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2023-02-03 13:39+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
@@ -732,6 +732,10 @@ msgstr "이란 이슬람 공화국"
 msgid "Islamic Republic of Iran"
 msgstr "이란 이슬람 공화국"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "이라크"
@@ -847,6 +851,10 @@ msgstr "쿠웨이트"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "라오 인민 민주주의 공화국"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1471,6 +1479,10 @@ msgstr "세이셸 공화국"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "시리아 아랍 공화국"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

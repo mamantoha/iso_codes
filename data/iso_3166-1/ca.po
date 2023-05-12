@@ -13,14 +13,16 @@
 # Orestes Mas i Casals <orestes@tsc.upc.es>, 2004-2006.
 # Toni Hermoso Pulido <toniher@softcatala.org>, 2010-2012.
 # Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
+# d <dmanye@gmail.com>, 2023.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-12-24 22:57+0100\n"
-"Last-Translator: Sergi Almacellas Abellana <sergi@koolpi.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-29 20:40+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ca/>\n"
 "Language: ca\n"
@@ -28,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -76,7 +78,7 @@ msgstr "Principat d'Andorra"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "Unió dels Emirats Àrabs"
+msgstr "Emirats Àrabs Units"
 
 #. Name for ARG
 msgid "Argentina"
@@ -124,7 +126,7 @@ msgstr "República d'Àustria"
 
 #. Name for AZE
 msgid "Azerbaijan"
-msgstr "Azerbaitjan"
+msgstr "Azerbaidjan"
 
 #. Official name for AZE
 msgid "Republic of Azerbaijan"
@@ -220,7 +222,7 @@ msgstr "Belize"
 
 #. Name for BMU
 msgid "Bermuda"
-msgstr "Bermuda"
+msgstr "Bermudes"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
@@ -730,6 +732,10 @@ msgstr "Iran"
 msgid "Islamic Republic of Iran"
 msgstr "República Islàmica de l'Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraq"
@@ -845,6 +851,10 @@ msgstr "Estat de Kuwait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "República Democràtica Popular de Laos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1033,7 +1043,7 @@ msgstr "Mongòlia"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Illes Marianes del Nord"
+msgstr "Illes Mariannes Septentrionals"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1290,7 +1300,7 @@ msgstr "Estat de Qatar"
 # 85%
 #. Name for REU
 msgid "Réunion"
-msgstr "Reunió"
+msgstr "Illa de la Reunió"
 
 #. Name for ROU
 msgid "Romania"
@@ -1302,7 +1312,7 @@ msgstr "Federació Russa"
 
 #. Name for RWA
 msgid "Rwanda"
-msgstr "Rwanda"
+msgstr "Ruanda"
 
 #. Official name for RWA
 msgid "Rwandese Republic"
@@ -1471,6 +1481,10 @@ msgstr "República de Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "República Àrab Síria"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Síria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1698,7 +1712,7 @@ msgstr "República de Iemen"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "Sudàfrica"
+msgstr "Sud-àfrica"
 
 #. Official name for ZAF
 msgid "Republic of South Africa"
@@ -1714,7 +1728,7 @@ msgstr "República de Zàmbia"
 
 #. Name for ZWE
 msgid "Zimbabwe"
-msgstr "Zimbabwe"
+msgstr "Zimbàbue"
 
 #. Official name for ZWE
 msgid "Republic of Zimbabwe"

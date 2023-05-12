@@ -7,15 +7,15 @@
 # Copyright ©
 # Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>, 2004-2006.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2016.
-# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020, 2021, 2022.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020, 2021, 2022, 2023.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-09-01 22:53+0200\n"
-"PO-Revision-Date: 2022-12-10 18:48+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-03 15:38+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/id/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -727,6 +727,10 @@ msgstr "Iran, Republik Islam"
 msgid "Islamic Republic of Iran"
 msgstr "Republik Islam Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -842,6 +846,10 @@ msgstr "Negara Kuwait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Republik Demokrat Rakyat Laos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1466,6 +1474,10 @@ msgstr "Republik Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Republik Arab Syria"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Suriah"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
