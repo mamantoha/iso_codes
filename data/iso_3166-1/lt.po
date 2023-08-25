@@ -9,13 +9,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004-2010.
 # Rimas Kudelis <rq@akl.lt>, 2012-2013.
+# Rimas Kudelis <rimas@kudelis.lt>, 2023.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"PO-Revision-Date: 2023-07-15 07:53+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/lt/>\n"
@@ -25,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || "
 "n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -352,14 +354,10 @@ msgid "Union of the Comoros"
 msgstr "Komorų Sąjunga"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Žaliasis Kyšulys"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Žaliojo Kyšulio Respublika"
 
@@ -401,7 +399,7 @@ msgstr "Kipro Respublika"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Čekija"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -596,10 +594,8 @@ msgid "Gambia"
 msgstr "Gambija"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Zambijos Respublika"
+msgstr "Gambijos Respublika"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -735,7 +731,7 @@ msgstr "Irano Islamo Respublika"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iranas"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -838,10 +834,8 @@ msgid "Korea, Republic of"
 msgstr "Korėjos Respublika"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Pietų Afrika"
+msgstr "Pietų Korėja"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -857,7 +851,7 @@ msgstr "Laoso Liaudies Demokratinė Respublika"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laosas"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1004,16 +998,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Maršalo Salų Respublika"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Naujoji Kaledonija"
+msgstr "Šiaurės Makedonija"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Lietuvos Respublika"
+msgstr "Šiaurės Makedonijos Respublika"
 
 #. Name for MLI
 msgid "Mali"
@@ -1240,9 +1230,8 @@ msgid "Papua New Guinea"
 msgstr "Papua Naujoji Gvinėja"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Samoa Nepriklausomoji Valstybė"
+msgstr "Papua Naujosios Gvinėjos Nepriklausomoji Valstybė"
 
 #. Name for POL
 msgid "Poland"
@@ -1265,10 +1254,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Korėjos Liaudies Demokratinė Respublika"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Naujoji Kaledonija"
+msgstr "Šiaurės Korėja"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1403,9 +1390,8 @@ msgid "Somalia"
 msgstr "Somalis"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Vokietijos Federacinė Respublika"
+msgstr "Somalio Federacinė Respublika"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1469,13 +1455,11 @@ msgstr "Švedijos Karalystė"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Esvatinis"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Ispanijos Karalystė"
+msgstr "Esvatinio Karalystė"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1495,7 +1479,7 @@ msgstr "Sirijos Arabų Respublika"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Sirija"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1527,7 +1511,7 @@ msgstr "Tailando Karalystė"
 
 #. Name for TJK
 msgid "Tajikistan"
-msgstr "Tadžikistanas"
+msgstr "Tadžikija"
 
 #. Official name for TJK
 msgid "Republic of Tajikistan"
@@ -1539,7 +1523,7 @@ msgstr "Tokelau"
 
 #. Name for TKM
 msgid "Turkmenistan"
-msgstr "Turkmėnistanas"
+msgstr "Turkmėnija"
 
 #. Name for TLS
 msgid "Timor-Leste"
@@ -1575,11 +1559,9 @@ msgstr "Tuniso Respublika"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turkija"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Turkijos Respublika"
 
@@ -1604,7 +1586,6 @@ msgid "United Republic of Tanzania"
 msgstr "Tanzanijos Jungtinė Respublika"
 
 #. Common name for TZA
-#, fuzzy
 msgid "Tanzania"
 msgstr "Tanzanija"
 
@@ -1622,7 +1603,7 @@ msgstr "Ukraina"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Jungtinių Amerikos Valstijų mažosios aplinkinės salos"
+msgstr "Jungtinių Valstijų Mažosios pakraštinės salos"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1693,8 +1674,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnamo Socialistinė Respublika"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnamas"
 

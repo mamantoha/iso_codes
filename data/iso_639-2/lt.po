@@ -9,14 +9,15 @@
 # Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
 # Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2006, 2008-2009.
 # Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>, 2021.
+# Rimas Kudelis <rimas@kudelis.lt>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-02-21 22:09+0000\n"
-"Last-Translator: Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>\n"
+"PO-Revision-Date: 2023-07-15 07:51+0000\n"
+"Last-Translator: Rimas Kudelis <rimas@kudelis.lt>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/lt/>\n"
 "Language: lt\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
 "19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
 "1 : 2);\n"
-"X-Generator: Weblate 4.5\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -218,7 +219,7 @@ msgstr "Bengalų"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr ""
+msgstr "Bengalų"
 
 #. Name for ber
 msgid "Berber languages"
@@ -229,9 +230,8 @@ msgid "Bhojpuri"
 msgstr "Bhojpuri"
 
 #. Name for bih
-#, fuzzy
 msgid "Bihari languages"
-msgstr "Tajų kalbos"
+msgstr "Biharų kalbos"
 
 #. Name for bik
 msgid "Bikol"
@@ -251,7 +251,7 @@ msgstr "Siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "Bantų (kitos)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -381,7 +381,7 @@ msgstr "Čamikų kalbos"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Juodkalniečių"
 
 #. Name for cop
 msgid "Coptic"
@@ -453,7 +453,7 @@ msgstr "Delavarų"
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr ""
+msgstr "Atapaskų"
 
 #. Name for deu
 msgid "German"
@@ -729,7 +729,7 @@ msgstr "Hiligainon"
 
 #. Name for him
 msgid "Himachali languages; Western Pahari languages"
-msgstr ""
+msgstr "Vakarų paharų kalbos"
 
 #. Name for hin
 msgid "Hindi"
@@ -740,9 +740,8 @@ msgid "Hittite"
 msgstr "Hetitų"
 
 #. Name for hmn
-#, fuzzy
 msgid "Hmong; Mong"
-msgstr "Hmong"
+msgstr "Hmongų"
 
 #. Name for hmo
 msgid "Hiri Motu"
@@ -782,7 +781,7 @@ msgstr "Ido"
 
 #. Name for iii
 msgid "Sichuan Yi; Nuosu"
-msgstr ""
+msgstr "Nosų"
 
 #. Name for ijo
 msgid "Ijo languages"
@@ -925,8 +924,6 @@ msgid "Central Khmer"
 msgstr "Khmerų centrinė"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
 msgstr "Kotanezų"
 
@@ -1076,7 +1073,7 @@ msgstr "Lunda"
 
 #. Name for luo
 msgid "Luo (Kenya and Tanzania)"
-msgstr ""
+msgstr "Luo (Kenija ir Tanzanija)"
 
 #. Name for lus
 msgid "Lushai"
@@ -1347,10 +1344,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "Očitarų (po 1500)"
+msgstr "Oksitanų (po 1500 m.); Provansaliečių"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1441,10 +1436,8 @@ msgid "Prakrit languages"
 msgstr "Prakrit kalbos"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "Provensalio, senoji (iki 1500)"
+msgstr "Provansaliečių, senoji (iki 1500 m.)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1483,10 +1476,8 @@ msgid "Romany"
 msgstr "Čigonų"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Moldavų"
+msgstr "Rumunų; Moldavų"
 
 #. Name for run
 msgid "Rundi"
@@ -1513,10 +1504,8 @@ msgid "Yakut"
 msgstr "Jakutų"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "Pietų Amerikos indėnų kalbos"
+msgstr "Pietų Amerikos indėnų (kitos)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1776,7 +1765,7 @@ msgstr "Tokelau"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
-msgstr ""
+msgstr "Klingonų"
 
 #. Name for tli
 msgid "Tlingit"
@@ -1900,7 +1889,7 @@ msgstr "Vakašan kalbos"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "Velaitų"
 
 #. Name for war
 msgid "Waray"
@@ -1964,7 +1953,7 @@ msgstr "Zenaga"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Standartinė Maroko berberų"
 
 #. Name for zha
 msgid "Zhuang; Chuang"
