@@ -44,7 +44,7 @@ describe ISOCodes do
 
         language = languages.find_by_name("English")
         translation = language.try(&.translation("fr"))
-        translation.should eq("anglais")
+        translation.should eq("Anglais")
       end
 
       it "raise exception if translation not found" do
