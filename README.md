@@ -50,10 +50,10 @@ country.translation("pt")
 # => Ucrânia
 
 language = ISOCodes.languages.find_by_name("Ukrainian")
-# => #<ISOCodes::Language:0x7fcbd8d6a2c0 @alpha_2="uk", @alpha_3="ukr", @name="Ukrainian", @common_name=nil, @bibliographic=nil>
+# => #<ISOCodes::Language:0x7f7c5b9eae80 @alpha_2="uk", @alpha_3="ukr", @name="Ukrainian", @common_name=nil, @bibliographic=nil>
 
 language.translation("fr")
-# => ukrainien
+# => Ukrainien
 ```
 
 ## Development

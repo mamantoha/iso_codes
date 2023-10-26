@@ -12,8 +12,8 @@ end
 puts "Language"
 if language = ISOCodes.languages.find_by_name("Ukrainian")
   puts language.inspect
-  # => #<ISOCodes::Language:0x7fcbd8d6a2c0 @alpha_2="uk", @alpha_3="ukr", @name="Ukrainian", @common_name=nil, @bibliographic=nil>
+  # => #<ISOCodes::Language:0x7f7c5b9eae80 @alpha_2="uk", @alpha_3="ukr", @name="Ukrainian", @common_name=nil, @bibliographic=nil>
 
   puts language.translation("fr")
-  # => ukrainien
+  # => Ukrainien
 end
