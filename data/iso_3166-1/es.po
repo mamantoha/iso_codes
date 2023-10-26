@@ -11,14 +11,15 @@
 # zamir <hades_ni@yahoo.com>, 2013.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
+# Kamborio <Kamborio15@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2021-05-24 20:33+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"PO-Revision-Date: 2023-10-13 10:01+0000\n"
+"Last-Translator: Kamborio <Kamborio15@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/es/>\n"
 "Language: es\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -730,7 +731,7 @@ msgstr "República Islámica de Irán"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Irán"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -833,10 +834,8 @@ msgid "Korea, Republic of"
 msgstr "Corea, República de"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Sudáfrica"
+msgstr "Corea del Sur"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -852,7 +851,7 @@ msgstr "República Democrática Popular de Lao"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1255,10 +1254,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "República Popular Democrática de Corea"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Macedonia del Norte"
+msgstr "Corea del Norte"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1482,7 +1479,7 @@ msgstr "República árabe de Siria"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Siria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1562,11 +1559,9 @@ msgstr "República de Túnez"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turquía"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "República de Turquía"
 

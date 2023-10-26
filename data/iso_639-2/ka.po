@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-10-24 07:37+0000\n"
+"PO-Revision-Date: 2023-08-29 16:54+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ka/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.2-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -45,7 +45,7 @@ msgstr ""
 
 #. Name for ady
 msgid "Adyghe; Adygei"
-msgstr ""
+msgstr "ადიღეური"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
@@ -89,7 +89,7 @@ msgstr "ამჰარული"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr ""
+msgstr "ინგლუსური, ძველი (დაახლ. 450-1100)"
 
 #. Name for anp
 msgid "Angika"
@@ -337,7 +337,7 @@ msgstr ""
 
 #. Name for chm
 msgid "Mari"
-msgstr ""
+msgstr "მარული"
 
 #. Name for chn
 msgid "Chinook jargon"
@@ -519,7 +519,7 @@ msgstr "ინგლისური"
 
 #. Name for enm
 msgid "English, Middle (1100-1500)"
-msgstr ""
+msgstr "ინგლისური, შუასაუკუნეების (1100-1500)"
 
 #. Name for epo
 msgid "Esperanto"
@@ -839,7 +839,7 @@ msgstr "იავური"
 
 #. Name for jbo
 msgid "Lojban"
-msgstr ""
+msgstr "ლოჟბანი"
 
 #. Name for jpn
 msgid "Japanese"
@@ -947,7 +947,7 @@ msgstr "კომი"
 
 #. Name for kon
 msgid "Kongo"
-msgstr ""
+msgstr "კონგო"
 
 #. Name for kor
 msgid "Korean"
@@ -1355,7 +1355,7 @@ msgstr "ორომო"
 
 #. Name for osa
 msgid "Osage"
-msgstr ""
+msgstr "ოსეიჯი"
 
 #. Name for oss
 msgid "Ossetian; Ossetic"
@@ -1495,7 +1495,7 @@ msgstr "სანგო"
 
 #. Name for sah
 msgid "Yakut"
-msgstr ""
+msgstr "იაკუტიური"
 
 #. Name for sai
 msgid "South American Indian (Other)"
@@ -1523,7 +1523,7 @@ msgstr "სანტალი"
 
 #. Name for scn
 msgid "Sicilian"
-msgstr ""
+msgstr "სიცილიური"
 
 #. Name for sco
 msgid "Scots"
@@ -1827,7 +1827,7 @@ msgstr ""
 
 #. Name for udm
 msgid "Udmurt"
-msgstr ""
+msgstr "უდმურტული"
 
 #. Name for uga
 msgid "Ugaritic"

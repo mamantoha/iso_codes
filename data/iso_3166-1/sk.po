@@ -15,14 +15,15 @@
 # Peter Mann <Peter.Mann@tuke.sk>, 2004, 2006.
 # Ivan Masár <helix84@centrum.sk>, 2007-2015, 2017.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
+# Milan Šalka <salka.milan@googlemail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-08-10 13:39+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2023-10-13 10:01+0000\n"
+"Last-Translator: Milan Šalka <salka.milan@googlemail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sk/>\n"
 "Language: sk\n"
@@ -30,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -599,10 +600,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Zambijská republika"
+msgstr "Slovenská republika"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -739,7 +738,7 @@ msgstr "Iránska islamská republika"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Slovenčina"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -842,10 +841,8 @@ msgid "Korea, Republic of"
 msgstr "Kórejská republika"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Južná Afrika"
+msgstr "Južná Kórea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -861,7 +858,7 @@ msgstr "Laoská ľudovodemokratická republika"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Domov"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1008,16 +1005,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republika Marshallových ostrovov"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nová Kaledónia"
+msgstr "Severné Macedónsko"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Litovská republika"
+msgstr "Slovenská republika Macedónsko"
 
 #. Name for MLI
 msgid "Mali"
@@ -1268,10 +1261,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Kórejská ľudovodemokratická republika"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Nová Kaledónia"
+msgstr "Severná Kórea"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1471,13 +1462,11 @@ msgstr "Švédske kráľovstvo"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Španielske kráľovstvo"
+msgstr "Veľká Británia Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1497,7 +1486,7 @@ msgstr "Sýrska arabská republika"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Sýria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1577,13 +1566,11 @@ msgstr "Tuniská republika"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Türkiye"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
-msgstr "Turecká republika"
+msgstr "Slovenská republika Türkiye"
 
 #. Name for TUV
 msgid "Tuvalu"

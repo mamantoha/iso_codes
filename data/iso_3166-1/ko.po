@@ -21,7 +21,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-02-03 13:39+0000\n"
+"PO-Revision-Date: 2023-09-10 13:54+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ko/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -734,7 +734,7 @@ msgstr "이란 이슬람 공화국"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "이란"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -854,7 +854,7 @@ msgstr "라오 인민 민주주의 공화국"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "라오스"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1482,7 +1482,7 @@ msgstr "시리아 아랍 공화국"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "시리아"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

@@ -19,7 +19,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-02-13 21:36+0000\n"
+"PO-Revision-Date: 2023-10-08 12:02+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hu/>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
 
@@ -734,7 +734,7 @@ msgstr "Iráni Iszlám Köztársaság"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Irán"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -854,7 +854,7 @@ msgstr "Laoszi Népi Demokratikus Köztársaság"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laosz"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1482,7 +1482,7 @@ msgstr "Szíriai Arab Köztársaság"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Szíria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
