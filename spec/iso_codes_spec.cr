@@ -5,6 +5,7 @@ describe ISOCodes do
     it "list of langeages" do
       languages = ISOCodes.languages
       languages.should be_a(ISOCodes::Languages)
+      languages.size.should eq(487)
     end
 
     it "forward_missing_to @languages" do
@@ -63,6 +64,7 @@ describe ISOCodes do
     it "list of countries" do
       countries = ISOCodes.countries
       countries.should be_a(ISOCodes::Countries)
+      countries.size.should eq(249)
     end
 
     it "forward_missing_to @countries" do
@@ -161,5 +163,8 @@ describe ISOCodes do
     it "LANGUAGE_TRANSLATION_CODES" do
       ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.includes?("pt_BR").should be_truthy
     end
+
+    it { ISOCodes::DataProvider::COUNTRY_TRANSLATION_CODES.size.should eq(161) }
+    it { ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.size.should eq(98) }
   end
 end
