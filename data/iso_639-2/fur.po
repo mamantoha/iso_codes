@@ -1,19 +1,20 @@
-# Translation of ISO 639-2 to LANGUAGE
+# Translation of ISO 639-2 to Friulian
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Fabio Tomat <f.t.public@gmail.com>, 2020, 2021.
+# adecorte <adecorte@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-09-17 12:36+0000\n"
-"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
+"PO-Revision-Date: 2023-12-20 20:16+0000\n"
+"Last-Translator: adecorte <adecorte@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/fur/>\n"
 "Language: fur\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 5.3\n"
 
 #. Name for aar
 msgid "Afar"
@@ -136,9 +137,8 @@ msgid "Asturian; Bable; Leonese; Asturleonese"
 msgstr "Asturian; Bable; Leonês; Asturian-Leonês"
 
 #. Name for ath
-#, fuzzy
 msgid "Athapascan languages"
-msgstr "Lenghis athabaska"
+msgstr "Lenghis athapascanis"
 
 #. Name for aus
 msgid "Australian languages"
@@ -169,7 +169,6 @@ msgid "Banda languages"
 msgstr "Lenghis banda"
 
 #. Name for bai
-#, fuzzy
 msgid "Bamileke languages"
 msgstr "Lenghis bamileke"
 
@@ -226,7 +225,6 @@ msgid "Bhojpuri"
 msgstr "Bhojpuri"
 
 #. Name for bih
-#, fuzzy
 msgid "Bihari languages"
 msgstr "Lenghis bihari"
 
@@ -373,13 +371,12 @@ msgid "Cheyenne"
 msgstr "Cheyenne"
 
 #. Name for cmc
-#, fuzzy
 msgid "Chamic languages"
 msgstr "Lenghis chamichis"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegrin"
 
 #. Name for cop
 msgid "Coptic"
@@ -882,7 +879,6 @@ msgid "Kannada"
 msgstr "Kannada"
 
 #. Name for kar
-#, fuzzy
 msgid "Karen languages"
 msgstr "Lenghis karen"
 
@@ -1883,9 +1879,8 @@ msgid "Votic"
 msgstr "Votic"
 
 #. Name for wak
-#, fuzzy
 msgid "Wakashan languages"
-msgstr "Lenghis Wakashan"
+msgstr "Lenghis wakashan"
 
 #. Name for wal
 msgid "Walamo"
@@ -1936,7 +1931,6 @@ msgid "Yoruba"
 msgstr "Yoruba"
 
 #. Name for ypk
-#, fuzzy
 msgid "Yupik languages"
 msgstr "Lenghis yupik"
 
@@ -1965,9 +1959,8 @@ msgid "Chinese"
 msgstr "Cinês"
 
 #. Name for znd
-#, fuzzy
 msgid "Zande languages"
-msgstr "Lenghis zande"
+msgstr "Lenghis zandé"
 
 #. Name for zul
 msgid "Zulu"

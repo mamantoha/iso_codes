@@ -1,4 +1,4 @@
-# Translation of ISO 3166-1 to Kurdish
+# Translation of ISO 3166-1 to Kurdish (Northern)
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .

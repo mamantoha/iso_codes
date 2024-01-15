@@ -1,4 +1,4 @@
-# Translation of ISO 639-2 to LANGUAGE
+# Translation of ISO 639-2 to Sardinian
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .

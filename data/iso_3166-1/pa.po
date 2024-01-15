@@ -8,14 +8,15 @@
 # Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
 # A S Alam <apbrar@gmail.com>, 2009.
 # Aman ALam <alam.yellow@gmail.com>, 2019.
+# Aman Alam <aalam@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2019-12-30 20:21+0000\n"
-"Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
+"PO-Revision-Date: 2023-11-17 14:06+0000\n"
+"Last-Translator: Aman Alam <aalam@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pa/>\n"
 "Language: pa\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"X-Generator: Weblate 5.2\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -727,7 +728,7 @@ msgstr "ਈਰਾਨ ਇਸਲਾਮਿਕ ਗਣਰਾਜ"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "ਈਰਾਨ"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -830,10 +831,8 @@ msgid "Korea, Republic of"
 msgstr "ਕੋਰੀਆ ਗਣਰਾਜ"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "ਦੱਖਣੀ ਅਫਰੀਕਾ"
+msgstr "ਦੱਖਣੀ ਕੋਰੀਆ"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -849,7 +848,7 @@ msgstr "ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "ਲਾਓਸ"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1252,10 +1251,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "ਕੋਰੀਆ ਦਾ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "ਨਾਰਥ ਕਾਲੀਡੋਨੀਆ"
+msgstr "ਉੱਤਰੀ ਕੋਰੀਆ"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1479,7 +1476,7 @@ msgstr "ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "ਸੀਰੀਆ"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1559,11 +1556,9 @@ msgstr "ਟਿਊਨੀਸ਼ੀਆ ਗਣਰਾਜ"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "ਤੁਰਕੇ"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "ਤੁਰਕ ਗਣਰਾਜ"
 

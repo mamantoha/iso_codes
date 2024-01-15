@@ -12,7 +12,6 @@
 # Дамян Иванов <dmn@debian.org>, 2022.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2022.
 # Damyan Ivanov <dmn@debian.org>, 2006-2023.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"

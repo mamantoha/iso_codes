@@ -10,14 +10,15 @@
 # Andrei Popescu <andreimpopescu@gmail.com>, 2010.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
 # Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
+# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2018-11-30 15:08+0000\n"
-"Last-Translator: Andrei POPESCU <andreimpopescu@gmail.com>\n"
+"PO-Revision-Date: 2023-12-30 00:11+0000\n"
+"Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ro/>\n"
 "Language: ro\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:01+0000\n"
 
 #. Name for ABW
@@ -403,7 +404,7 @@ msgstr "Cehia"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "Cehia"
+msgstr "Republica Cehă"
 
 #. Name for DEU
 msgid "Germany"
@@ -447,7 +448,7 @@ msgstr "Algeria"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
-msgstr "Republica populară Democratică Algeria"
+msgstr "Republica populară democrată Algeria"
 
 #. Name for ECU
 msgid "Ecuador"
@@ -555,7 +556,7 @@ msgstr "Regatul Unit"
 
 #. Official name for GBR
 msgid "United Kingdom of Great Britain and Northern Ireland"
-msgstr "Regatul Unit al Marii Britanii și Insulelor Nordice"
+msgstr "Regatul unit al Marii Britanii și Irlandei de nord"
 
 #. Name for GEO
 msgid "Georgia"
@@ -594,10 +595,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republica Zambia"
+msgstr "Republica Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -661,7 +660,7 @@ msgstr "Hong Kong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr "Regiunea Chineză cu administrare specială Hong Kong"
+msgstr "Regiunea administrativă specială Hong Kong din China"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
@@ -733,7 +732,7 @@ msgstr "Republica islamică Iran"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -836,10 +835,8 @@ msgid "Korea, Republic of"
 msgstr "Republica Coreea"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Africa de sud"
+msgstr "Coreea de Sud"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -855,7 +852,7 @@ msgstr "Republica populară democrată Lao"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -919,7 +916,7 @@ msgstr "Luxemburg"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr "Marele Ducat al Luxemburgului"
+msgstr "Marele ducat al Luxemburgului"
 
 #. Name for LVA
 msgid "Latvia"
@@ -1002,16 +999,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republica Insulele Marshall"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Noua Caledonie"
+msgstr "Macedonia de nord"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Republica Lituania"
+msgstr "Republica Macedonia de nord"
 
 #. Name for MLI
 msgid "Mali"
@@ -1047,11 +1040,11 @@ msgstr "Mongolia"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Insulele Mariane de Nord"
+msgstr "Insulele Mariane de nord"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
-msgstr "Comitatul Insulelor Mariane Nordice"
+msgstr "Comitatul Insulelor Mariane nordice"
 
 #. Name for MOZ
 msgid "Mozambique"
@@ -1255,17 +1248,15 @@ msgstr "Puerto Rico"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr "Republica democrată populară Coreea"
+msgstr "Coreea, Republica democrată populară"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Republica populară democrată Coreea"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Noua Caledonie"
+msgstr "Coreea de nord"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1401,7 +1392,7 @@ msgstr "Somalia"
 
 #. Official name for SOM
 msgid "Federal Republic of Somalia"
-msgstr "Republica Federală Somalia"
+msgstr "Republica federală Somalia"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1417,11 +1408,11 @@ msgstr "Republica Serbia"
 
 #. Name for SSD
 msgid "South Sudan"
-msgstr "Sudanul de Sud"
+msgstr "Sudanul de sud"
 
 #. Official name for SSD
 msgid "Republic of South Sudan"
-msgstr "Republica Sudanului de Sud"
+msgstr "Republica Sudanului de sud"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1465,13 +1456,11 @@ msgstr "Regatul Suediei"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Regatul Spaniei"
+msgstr "Regatul Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1487,11 +1476,11 @@ msgstr "Republica Seychelles"
 
 #. Name for SYR
 msgid "Syrian Arab Republic"
-msgstr "Republica Araba Siria"
+msgstr "Republica arabă Siriană"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Siria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1539,11 +1528,11 @@ msgstr "Turkmenistan"
 
 #. Name for TLS
 msgid "Timor-Leste"
-msgstr "Timorul de Est"
+msgstr "Timorul de est"
 
 #. Official name for TLS
 msgid "Democratic Republic of Timor-Leste"
-msgstr "Republica democrată Timorul de Est"
+msgstr "Republica democrată Timorul de est"
 
 #. Name for TON
 msgid "Tonga"
@@ -1571,11 +1560,9 @@ msgstr "Republica Tunisia"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turcia"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Republica Turcia"
 
@@ -1585,7 +1572,7 @@ msgstr "Tuvalu"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
-msgstr "Taiwan"
+msgstr "Taiwan, Provincie chineză"
 
 #. Common name for TWN
 msgid "Taiwan"
@@ -1593,11 +1580,11 @@ msgstr "Taiwan"
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
-msgstr "Republica Unită Tanzania"
+msgstr "Republica unită Tanzania"
 
 #. Official name for TZA
 msgid "United Republic of Tanzania"
-msgstr "Republica Unită Tanzania"
+msgstr "Republica unită Tanzania"
 
 #. Common name for TZA
 msgid "Tanzania"
@@ -1617,7 +1604,7 @@ msgstr "Ucraina"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Insulele de Coasta ale Statelor Unite"
+msgstr "Insulele periferice minore ale Statelor Unite"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1625,7 +1612,7 @@ msgstr "Uruguay"
 
 #. Official name for URY
 msgid "Eastern Republic of Uruguay"
-msgstr "Republica Estică Uruguay"
+msgstr "Republica estică Uruguay"
 
 #. Name for USA
 msgid "United States"
@@ -1709,7 +1696,7 @@ msgstr "Samoa"
 
 #. Official name for WSM
 msgid "Independent State of Samoa"
-msgstr "Statul Independent Samoa"
+msgstr "Statul independent Samoa"
 
 #. Name for YEM
 msgid "Yemen"

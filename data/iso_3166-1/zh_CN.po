@@ -1,4 +1,4 @@
-# Translation of ISO 3166-1 to Simplified Chinese
+# Translation of ISO 3166-1 to Chinese (Simplified)
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
@@ -13,22 +13,23 @@
 # Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2023.
 # tao wang <tonywang5@163.com>, 2020.
 # Promesis Yuan <m3149154722@outlook.com>, 2022.
+# Tyson Tan <tysontanx@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-02-24 21:01+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/zh_Hans/>\n"
+"PO-Revision-Date: 2024-01-15 15:46+0000\n"
+"Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -264,15 +265,15 @@ msgstr "布维群岛"
 
 #. Name for BWA
 msgid "Botswana"
-msgstr "博兹瓦那"
+msgstr "博茨瓦纳"
 
 #. Official name for BWA
 msgid "Republic of Botswana"
-msgstr "博兹瓦那共和国"
+msgstr "博茨瓦纳共和国"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "中非"
+msgstr "中非共和国"
 
 #. Name for CAN
 msgid "Canada"
@@ -280,7 +281,7 @@ msgstr "加拿大"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "科科斯群岛"
+msgstr "科科斯 (基林) 群岛"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -352,7 +353,7 @@ msgstr "科摩罗"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr "科摩罗联邦"
+msgstr "科摩罗联盟"
 
 #. Name for CPV
 msgid "Cabo Verde"
@@ -428,7 +429,7 @@ msgstr "多米尼克"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
-msgstr "米尼克共和国"
+msgstr "多米尼克国"
 
 #. Name for DNK
 msgid "Denmark"
@@ -448,7 +449,7 @@ msgstr "阿尔及利亚"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
-msgstr "阿尔及利亚人民民主共和国"
+msgstr "阿尔及利亚民主人民共和国"
 
 #. Name for ECU
 msgid "Ecuador"
@@ -520,7 +521,7 @@ msgstr "斐济共和国"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
-msgstr "福克兰群岛(马尔维纳斯)"
+msgstr "福克兰群岛 (马尔维纳斯)"
 
 #. Name for FRA
 msgid "France"
@@ -876,7 +877,7 @@ msgstr "利比亚"
 
 #. Name for LCA
 msgid "Saint Lucia"
-msgstr "圣路西亚"
+msgstr "圣卢西亚"
 
 #. Name for LIE
 msgid "Liechtenstein"
@@ -1064,7 +1065,7 @@ msgstr "毛里塔尼亚伊斯兰共和国"
 
 #. Name for MSR
 msgid "Montserrat"
-msgstr "蒙塞拉特岛"
+msgstr "蒙特塞拉特"
 
 #. Name for MTQ
 msgid "Martinique"
@@ -1200,7 +1201,7 @@ msgstr "巴拿马共和国"
 
 #. Name for PCN
 msgid "Pitcairn"
-msgstr "皮特克恩"
+msgstr "皮特凯恩"
 
 #. Name for PER
 msgid "Peru"
@@ -1348,15 +1349,15 @@ msgstr "新加坡共和国"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "南乔治亚岛和南桑德韦奇岛"
+msgstr "南乔治亚和南桑德韦奇群岛"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr "圣赫勒拿-阿森松-特里斯坦达库尼亚"
+msgstr "圣赫勒拿-阿森松-特里斯坦-达库尼亚"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr "斯瓦尔巴特和扬马延岛"
+msgstr "斯瓦尔巴和扬马延"
 
 #. Name for SLB
 msgid "Solomon Islands"
@@ -1380,7 +1381,7 @@ msgstr "萨尔瓦多共和国"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "圣马力诺市"
+msgstr "圣马力诺"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1632,7 +1633,7 @@ msgstr "乌兹别克斯坦共和国"
 
 #. Name for VAT
 msgid "Holy See (Vatican City State)"
-msgstr "梵地冈"
+msgstr "梵蒂冈"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
@@ -1664,7 +1665,7 @@ msgstr "美属维尔京群岛"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr "美属维京群岛"
+msgstr "美属维尔京群岛"
 
 #. Name for VNM
 msgid "Viet Nam"

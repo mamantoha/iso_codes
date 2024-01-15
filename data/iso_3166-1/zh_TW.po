@@ -1,4 +1,4 @@
-# Translation of ISO 3166-1 to Traditional Chinese
+# Translation of ISO 3166-1 to Chinese (Traditional)
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .

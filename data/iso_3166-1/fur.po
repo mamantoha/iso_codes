@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Fabio Tomat <f.t.public@gmail.com>, 2020.
-# adecorte <adecorte@gmail.com>, 2021.
+# adecorte <adecorte@gmail.com>, 2021, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2021-12-23 19:27+0000\n"
+"PO-Revision-Date: 2023-12-20 20:16+0000\n"
 "Last-Translator: adecorte <adecorte@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fur/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 5.3\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -726,7 +726,7 @@ msgstr "Republiche Islamiche dal Iran"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -846,7 +846,7 @@ msgstr "Republiche Popolâr Democratiche dal Laos"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1474,7 +1474,7 @@ msgstr "Republiche Arabe di Sirie"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Sirie"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1554,13 +1554,11 @@ msgstr "Republiche Tunisine"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turchie"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
-msgstr "Republiche di Turchie"
+msgstr "Republiche di Türkiye"
 
 #. Name for TUV
 msgid "Tuvalu"
