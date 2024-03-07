@@ -15,14 +15,15 @@
 # Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2013.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
 # KushagraKarira <kushagrakarira@gmail.com>, 2021.
+# Scrambled777 <weblate.scrambled777@simplelogin.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2021-11-12 17:51+0000\n"
-"Last-Translator: KushagraKarira <kushagrakarira@gmail.com>\n"
+"PO-Revision-Date: 2024-02-29 14:02+0000\n"
+"Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hi/>\n"
 "Language: hi\n"
@@ -30,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -739,7 +740,7 @@ msgstr "इस्लामिक रिपब्लिक ऑफ इरान"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "ईरान"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -859,7 +860,7 @@ msgstr "लाओ पीपल्स डेमोक्रेटिक रिप
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "लाओस"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1487,7 +1488,7 @@ msgstr "सीरियन अरब रिपब्लिक"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "सीरिया"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1567,13 +1568,11 @@ msgstr "रिपब्लिक ऑफ ट्यूनीशिया"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "तुर्किये"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
-msgstr "रिपब्लिक ऑफ टर्की"
+msgstr "तुर्किये गणराज्य"
 
 #. Name for TUV
 msgid "Tuvalu"

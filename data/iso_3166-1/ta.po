@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2024-01-14 11:50+0000\n"
+"PO-Revision-Date: 2024-01-16 03:46+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ta/>\n"
@@ -51,7 +51,7 @@ msgstr "அங்கியுலா"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr "அலண்ட் தீவுகள்"
+msgstr "எலந்து தீவுகள்"
 
 #. Name for ALB
 msgid "Albania"
@@ -1655,7 +1655,7 @@ msgstr "ப்ரிட்டீச் விர்சின் தீவுக�
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "வெர்சின் தீவுகள் , யு.எச்"
+msgstr "வெர்சின் தீவுகள், யு.எச்."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
