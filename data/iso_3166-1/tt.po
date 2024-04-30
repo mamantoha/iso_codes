@@ -6,19 +6,23 @@
 # .
 # Copyright ©
 # Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+# R Kleiner <63dangerous@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2005-10-21 15:11+0300\n"
-"Last-Translator: Albert Fazlí <tatarish.l10n@gmail.com>\n"
-"Language-Team: Tatarish <tatarish.l10n@gmail.com>\n"
+"PO-Revision-Date: 2024-04-22 21:07+0000\n"
+"Last-Translator: R Kleiner <63dangerous@gmail.com>\n"
+"Language-Team: Tatar <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/tt/>\n"
 "Language: tt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -63,7 +67,7 @@ msgstr "Андорра"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr ""
+msgstr "Андорра кенәзлеге"
 
 #. Name for ARE
 msgid "United Arab Emirates"
@@ -71,11 +75,11 @@ msgstr "Берләшкән Гәрәп Әмирлекләре"
 
 #. Name for ARG
 msgid "Argentina"
-msgstr "Арgентина"
+msgstr "Аргентина"
 
 #. Official name for ARG
 msgid "Argentine Republic"
-msgstr "Арgентина Җөмһүриәте"
+msgstr "Аргентина Җөмһүриәте"
 
 #. Name for ARM
 msgid "Armenia"

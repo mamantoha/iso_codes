@@ -9,14 +9,14 @@
 # Elian Myftiu <elian.myftiu@gmail.com>, 2004, 2006.
 # Besnik Bleta <besnik@programeshqip.org>, 2020.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2022.
-# Besmir Godole <bgodole@gmail.com>, 2022.
+# Besmir Godole <bgodole@gmail.com>, 2022, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-11-27 15:53+0000\n"
+"PO-Revision-Date: 2024-04-12 16:02+0000\n"
 "Last-Translator: Besmir Godole <bgodole@gmail.com>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sq/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -729,7 +729,7 @@ msgstr "Republika Islamike e Iranit"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -849,7 +849,7 @@ msgstr "Republika Demokratike Popullore e Laosit"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1477,7 +1477,7 @@ msgstr "Republika Arabe e Sirisë"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Siri"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1556,13 +1556,10 @@ msgid "Republic of Tunisia"
 msgstr "Republika e Tunizisë"
 
 #. Name for TUR
-#, fuzzy
 msgid "Türkiye"
 msgstr "Turqi"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Republika e Turqisë"
 

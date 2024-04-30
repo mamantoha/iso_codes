@@ -12,14 +12,15 @@
 # IIDA Yosiaki <iida@gnu.org>, 2004-2006.
 # TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
 # ht1722 <taichi_19990611@yahoo.co.jp>, 2022.
+# ht1722 <ht1722@users.noreply.hosted.weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-04-09 00:10+0000\n"
-"Last-Translator: ht1722 <taichi_19990611@yahoo.co.jp>\n"
+"PO-Revision-Date: 2024-03-25 00:59+0000\n"
+"Last-Translator: ht1722 <ht1722@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ja/>\n"
 "Language: ja\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 # 以下「国国」は、国立国会図書館のサイト。
 # CLDR訳
@@ -529,7 +530,7 @@ msgstr "チャム語族"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "モンテネグロ語"
 
 # 国国
 #. Name for cop
@@ -1188,9 +1189,8 @@ msgstr "イヌピアック語"
 # 北米
 # イロクォイ〜とも
 #. Name for ira
-#, fuzzy
 msgid "Iranian languages"
-msgstr "イロコイ語族"
+msgstr "イラン語派"
 
 # 国国
 # 北米

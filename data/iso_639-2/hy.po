@@ -6,14 +6,15 @@
 # .
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2023.
+# At protom <atprotom@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-12-19 11:15+0000\n"
-"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
+"PO-Revision-Date: 2024-04-18 14:30+0000\n"
+"Last-Translator: At protom <atprotom@gmail.com>\n"
 "Language-Team: Armenian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/hy/>\n"
 "Language: hy\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.3\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -89,15 +90,15 @@ msgstr "Ամհարերեն"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "Անգլերեն, Հին (մոտ 450-1100)"
+msgstr "Հին Անգլերեն (մոտ 450-1100)"
 
 #. Name for anp
 msgid "Angika"
-msgstr "Անջիկա"
+msgstr "Անգիկա"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr "Ապաչիների լեզուները"
+msgstr "Ապաչիների լեզուներ"
 
 #. Name for ara
 msgid "Arabic"

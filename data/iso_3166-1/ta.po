@@ -14,8 +14,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2024-01-16 03:46+0000\n"
-"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"PO-Revision-Date: 2024-03-10 14:01+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ta/>\n"
 "Language: ta\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -275,7 +275,7 @@ msgstr "கனடா"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "கோகோச்(கீலிங்) தீவு"
+msgstr "கொக்கோசு (கீலிங்) தீவுகள்"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -311,7 +311,7 @@ msgstr "கோத் ட்லவோர் குடியரசு"
 
 #. Name for CMR
 msgid "Cameroon"
-msgstr "கேமரூன்"
+msgstr "கமரூன்"
 
 #. Official name for CMR
 msgid "Republic of Cameroon"
@@ -327,11 +327,11 @@ msgstr "காங்கோ"
 
 #. Official name for COG
 msgid "Republic of the Congo"
-msgstr "காங்கோ குடியரசு"
+msgstr "கொங்கோ குடியரசு"
 
 #. Name for COK
 msgid "Cook Islands"
-msgstr "குக் தீவு"
+msgstr "குக் தீவுகள்"
 
 #. Name for COL
 msgid "Colombia"
@@ -343,7 +343,7 @@ msgstr "கொலம்பியா குடியரசு"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "கோமரோச்"
+msgstr "கொமொரோசு"
 
 #. Official name for COM
 msgid "Union of the Comoros"
@@ -367,7 +367,7 @@ msgstr "கோச்டோ ரிகா குடியரசு"
 
 #. Name for CUB
 msgid "Cuba"
-msgstr "க்யூபா"
+msgstr "கூபா"
 
 #. Official name for CUB
 msgid "Republic of Cuba"
@@ -383,7 +383,7 @@ msgstr "கிறிச்துமச் தீவு"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "கேமான் தீவுகள்"
+msgstr "கேமன் தீவுகள்"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -447,7 +447,7 @@ msgstr "அல்சீரிய மக்கள் குடியாட்ச�
 
 #. Name for ECU
 msgid "Ecuador"
-msgstr "ஈக்வடார்"
+msgstr "எக்குவடோர்"
 
 #. Official name for ECU
 msgid "Republic of Ecuador"
@@ -463,7 +463,7 @@ msgstr "எகிப்து அரபு குடியரசு"
 
 #. Name for ERI
 msgid "Eritrea"
-msgstr "எரிட்ரேயா"
+msgstr "எரித்திரியா"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
@@ -475,7 +475,7 @@ msgstr "மேற்கு சகாரா"
 
 #. Name for ESP
 msgid "Spain"
-msgstr "ச்பெயின்"
+msgstr "எசுபைன்"
 
 #. Official name for ESP
 msgid "Kingdom of Spain"
@@ -519,7 +519,7 @@ msgstr "பாக்லான்ட் தீவுகள் (மால்வி
 
 #. Name for FRA
 msgid "France"
-msgstr "ஃப்ரான்ச்"
+msgstr "பிரான்சு"
 
 #. Official name for FRA
 msgid "French Republic"
@@ -527,7 +527,7 @@ msgstr "பிரெஞ்சு குடியரசு"
 
 #. Name for FRO
 msgid "Faroe Islands"
-msgstr "பேரோ தீவுகள்"
+msgstr "பரோயே தீவுகள்"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
