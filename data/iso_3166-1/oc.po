@@ -7,14 +7,14 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>, 2002.
-# Quentin PAGÈS <quentinantonin@free.fr>, 2021, 2022, 2023.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2021, 2022, 2023, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-03-20 09:23+0000\n"
+"PO-Revision-Date: 2024-11-15 07:00+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/oc/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1038,7 +1038,6 @@ msgid "Northern Mariana Islands"
 msgstr "Illas Marianas del Nòrd"
 
 #. Official name for MNP
-#, fuzzy
 msgid "Commonwealth of the Northern Mariana Islands"
 msgstr "Commonwealth de las islas Mariannas del Nòrd"
 

@@ -10,14 +10,15 @@
 # Milo Casagrande <milo@casagrande.name>, 2008-2010, 2012-2013, 2017.
 # Fabio Tomat <f.t.public@gmail.com>, 2020, 2022.
 # Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
+# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-12-10 18:48+0000\n"
-"Last-Translator: Luigi Toscano <luigi.toscano@tiscali.it>\n"
+"PO-Revision-Date: 2024-12-12 11:18+0100\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/it/>\n"
 "Language: it\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Poedit 3.5\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -34,11 +35,11 @@ msgstr "Afar"
 
 #. Name for abk
 msgid "Abkhazian"
-msgstr "Abkhazian"
+msgstr "Abcaso"
 
 #. Name for ace
 msgid "Achinese"
-msgstr "Achinese"
+msgstr "Aceh"
 
 #. Name for ach
 msgid "Acoli"
@@ -74,19 +75,19 @@ msgstr "Akan"
 
 #. Name for akk
 msgid "Akkadian"
-msgstr "Accadiano"
+msgstr "Accadico"
 
 #. Name for ale
 msgid "Aleut"
-msgstr "Aleut"
+msgstr "Aleutino"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr "Lingue Algonquian"
+msgstr "Lingue algonchine"
 
 #. Name for alt
 msgid "Southern Altai"
-msgstr "Altai del Sud"
+msgstr "Altai meridionale"
 
 #. Name for amh
 msgid "Amharic"
@@ -102,7 +103,7 @@ msgstr "Angika"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr "Lingue Apache"
+msgstr "Lingue apache"
 
 #. Name for ara
 msgid "Arabic"
@@ -118,7 +119,7 @@ msgstr "Aragonese"
 
 #. Name for arn
 msgid "Mapudungun; Mapuche"
-msgstr "Mapudungun; Mapuche"
+msgstr "Araucaniano, Mapuche"
 
 #. Name for arp
 msgid "Arapaho"
@@ -142,11 +143,11 @@ msgstr "Asturiano; Bable; Leonese; Asturiano-Leonese"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr "Lingue Athapascan"
+msgstr "Lingue athabaska"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr "Lingue australi"
+msgstr "Lingue australiane aborigene"
 
 #. Name for ava
 msgid "Avaric"
@@ -154,7 +155,7 @@ msgstr "Avarico"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestan"
+msgstr "Avestico"
 
 #. Name for awa
 msgid "Awadhi"
@@ -170,11 +171,11 @@ msgstr "Azero"
 
 #. Name for bad
 msgid "Banda languages"
-msgstr "Lingue Banda"
+msgstr "Lingue banda"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr "Lingue Bamileke"
+msgstr "Lingue bamileke"
 
 #. Name for bak
 msgid "Bashkir"
@@ -182,7 +183,7 @@ msgstr "Baschiro"
 
 #. Name for bal
 msgid "Baluchi"
-msgstr "Beluci"
+msgstr "Baluchi"
 
 #. Name for bam
 msgid "Bambara"
@@ -250,7 +251,7 @@ msgstr "Siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr "Bantu (altra)"
+msgstr "Lingue bantu (altre)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -270,7 +271,7 @@ msgstr "Bretone"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr "Lingue Batak"
+msgstr "Lingue batak"
 
 #. Name for bua
 msgid "Buriat"
@@ -294,11 +295,11 @@ msgstr "Caddo"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Lingue indiane dell’America Centrale"
+msgstr "Lingue indiane centro-americane"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Galibi Carib"
+msgstr "Lingue caribe"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -334,7 +335,7 @@ msgstr "Ceceno"
 
 #. Name for chg
 msgid "Chagatai"
-msgstr "Ciagataica"
+msgstr "Chagatai"
 
 #. Name for chk
 msgid "Chuukese"
@@ -389,7 +390,7 @@ msgstr "Copto"
 
 #. Name for cor
 msgid "Cornish"
-msgstr "Cornish"
+msgstr "Cornico"
 
 #. Name for cos
 msgid "Corsican"
@@ -421,7 +422,7 @@ msgstr "Creolo e pidgin"
 
 #. Name for csb
 msgid "Kashubian"
-msgstr "Kashubian"
+msgstr "Casciubo"
 
 #. Name for cus
 msgid "Cushitic languages"
@@ -453,7 +454,7 @@ msgstr "Delaware"
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr "Slave (Athapascano)"
+msgstr "Slavey; Lingua degli schiavi"
 
 #. Name for deu
 msgid "German"
@@ -1965,7 +1966,7 @@ msgstr "Cinese"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr "Lingue Zande"
+msgstr "Lingue zande"
 
 #. Name for zul
 msgid "Zulu"

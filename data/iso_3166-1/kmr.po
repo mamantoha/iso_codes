@@ -7,14 +7,15 @@
 # Copyright ©
 # Erdal Ronahi <erdal.ronahi@gmail.com>, 2005, 2007.
 # Pêşeroja paşerojê <cyax1@protonmail.com>, 2022.
+# Ahmed kurdish <nikogaming500@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-01-14 11:56+0000\n"
-"Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
+"PO-Revision-Date: 2024-05-03 10:00+0000\n"
+"Last-Translator: Ahmed kurdish <nikogaming500@gmail.com>\n"
 "Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-1/kmr/>\n"
 "Language: kmr\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 5.5.3\n"
 "X-Poedit-Language: Kurdish\n"
 
 #. Name for ABW
@@ -593,10 +594,8 @@ msgid "Gambia"
 msgstr "Gambiya"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Komara Zambiya"
+msgstr "Komara Gambiya"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -734,7 +733,7 @@ msgstr "Komara Îslamî ya Îran"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -855,7 +854,7 @@ msgstr "Komara Demokratîka Gelê Lao"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1006,10 +1005,8 @@ msgid "North Macedonia"
 msgstr "Makedonyaya Bakur"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Komara Lîtuaniya"
+msgstr "Komara Makedonyaya Bakur"
 
 #. Name for MLI
 msgid "Mali"
@@ -1164,9 +1161,8 @@ msgid "Nepal"
 msgstr "Nepal"
 
 #. Official name for NPL
-#, fuzzy
 msgid "Federal Democratic Republic of Nepal"
-msgstr "Komara Demokratîk a Federal a Etiyopya"
+msgstr "Komara Federal a Demokratîk a Nepalê"
 
 #. Name for NRU
 msgid "Nauru"
@@ -1237,9 +1233,8 @@ msgid "Papua New Guinea"
 msgstr "Papûa Gîneya Nû"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Dewleta Serbixwe ya Samoa"
+msgstr "Independent State of Papua New Guinea"
 
 #. Name for POL
 msgid "Poland"
@@ -1262,10 +1257,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Komara Demokratîk a Gelê Kore"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Kaledonyaya Nû"
+msgstr "Korîya Bakur"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1285,12 +1278,11 @@ msgstr "Komara Paraguay"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "Filistîn, Dewleta"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "Dewletên Yekbûyî yên Emerîkayê"
+msgstr "dewleta Filistînê"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1362,7 +1354,7 @@ msgstr "Georgiaya Basûr û Giravên Sandwicha Basûr"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr ""
+msgstr "Saint Helena, Ascension û Tristan da Cunha"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
@@ -1401,9 +1393,8 @@ msgid "Somalia"
 msgstr "Somalî"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Komara Federal a Almanya"
+msgstr "Komara Federal a Somalî"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1418,14 +1409,12 @@ msgid "Republic of Serbia"
 msgstr "Komara Sirbistan"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Komara Sûdan"
+msgstr "Sûdana Başûr"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "Komara Sûdan"
+msgstr "Komara Sûdana Başûr"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1469,18 +1458,15 @@ msgstr "Şahiyetî ya Swêd"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Şahiyetiya Spanya"
+msgstr "Padîşahiya Eswatini"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "Saint Martin (beşa firansî)"
+msgstr "Sint Maarten (Beşê Hollandî)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1496,7 +1482,7 @@ msgstr "Sûriye"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Sûrye"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1576,13 +1562,11 @@ msgstr "Komara Tûnis"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Türkiye"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
-msgstr "Komara Tirkiye"
+msgstr "Komara Türkiye"
 
 #. Name for TUV
 msgid "Tuvalu"
@@ -1606,7 +1590,7 @@ msgstr "Tanzaniya"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzanya"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1657,9 +1641,8 @@ msgid "Saint Vincent and the Grenadines"
 msgstr "Saint Vincent û Grenadines"
 
 #. Name for VEN
-#, fuzzy
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "Komara Bolîvarî ya Venezûela"
+msgstr "Venezuela, Komara Bolîvarî ya"
 
 #. Official name for VEN
 msgid "Bolivarian Republic of Venezuela"
@@ -1694,10 +1677,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Komara Sosyalîst a Viyetnam"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
-msgstr "Viyetnam"
+msgstr "Vîetnam"
 
 #. Name for VUT
 msgid "Vanuatu"

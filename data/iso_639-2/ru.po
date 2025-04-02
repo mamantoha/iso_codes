@@ -18,14 +18,15 @@
 # Yuri Kozlov <yuray@komyakino.ru>, 2004-2010, 2012-2013.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
+# kala Asi <maks-s15@mail.ru>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-12-04 23:16+0000\n"
-"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"PO-Revision-Date: 2024-11-13 06:02+0000\n"
+"Last-Translator: kala Asi <maks-s15@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ru/>\n"
 "Language: ru\n"
@@ -34,7 +35,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -391,7 +392,7 @@ msgstr "чамские языки"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "черногорский"
 
 #. Name for cop
 msgid "Coptic"
@@ -1039,7 +1040,7 @@ msgstr "лезгинский"
 
 #. Name for lim
 msgid "Limburgan; Limburger; Limburgish"
-msgstr "лимбурганский;лимбургенский; лимбургийский"
+msgstr "лимбурганский; лимбургенский; лимбургийский"
 
 #. Name for lin
 msgid "Lingala"

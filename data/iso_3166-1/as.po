@@ -6,21 +6,24 @@
 # .
 # Copyright ©
 # Amitakhya Phukan <aphukan@fedoraproject.org>, 2010.
+# Itsmechinmoy <itsmechinmoy@users.noreply.hosted.weblate.org>, 2024, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2010-04-05 17:41+0530\n"
-"Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
-"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"PO-Revision-Date: 2025-02-02 15:27+0000\n"
+"Last-Translator: Itsmechinmoy <itsmechinmoy@users.noreply.hosted.weblate.org>"
+"\n"
+"Language-Team: Assamese <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/as/>\n"
 "Language: as\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -148,7 +151,7 @@ msgstr "বেনিন প্ৰজাতন্ত্ৰ"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "বোনাইৰ, চিণ্ট ইউষ্টেটিয়াছ আৰু চাবা"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -347,16 +350,12 @@ msgid "Union of the Comoros"
 msgstr "সংযুক্ত কোমোৰোছ"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "কেপ ভাৰ্ডি"
+msgstr "কাবো ভাৰ্ডে"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "কেপ ভাৰ্ডি প্ৰজাতন্ত্ৰ"
+msgstr "ৰিপাব্লিক অৱ কাবো ভাৰ্ডে"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -376,7 +375,7 @@ msgstr "কিউবা প্ৰজাতন্ত্ৰ"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "কুৰাচাও"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -396,7 +395,7 @@ msgstr "ছাইপ্ৰাছ প্ৰজাতন্ত্ৰ"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "চেকিয়া"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -467,9 +466,8 @@ msgid "Eritrea"
 msgstr "এৰিট্ৰিয়া"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ"
+msgstr "ইৰিত্ৰিয়া ৰাজ্য"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -512,9 +510,8 @@ msgid "Fiji"
 msgstr "ফিজি"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "হাইতি প্ৰজাতন্ত্ৰ"
+msgstr "ফিজি প্ৰজাতন্ত্ৰ"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -593,8 +590,6 @@ msgid "Gambia"
 msgstr "গাম্বিয়া"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
 msgstr "জাম্বিয়া প্ৰজাতন্ত্ৰ"
 
@@ -732,7 +727,7 @@ msgstr "ইচ্‌লামিক প্ৰজাতন্ত্ৰ ইৰা�
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "ইৰাণ"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -835,10 +830,8 @@ msgid "Korea, Republic of"
 msgstr "কোৰিয়া প্ৰজাতন্ত্ৰ"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "দক্ষিণ আফ্ৰিকা"
+msgstr "দক্ষিণ কোৰিয়া"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -854,7 +847,7 @@ msgstr "গণপ্ৰজাতন্ত্ৰী লাও"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "লাওছ"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1001,16 +994,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "মাৰ্শ্বেল দ্বীপপুঞ্জ প্ৰজাতন্ত্ৰ"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "নিউ কেলেডনিয়া"
+msgstr "উত্তৰ মেচিডোনিয়া"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "লিথুৱানিয়া প্ৰজাতন্ত্ৰ"
+msgstr "উত্তৰ মেচিডোনিয়া ৰিপাব্লিক"
 
 #. Name for MLI
 msgid "Mali"
@@ -1033,9 +1022,8 @@ msgid "Myanmar"
 msgstr "মায়ান্মাৰ"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "গায়ানা প্ৰজাতন্ত্ৰ"
+msgstr "ম্যানমাৰ প্ৰজাতন্ত্ৰ"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1238,9 +1226,8 @@ msgid "Papua New Guinea"
 msgstr "পাপুৱা নিউ গিনি"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "স্বতন্ত্ৰ ৰাষ্ট্ৰ ছামোৱা"
+msgstr "স্বতন্ত্ৰ ৰাষ্ট্ৰ পাপোৱা নিউ গিনি"
 
 #. Name for POL
 msgid "Poland"
@@ -1263,10 +1250,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী কোৰিয়া"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "নিউ কেলেডনিয়া"
+msgstr "দক্ষিন কোৰিয়া"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1286,12 +1271,11 @@ msgstr "পাৰাগুৱে প্ৰজাতন্ত্ৰ"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "পেলেষ্টাইন ৰাষ্ট্ৰ"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ"
+msgstr "পেলেষ্টাইন ৰাষ্ট্ৰ"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1402,9 +1386,8 @@ msgid "Somalia"
 msgstr "ছোমালিয়া"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ জাইচ্‌লামিক্মানী"
+msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ ছোমািলয়া"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1419,14 +1402,12 @@ msgid "Republic of Serbia"
 msgstr "চাৰ্বিয়া প্ৰজাতন্ত্ৰ"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "ছুদান প্ৰজাতন্ত্ৰ"
+msgstr "দক্ষিন ছোডান"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "ছুদান প্ৰজাতন্ত্ৰ"
+msgstr "দক্ষিন ছোডান প্ৰজাতন্ত্ৰ"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1470,18 +1451,15 @@ msgstr "ছুইডেন ৰাজ্য"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "এস্বাতিনী"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "স্পেইন ৰাজ্য"
+msgstr "এস্বাতিনী ৰাজ্য"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)"
+msgstr "চেন্ট মাৰ্টিন (হলেণ্ড-দেশীয় অংশ)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1497,7 +1475,7 @@ msgstr "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "ছিৰিয়া"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1577,11 +1555,9 @@ msgstr "টিউনিছিয়া প্ৰজাতন্ত্ৰ"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "তুৰ্কীয়ে"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "তুৰস্ক প্ৰজাতন্ত্ৰ"
 
@@ -1607,7 +1583,7 @@ msgstr "সংযুক্ত প্ৰজাতন্ত্ৰ তাঞ্জ�
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "টানজানিয়া"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1694,10 +1670,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ ভিয়েতনাম"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
-msgstr "ভিয়েতনাম"
+msgstr "ভিয়েটনাম"
 
 #. Name for VUT
 msgid "Vanuatu"

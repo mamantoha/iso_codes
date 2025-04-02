@@ -362,8 +362,7 @@ msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
 msgstr ""
-"चर्च स्लाविक; पुराना स्लावोनिक; चर्च स्लावोनिक; पुराना बल्गेरियाई; पुराना चर्"
-"च स्लावोनिक"
+"चर्च स्लाविक; पुराना स्लावोनिक; चर्च स्लावोनिक; पुराना बल्गेरियाई; पुराना चर्च स्लावोनिक"
 
 #. Name for chv
 msgid "Chuvash"

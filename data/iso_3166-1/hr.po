@@ -12,14 +12,15 @@
 # Božidar Putanec <bozidarp@yahoo.com>, 2017.
 # Milo Ivir <mail@milotype.de>, 2019, 2020, 2021, 2022.
 # gogogogi <trebelnik2@gmail.com>, 2020.
+# Valentin Vidić <vvidic@valentin-vidic.from.hr>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-09-17 12:22+0000\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"PO-Revision-Date: 2025-03-10 00:55+0000\n"
+"Last-Translator: Valentin Vidić <vvidic@valentin-vidic.from.hr>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hr/>\n"
 "Language: hr\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -738,7 +739,7 @@ msgstr "Islamska Republika Iran"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -858,7 +859,7 @@ msgstr "Laoska Narodna Demokratska Republika"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1486,7 +1487,7 @@ msgstr "Sirijska Arapska Republika"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Sirija"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

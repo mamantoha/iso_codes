@@ -1,4 +1,4 @@
-# Translation of ISO 639-2 to Serbian
+# Translation of ISO 639-2 to Serbian (Latin script)
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .

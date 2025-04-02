@@ -10,16 +10,17 @@
 # Danilo Piazzalunga <danilopiazza@libero.it>, 2004.
 # Davide Viti <zinosat@tiscali.it>, 2006.
 # Milo Casagrande <milo@milo.name>, 2008-2013, 2017.
-# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2022.
+# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2024.
 # Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
+# Giuseppe Sacco <eppesuig@debian.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-12-30 21:45+0100\n"
-"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
+"PO-Revision-Date: 2025-01-24 10:07+0100\n"
+"Last-Translator: Giuseppe Sacco <eppesuig@debian.org>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -478,7 +479,7 @@ msgstr "Eritrea"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "Repubblica dell'Eritrea"
+msgstr "Stato di Eritrea"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -739,7 +740,7 @@ msgstr "Repubblica Islamica dell'Iran"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -865,7 +866,7 @@ msgstr "Laos"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1500,7 +1501,7 @@ msgstr "Siria"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Siria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1582,11 +1583,9 @@ msgstr "Repubblica tunisina"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turchia"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Repubblica di Turchia"
 

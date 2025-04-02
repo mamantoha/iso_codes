@@ -12,14 +12,15 @@
 # yurayko <yuray@komyakino.ru>, 2018.
 # Artem <KovalevArtem.ru@gmail.com>, 2020.
 # Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
+# kala Asi <maks-s15@mail.ru>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2021-11-30 23:53+0000\n"
-"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"PO-Revision-Date: 2024-11-13 06:02+0000\n"
+"Last-Translator: kala Asi <maks-s15@mail.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ru/>\n"
 "Language: ru\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -732,7 +733,7 @@ msgstr "Исламская Респу́блика Иран"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Иран"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -852,7 +853,7 @@ msgstr "Лаосская Народно-Демократическая Респ�
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Лаос"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1480,7 +1481,7 @@ msgstr "Сирийская Арабская Республика"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Сирия"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1560,11 +1561,9 @@ msgstr "Тунисская Республика"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Турция"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Турецкая Республика"
 

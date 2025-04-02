@@ -1,11 +1,11 @@
-# Translation of ISO 3166-1 to Tatar (IQTElif script)
+# Translation of ISO 3166-1 to Tatar
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Beznen Soft <tatarish.l10n@gmail.com>, 2005.
+# Albert Fazlí <tatarish.l10n@gmail.com>, 2005.
 # R Kleiner <63dangerous@gmail.com>, 2024.
 msgid ""
 msgstr ""
@@ -39,15 +39,15 @@ msgstr "İслам Пәкстан Җөмһүриәте"
 
 #. Name for AGO
 msgid "Angola"
-msgstr "Анgола"
+msgstr "Ангола"
 
 #. Official name for AGO
 msgid "Republic of Angola"
-msgstr "Анgола Җөмһүриәте"
+msgstr "Ангола Җөмһүриәте"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr "Анgуилла"
+msgstr "Ангуилла"
 
 #. Name for ALA
 msgid "Åland Islands"
@@ -103,7 +103,7 @@ msgstr ""
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
-msgstr "Антиgуа белән Барбуда"
+msgstr "Антигуа белән Барбуда"
 
 #. Name for AUS
 msgid "Australia"
@@ -135,11 +135,11 @@ msgstr "Бурунди Җөмһүриәте"
 
 #. Name for BEL
 msgid "Belgium"
-msgstr "Белgиа"
+msgstr "Белгиа"
 
 #. Official name for BEL
 msgid "Kingdom of Belgium"
-msgstr "Белgиа Патшаһлыгы"
+msgstr "Белгиа Патшаһлыгы"
 
 #. Name for BEN
 msgid "Benin"
@@ -159,7 +159,7 @@ msgstr "Буркина Фасо"
 
 #. Name for BGD
 msgid "Bangladesh"
-msgstr "Банgладеш"
+msgstr "Бангладеш"
 
 #. Official name for BGD
 msgid "People's Republic of Bangladesh"
@@ -167,11 +167,11 @@ msgstr ""
 
 #. Name for BGR
 msgid "Bulgaria"
-msgstr "Булgариа"
+msgstr "Булгариа"
 
 #. Official name for BGR
 msgid "Republic of Bulgaria"
-msgstr "Булgариа Җөмһүриәте"
+msgstr "Булгариа Җөмһүриәте"
 
 #. Name for BHR
 msgid "Bahrain"
@@ -192,11 +192,11 @@ msgstr ""
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Босниа белән Һерзеgовина"
+msgstr "Босниа белән Һерзеговина"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
-msgstr "Босниа белән Һерзеgовина Җөмһүриәте"
+msgstr "Босниа белән Һерзеговина Җөмһүриәте"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
@@ -276,7 +276,7 @@ msgstr "Канада"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "Кокос (Кеелинg) Утравлары"
+msgstr "Кокос (Кеелинг) Утравлары"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -321,15 +321,15 @@ msgstr "Камероон Җөмһүриәте"
 
 #. Name for COD
 msgid "Congo, The Democratic Republic of the"
-msgstr "Конgо, Демократ Җөмһүриәте"
+msgstr "Конго, Демократ Җөмһүриәте"
 
 #. Name for COG
 msgid "Congo"
-msgstr "Конgо"
+msgstr "Конго"
 
 #. Official name for COG
 msgid "Republic of the Congo"
-msgstr "Конgо Җөмһүриәте"
+msgstr "Конго Җөмһүриәте"
 
 #. Name for COK
 msgid "Cook Islands"
@@ -547,11 +547,11 @@ msgstr ""
 
 #. Name for GAB
 msgid "Gabon"
-msgstr "Gабон"
+msgstr "Габон"
 
 #. Official name for GAB
 msgid "Gabonese Republic"
-msgstr "Gабонесе Җөмһүриәте"
+msgstr "Габонесе Җөмһүриәте"
 
 #. Name for GBR
 msgid "United Kingdom"
@@ -563,7 +563,7 @@ msgstr ""
 
 #. Name for GEO
 msgid "Georgia"
-msgstr "Gөрҗестан"
+msgstr "Гөрҗестан"
 
 #. Name for GGY
 msgid "Guernsey"
@@ -571,31 +571,31 @@ msgstr ""
 
 #. Name for GHA
 msgid "Ghana"
-msgstr "Gһана"
+msgstr "Гһана"
 
 #. Official name for GHA
 msgid "Republic of Ghana"
-msgstr "Gһана Җөмһүриәте"
+msgstr "Гһана Җөмһүриәте"
 
 #. Name for GIB
 msgid "Gibraltar"
-msgstr "Gибралтар"
+msgstr "Гибралтар"
 
 #. Name for GIN
 msgid "Guinea"
-msgstr "Gуинеа"
+msgstr "Гуинеа"
 
 #. Official name for GIN
 msgid "Republic of Guinea"
-msgstr "Gуинеа Җөмһүриәте"
+msgstr "Гуинеа Җөмһүриәте"
 
 #. Name for GLP
 msgid "Guadeloupe"
-msgstr "Gуаделупа"
+msgstr "Гуаделупа"
 
 #. Name for GMB
 msgid "Gambia"
-msgstr "Gамбиа"
+msgstr "Гамбиа"
 
 #. Official name for GMB
 #, fuzzy
@@ -605,19 +605,19 @@ msgstr "Замбиа Җөмһүриәте"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
-msgstr "Gуинеа-Биссау"
+msgstr "Гуинеа-Биссау"
 
 #. Official name for GNB
 msgid "Republic of Guinea-Bissau"
-msgstr "Gуинеа-Биссау Җөмһүриәте"
+msgstr "Гуинеа-Биссау Җөмһүриәте"
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr "Екуаторлы Gуинеа"
+msgstr "Екуаторлы Гуинеа"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
-msgstr "Екуаторлы Gуинеа Җөмһүриәте"
+msgstr "Екуаторлы Гуинеа Җөмһүриәте"
 
 #. Name for GRC
 msgid "Greece"
@@ -629,39 +629,39 @@ msgstr "Һеллен Җөмһүриәте"
 
 #. Name for GRD
 msgid "Grenada"
-msgstr "Gренада"
+msgstr "Гренада"
 
 #. Name for GRL
 msgid "Greenland"
-msgstr "Gреенланд"
+msgstr "Греенланд"
 
 #. Name for GTM
 msgid "Guatemala"
-msgstr "Gуатемала"
+msgstr "Гуатемала"
 
 #. Official name for GTM
 msgid "Republic of Guatemala"
-msgstr "Gуатемала Җөмһүриәте"
+msgstr "Гуатемала Җөмһүриәте"
 
 #. Name for GUF
 msgid "French Guiana"
-msgstr "Франс Gуиана"
+msgstr "Франс Гуиана"
 
 #. Name for GUM
 msgid "Guam"
-msgstr "Gуам"
+msgstr "Гуам"
 
 #. Name for GUY
 msgid "Guyana"
-msgstr "Gуяна"
+msgstr "Гуяна"
 
 #. Official name for GUY
 msgid "Republic of Guyana"
-msgstr "Gуяна Җөмһүриәте"
+msgstr "Гуяна Җөмһүриәте"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Һонg Конg"
+msgstr "Һонг Конг"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -920,7 +920,7 @@ msgstr "Литуаниа Җөмһүриәте"
 
 #. Name for LUX
 msgid "Luxembourg"
-msgstr "Лүксембурg"
+msgstr "Лүксембург"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
@@ -977,11 +977,11 @@ msgstr ""
 
 #. Name for MDG
 msgid "Madagascar"
-msgstr "Мадаgаскар"
+msgstr "Мадагаскар"
 
 #. Official name for MDG
 msgid "Republic of Madagascar"
-msgstr "Мадаgаскар Җөмһүриәте"
+msgstr "Мадагаскар Җөмһүриәте"
 
 #. Name for MDV
 msgid "Maldives"
@@ -1042,12 +1042,12 @@ msgstr "Мианмар"
 #. Official name for MMR
 #, fuzzy
 msgid "Republic of Myanmar"
-msgstr "Gуяна Җөмһүриәте"
+msgstr "Гуяна Җөмһүриәте"
 
 #. Name for MNE, Official name for MNE
 #, fuzzy
 msgid "Montenegro"
-msgstr "Сербиа белән Монтенеgро"
+msgstr "Сербиа белән Монтенегро"
 
 #. Name for MNG
 msgid "Mongolia"
@@ -1123,11 +1123,11 @@ msgstr "Яңа Каледониа"
 
 #. Name for NER
 msgid "Niger"
-msgstr "Ниgер"
+msgstr "Нигер"
 
 #. Official name for NER
 msgid "Republic of the Niger"
-msgstr "Ниgер Җөмһүриәте"
+msgstr "Нигер Җөмһүриәте"
 
 #. Name for NFK
 msgid "Norfolk Island"
@@ -1135,7 +1135,7 @@ msgstr "Норфолк Утравлары"
 
 #. Name for NGA
 msgid "Nigeria"
-msgstr "Ниgериа"
+msgstr "Нигериа"
 
 #. Official name for NGA
 msgid "Federal Republic of Nigeria"
@@ -1143,11 +1143,11 @@ msgstr ""
 
 #. Name for NIC
 msgid "Nicaragua"
-msgstr "Никараgуа"
+msgstr "Никарагуа"
 
 #. Official name for NIC
 msgid "Republic of Nicaragua"
-msgstr "Ниҗараgуа Җөмһүриәте"
+msgstr "Ниҗарагуа Җөмһүриәте"
 
 #. Name for NIU, Official name for NIU
 msgid "Niue"
@@ -1176,7 +1176,7 @@ msgstr "Непал"
 #. Official name for NPL
 #, fuzzy
 msgid "Federal Democratic Republic of Nepal"
-msgstr "Конgо, Демократ Җөмһүриәте"
+msgstr "Конго, Демократ Җөмһүриәте"
 
 #. Name for NRU
 msgid "Nauru"
@@ -1244,7 +1244,7 @@ msgstr "Палау Җөмһүриәте"
 
 #. Name for PNG
 msgid "Papua New Guinea"
-msgstr "Папуа Яңа Gуинеа"
+msgstr "Папуа Яңа Гуинеа"
 
 #. Official name for PNG
 #, fuzzy
@@ -1279,19 +1279,19 @@ msgstr "Яңа Каледониа"
 
 #. Name for PRT
 msgid "Portugal"
-msgstr "Портуgалиа"
+msgstr "Португалиа"
 
 #. Official name for PRT
 msgid "Portuguese Republic"
-msgstr "Портуgалиа Җөмһүриәте"
+msgstr "Португалиа Җөмһүриәте"
 
 #. Name for PRY
 msgid "Paraguay"
-msgstr "Параgуай"
+msgstr "Парагуай"
 
 #. Official name for PRY
 msgid "Republic of Paraguay"
-msgstr "Параgуай Җөмһүриәте"
+msgstr "Парагуай Җөмһүриәте"
 
 #. Name for PSE
 msgid "Palestine, State of"
@@ -1352,19 +1352,19 @@ msgstr "Судан Җөмһүриәте"
 
 #. Name for SEN
 msgid "Senegal"
-msgstr "Сенеgал"
+msgstr "Сенегал"
 
 #. Official name for SEN
 msgid "Republic of Senegal"
-msgstr "Сенеgал Җөмһүриәте"
+msgstr "Сенегал Җөмһүриәте"
 
 #. Name for SGP
 msgid "Singapore"
-msgstr "Синgапур"
+msgstr "Сингапур"
 
 #. Official name for SGP
 msgid "Republic of Singapore"
-msgstr "Синgапур Җөмһүриәте"
+msgstr "Сингапур Җөмһүриәте"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
@@ -1413,7 +1413,7 @@ msgstr "Сомалиа"
 #. Official name for SOM
 #, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Конgо, Демократ Җөмһүриәте"
+msgstr "Конго, Демократ Җөмһүриәте"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1523,11 +1523,11 @@ msgstr "Чад Җөмһүриәте"
 
 #. Name for TGO
 msgid "Togo"
-msgstr "Тоgо"
+msgstr "Того"
 
 #. Official name for TGO
 msgid "Togolese Republic"
-msgstr "Тоgолесе Җөмһүриәте"
+msgstr "Тоголесе Җөмһүриәте"
 
 #. Name for THA
 msgid "Thailand"
@@ -1563,19 +1563,19 @@ msgstr ""
 
 #. Name for TON
 msgid "Tonga"
-msgstr "Тонgа"
+msgstr "Тонга"
 
 #. Official name for TON
 msgid "Kingdom of Tonga"
-msgstr "Тонgа Патшаһлыгы"
+msgstr "Тонга Патшаһлыгы"
 
 #. Name for TTO
 msgid "Trinidad and Tobago"
-msgstr "Тринидад белән Тобаgо"
+msgstr "Тринидад белән Тобаго"
 
 #. Official name for TTO
 msgid "Republic of Trinidad and Tobago"
-msgstr "Тринидад белән Тобаgо Җөмһүриәте"
+msgstr "Тринидад белән Тобаго Җөмһүриәте"
 
 #. Name for TUN
 msgid "Tunisia"
@@ -1601,7 +1601,7 @@ msgstr "Тувалуча"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
-msgstr "Таиван, Чин Төбәgе"
+msgstr "Таиван, Чин Төбәге"
 
 #. Common name for TWN
 msgid "Taiwan"
@@ -1621,11 +1621,11 @@ msgstr ""
 
 #. Name for UGA
 msgid "Uganda"
-msgstr "Уgанда"
+msgstr "Уганда"
 
 #. Official name for UGA
 msgid "Republic of Uganda"
-msgstr "Уgанда Җөмһүриәте"
+msgstr "Уганда Җөмһүриәте"
 
 #. Name for UKR
 msgid "Ukraine"
@@ -1637,11 +1637,11 @@ msgstr ""
 
 #. Name for URY
 msgid "Uruguay"
-msgstr "Уруgуай"
+msgstr "Уругуай"
 
 #. Official name for URY
 msgid "Eastern Republic of Uruguay"
-msgstr "Чыгыс Уруgуай Җөмһүриәте"
+msgstr "Чыгыс Уругуай Җөмһүриәте"
 
 #. Name for USA
 msgid "United States"
@@ -1682,19 +1682,19 @@ msgstr "Венезуела"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
-msgstr "Вирgин Утравлары, Британ"
+msgstr "Виргин Утравлары, Британ"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "Британ Вирgин Утравлары"
+msgstr "Британ Виргин Утравлары"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Вирgин Утравлары, АКШ"
+msgstr "Виргин Утравлары, АКШ"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr "Берләшкән Штатларның Вирgин Утравлары"
+msgstr "Берләшкән Штатларның Виргин Утравлары"
 
 #. Name for VNM
 msgid "Viet Nam"

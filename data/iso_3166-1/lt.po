@@ -9,16 +9,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004-2010.
 # Rimas Kudelis <rq@akl.lt>, 2012-2013.
-# Rimas Kudelis <rimas@kudelis.lt>, 2023.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
+# Rimas Kudelis <rimas@kudelis.lt>, 2023, 2025.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2023, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-07-15 07:53+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2025-02-22 21:41+0000\n"
+"Last-Translator: Rimas Kudelis <rimas@kudelis.lt>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/lt/>\n"
 "Language: lt\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1 ? 0 : n%10>=2 && (n%100<10 || "
 "n%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.10.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1603,7 +1603,7 @@ msgstr "Ukraina"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Jungtinių Valstijų Mažosios pakraštinės salos"
+msgstr "Jungtinių Valstijų Mažosios Tolimosios Salos"
 
 #. Name for URY
 msgid "Uruguay"

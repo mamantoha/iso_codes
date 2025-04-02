@@ -16,14 +16,15 @@
 # d <dmanye@gmail.com>, 2023.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
 # Joan Montané <jmontane@gmail.com>, 2024.
+# "Josep M. Ferrer" <txemaq@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2024-04-29 18:50+0000\n"
-"Last-Translator: Joan Montané <jmontane@gmail.com>\n"
+"PO-Revision-Date: 2024-09-15 21:09+0000\n"
+"Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ca/>\n"
 "Language: ca\n"
@@ -31,7 +32,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.2\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -315,7 +316,7 @@ msgstr "Costa d'Ivori"
 
 #. Official name for CIV
 msgid "Republic of Côte d'Ivoire"
-msgstr "República de Costa d'Ivori"
+msgstr "República de la Costa d'Ivori"
 
 #. Name for CMR
 msgid "Cameroon"
@@ -1553,7 +1554,7 @@ msgstr "Trinidad i Tobago"
 
 #. Official name for TTO
 msgid "Republic of Trinidad and Tobago"
-msgstr "República de Trinitat i Tobago"
+msgstr "República de Trinidad i Tobago"
 
 #. Name for TUN
 msgid "Tunisia"

@@ -14,14 +14,15 @@
 # Rui Mendes <xz9@protonmail.com>, 2019.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
 # Miguel Figueiredo <mfigueiredo@gmail.com>, 2022.
+# ssantos <ssantos@web.de>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-12-11 20:48+0000\n"
-"Last-Translator: Miguel Figueiredo <mfigueiredo@gmail.com>\n"
+"PO-Revision-Date: 2024-10-07 21:28+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pt/>\n"
 "Language: pt\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -733,7 +734,7 @@ msgstr "República Islâmica do Irão"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Irão"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -853,7 +854,7 @@ msgstr "República Democrática Popular do Laos"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1481,7 +1482,7 @@ msgstr "República Árabe Síria"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Síria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1564,8 +1565,6 @@ msgid "Türkiye"
 msgstr "Turquia"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "República da Turquia"
 

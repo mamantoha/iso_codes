@@ -1,4 +1,4 @@
-# Translation of ISO 639-2 to Tatar (IQTElif script)
+# Translation of ISO 639-2 to Tatar
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
@@ -211,7 +211,7 @@ msgstr ""
 
 #. Name for ben
 msgid "Bengali"
-msgstr "Бенgалча"
+msgstr "Бенгалча"
 
 #. Common name for ben
 msgid "Bangla"
@@ -282,7 +282,7 @@ msgstr ""
 
 #. Name for bul
 msgid "Bulgarian"
-msgstr "Булgарча"
+msgstr "Булгарча"
 
 #. Name for byn
 msgid "Blin; Bilin"
@@ -300,7 +300,7 @@ msgstr "Төняк Сами"
 #. Name for car
 #, fuzzy
 msgid "Galibi Carib"
-msgstr "Gалисчә"
+msgstr "Галисчә"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -504,7 +504,7 @@ msgstr ""
 
 #. Name for dzo
 msgid "Dzongkha"
-msgstr "Дзонgхача"
+msgstr "Дзонгхача"
 
 #. Name for efi
 msgid "Efik"
@@ -528,7 +528,7 @@ msgstr ""
 
 #. Name for eng
 msgid "English"
-msgstr "İнgлизчә"
+msgstr "İнглизчә"
 
 #. Name for enm
 msgid "English, Middle (1100-1500)"
@@ -661,7 +661,7 @@ msgstr "İрищә"
 
 #. Name for glg
 msgid "Galician"
-msgstr "Gалисчә"
+msgstr "Галисчә"
 
 #. Name for glv
 msgid "Manx"
@@ -697,7 +697,7 @@ msgstr ""
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Gуаранча"
+msgstr "Гуаранча"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
@@ -705,7 +705,7 @@ msgstr ""
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "Gужаратча"
+msgstr "Гужаратча"
 
 #. Name for gwi
 msgid "Gwich'in"
@@ -807,7 +807,7 @@ msgstr "İнуктитутча"
 #. Name for ile
 #, fuzzy
 msgid "Interlingue; Occidental"
-msgstr "İнтерлинgуе"
+msgstr "İнтерлингуе"
 
 #. Name for ilo
 msgid "Iloko"
@@ -911,7 +911,7 @@ msgstr "Кашмирчә"
 
 #. Name for kat
 msgid "Georgian"
-msgstr "Gөрҗечә"
+msgstr "Гөрҗечә"
 
 #. Name for kau
 msgid "Kanuri"
@@ -1057,7 +1057,7 @@ msgstr ""
 
 #. Name for lin
 msgid "Lingala"
-msgstr "Линgалача"
+msgstr "Лингалача"
 
 #. Name for lit
 msgid "Lithuanian"
@@ -1074,7 +1074,7 @@ msgstr ""
 #. Name for ltz
 #, fuzzy
 msgid "Luxembourgish; Letzeburgesch"
-msgstr "Лүксембурgча"
+msgstr "Лүксембургча"
 
 #. Name for lua
 msgid "Luba-Lulua"
@@ -1185,7 +1185,7 @@ msgstr "Госман телләре"
 
 #. Name for mlg
 msgid "Malagasy"
-msgstr "Малаgасча"
+msgstr "Малагасча"
 
 #. Name for mlt
 msgid "Maltese"
@@ -1290,7 +1290,7 @@ msgstr "Ндебелечә, Төняк"
 
 #. Name for ndo
 msgid "Ndonga"
-msgstr "Ндонgача"
+msgstr "Ндонгача"
 
 #. Name for nds
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
@@ -1468,7 +1468,7 @@ msgstr ""
 
 #. Name for por
 msgid "Portuguese"
-msgstr "Портуgалча"
+msgstr "Португалча"
 
 #. Name for pra
 msgid "Prakrit languages"
@@ -1541,7 +1541,7 @@ msgstr ""
 
 #. Name for sag
 msgid "Sango"
-msgstr "Санgоча"
+msgstr "Сангоча"
 
 #. Name for sah
 msgid "Yakut"
@@ -1775,7 +1775,7 @@ msgstr "Татарча"
 
 #. Name for tel
 msgid "Telugu"
-msgstr "Телуgуча"
+msgstr "Телугуча"
 
 #. Name for tem
 msgid "Timne"
@@ -1795,7 +1795,7 @@ msgstr "Тажыкча"
 
 #. Name for tgl
 msgid "Tagalog"
-msgstr "Таgалоgча"
+msgstr "Тагалогча"
 
 #. Name for tha
 msgid "Thai"
@@ -1807,7 +1807,7 @@ msgstr ""
 
 #. Name for tir
 msgid "Tigrinya"
-msgstr "Тиgриняча"
+msgstr "Тигриняча"
 
 #. Name for tiv
 msgid "Tiv"
@@ -1851,7 +1851,7 @@ msgstr "Цванача"
 
 #. Name for tso
 msgid "Tsonga"
-msgstr "Цонgача"
+msgstr "Цонгача"
 
 #. Name for tuk
 msgid "Turkmen"

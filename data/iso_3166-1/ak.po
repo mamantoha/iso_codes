@@ -5,14 +5,16 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
+# PUBG Game Min <pubggamemin2009@gmail.com>, 2024.
+# Benjamin Alan Jamie <benjamin@weblate.org>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2017-12-25 21:08+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2024-10-09 00:26+0000\n"
+"Last-Translator: Benjamin Alan Jamie <benjamin@weblate.org>\n"
 "Language-Team: Akan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ak/>\n"
 "Language: ak\n"
@@ -20,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -28,7 +30,7 @@ msgstr ""
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afganistan"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
