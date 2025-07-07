@@ -13,14 +13,15 @@
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 # Franco <francobenedetti.59+github1@gmail.com>, 2022.
+# Walter Paterno <walter.paterno@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-07-31 07:19+0000\n"
-"Last-Translator: Franco <francobenedetti.59+github1@gmail.com>\n"
+"PO-Revision-Date: 2025-05-11 18:16+0000\n"
+"Last-Translator: Walter Paterno <walter.paterno@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/es/>\n"
 "Language: es\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -360,7 +361,7 @@ msgstr "Chipewyan; Dene Suline"
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "cheroqui"
+msgstr "Cheroqui"
 
 #. Name for chu
 msgid ""
@@ -695,7 +696,7 @@ msgstr "Alemán suizo; alemánico; alsaciano"
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "guyaratí"
+msgstr "Guyaratí"
 
 #. Name for gwi
 msgid "Gwich'in"
@@ -1103,7 +1104,7 @@ msgstr "Makasar"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "malabar"
+msgstr "Malabar"
 
 #. Name for man
 msgid "Mandingo"
@@ -1907,7 +1908,7 @@ msgstr "Sorabianas, lenguas"
 
 #. Name for wln
 msgid "Walloon"
-msgstr "valón"
+msgstr "Valonia"
 
 #. Name for wol
 msgid "Wolof"
@@ -1983,4 +1984,4 @@ msgstr "Sin contenido lingüístico; no aplicable"
 
 #. Name for zza
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"
-msgstr "Zaza; dimili; dimli; kirdki; kirmanjki; zazaki"
+msgstr "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"

@@ -15,14 +15,15 @@
 # Balázs Meskó <meskobalazs@fedoraproject.org>, 2017.
 # Doma Gergő <domag02@gmail.com>, 2019.
 # Balázs Meskó <meskobalazs@mailbox.org>, 2023.
+# RViktor <rviktor@ivankapal.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-10-08 12:02+0000\n"
-"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
+"PO-Revision-Date: 2025-04-08 02:04+0000\n"
+"Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/hu/>\n"
 "Language: hu\n"
@@ -30,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -43,11 +44,11 @@ msgstr "abház"
 
 #. Name for ace
 msgid "Achinese"
-msgstr "acsehnéz"
+msgstr "acehi"
 
 #. Name for ach
 msgid "Acoli"
-msgstr "acsoli"
+msgstr "acoli"
 
 #. Name for ada
 msgid "Adangme"

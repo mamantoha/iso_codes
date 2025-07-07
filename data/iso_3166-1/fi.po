@@ -11,14 +11,15 @@
 # .
 # Copyright ©
 # Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2006, 2008-2011.
+# Jiri Grönroos <jiri.gronroos@iki.fi>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2025-05-01 11:04+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fi/>\n"
 "Language: fi\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -738,7 +739,7 @@ msgstr "Iranin islamilainen tasavalta"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -1008,16 +1009,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marshallinsaarten tasavalta"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Uusi-Kaledonia"
+msgstr "Pohjois-Makedonia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Liettuan tasavalta"
+msgstr "Pohjois-Makedonian tasavalta"
 
 #. Name for MLI
 msgid "Mali"
@@ -1269,10 +1266,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Korean demokraattinen kansantasavalta"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "Uusi-Kaledonia"
+msgstr "Pohjois-Korea"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1500,7 +1495,7 @@ msgstr "Syyrian arabitasavalta"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Syyria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1580,11 +1575,9 @@ msgstr "Tunisian tasavalta"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Turkki"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Turkin tasavalta"
 
@@ -1609,7 +1602,6 @@ msgid "United Republic of Tanzania"
 msgstr "Tansanian yhdistynyt tasavalta"
 
 #. Common name for TZA
-#, fuzzy
 msgid "Tanzania"
 msgstr "Tansania"
 
@@ -1698,8 +1690,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnamin sosialistinen tasavalta"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnam"
 

@@ -10,14 +10,15 @@
 # Jacobo Tarrío <jtarrio@debian.org>, 2005.
 # Fran Diéguez <frandieguez@ubuntu.com>, 2010.
 # Juan Comesaña Fernández <xan.comesana@gmail.com>, 2023.
+# xuars <yago.rana.gayoso@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-03-24 14:39+0000\n"
-"Last-Translator: Juan Comesaña Fernández <xan.comesana@gmail.com>\n"
+"PO-Revision-Date: 2025-05-01 02:00+0000\n"
+"Last-Translator: xuars <yago.rana.gayoso@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/gl/>\n"
 "Language: gl\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -217,7 +218,7 @@ msgstr "Bengalí; Bangla"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr ""
+msgstr "Bengalí"
 
 #. Name for ber
 msgid "Berber languages"

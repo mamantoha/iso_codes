@@ -7,14 +7,16 @@
 # Copyright ©
 # Abduqadir Abliz <sahran.ug@gmail.com>, 2011.
 # Abdusalam <1810010207@s.upc.edu.cn>, 2020.
+# Abduqadir Abliz <sahranbay@gmail.com>, 2025.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2020-05-09 07:13+0000\n"
-"Last-Translator: Abdusalam <1810010207@s.upc.edu.cn>\n"
+"PO-Revision-Date: 2025-06-13 22:40+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Uyghur <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ug/>\n"
 "Language: ug\n"
@@ -22,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -154,7 +156,7 @@ msgstr "بونەر، ساينىت يۇستىفەس ۋە سابا"
 
 #. Name for BFA
 msgid "Burkina Faso"
-msgstr "بۇركىنا-فاسو"
+msgstr "بۇركىنا فاسو"
 
 #. Name for BGD
 msgid "Bangladesh"
@@ -726,7 +728,7 @@ msgstr "ئىران ئىسلام جۇمھۇرىيىتى"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "ئىران"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -829,10 +831,8 @@ msgid "Korea, Republic of"
 msgstr "كورېيە"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "جەنۇبىي ئافرىقا"
+msgstr "جەنۇبىي كورېيە"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -848,7 +848,7 @@ msgstr "لائوس خەلق دېموكراتىك جۇمھۇرىيىتى"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "لائوس"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1251,10 +1251,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "كورېيە خەلق دېموكراتىك خەلق جۇمھۇرىيىتى"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "شىمالىي ماكېدونىيە"
+msgstr "شىمالىي كورېيە"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1478,7 +1476,7 @@ msgstr "سۈرىيە ئەرەب جۇمھۇرىيىتى"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "سۈرىيە"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1558,11 +1556,9 @@ msgstr "تۇنىس جۇمھۇرىيىتى"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "تۈركىيە"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "تۈركىيە جۇمھۇرىيىتى"
 
@@ -1660,7 +1656,7 @@ msgstr "ئەنگلىيەگە قاراشلىق ۋىرجىن تاقىم ئارال
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "ئامېرىكىغا قاراشلىق ۋىرجىن تاقىم ئاراللىرى"
+msgstr "ئامېرىكىغا قاراشلىق ۋىرگىن تاقىم ئاراللىرى."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

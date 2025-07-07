@@ -105,8 +105,8 @@ msgstr "arabščina"
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
 msgstr ""
-"uradna aramejščina (700-300 pr.n.št.); cesarska aramejščina (700-300 pr.n."
-"št.)"
+"uradna aramejščina (700-300 pr.n.št.); cesarska aramejščina (700-300 "
+"pr.n.št.)"
 
 #. Name for arg
 msgid "Aragonese"

@@ -12,14 +12,16 @@
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
 # Kamborio <Kamborio15@users.noreply.hosted.weblate.org>, 2023.
+# Walter Paterno <walter.paterno@gmail.com>, 2025.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-10-13 10:01+0000\n"
-"Last-Translator: Kamborio <Kamborio15@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-05-12 19:03+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/es/>\n"
 "Language: es\n"
@@ -27,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -663,7 +665,7 @@ msgstr "Región Administrativa Especial China de Hong Kong"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Islas Heard y McDonald"
+msgstr "Isla Heard e Islas McDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -1659,7 +1661,7 @@ msgstr "Islas Vírgenes Británicas"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Islas Vírgenes, de EEUU"
+msgstr "Islas Vírgenes, de EEUU."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

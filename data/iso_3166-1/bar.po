@@ -5,14 +5,15 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
+# gogu <sidtirouluca@proton.me>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2017-12-27 00:15+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2025-06-04 02:04+0000\n"
+"Last-Translator: gogu <sidtirouluca@proton.me>\n"
 "Language-Team: Bavarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/bar/>\n"
 "Language: bar\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -40,7 +41,7 @@ msgstr "Angola"
 
 #. Official name for AGO
 msgid "Republic of Angola"
-msgstr ""
+msgstr "Republik Angola"
 
 #. Name for AIA
 msgid "Anguilla"
@@ -48,7 +49,7 @@ msgstr ""
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr ""
+msgstr "Åland"
 
 #. Name for ALB
 msgid "Albania"
@@ -92,7 +93,7 @@ msgstr "Amerikanisch-Samoa"
 
 #. Name for ATA
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktis"
 
 #. Name for ATF
 msgid "French Southern Territories"
@@ -112,7 +113,7 @@ msgstr "Östareich"
 
 #. Official name for AUT
 msgid "Republic of Austria"
-msgstr ""
+msgstr "Republik Estraich"
 
 #. Name for AZE
 msgid "Azerbaijan"
@@ -124,11 +125,11 @@ msgstr ""
 
 #. Name for BDI
 msgid "Burundi"
-msgstr ""
+msgstr "Burundi"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
-msgstr ""
+msgstr "Republik Burundi"
 
 #. Name for BEL
 msgid "Belgium"

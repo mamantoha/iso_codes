@@ -13,14 +13,15 @@
 # Balázs Úr <urbalazs@gmail.com>, 2015.
 # Babos Gábor <gabor.babos@gmail.com>, 2019.
 # Balázs Meskó <meskobalazs@mailbox.org>, 2023.
+# RViktor <rviktor@ivankapal.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-10-08 12:02+0000\n"
-"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
+"PO-Revision-Date: 2025-04-07 21:57+0000\n"
+"Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hu/>\n"
 "Language: hu\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
 
@@ -42,7 +43,7 @@ msgstr "Afganisztán"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr "Afgán Iszlám Köztársaság"
+msgstr "Afganisztáni Iszlám Köztársaság"
 
 #. Name for AGO
 msgid "Angola"
@@ -130,7 +131,7 @@ msgstr "Azerbajdzsán"
 
 #. Official name for AZE
 msgid "Republic of Azerbaijan"
-msgstr "Azeri Köztársaság"
+msgstr "Azerbajdzsáni Köztársaság"
 
 #. Name for BDI
 msgid "Burundi"
@@ -158,7 +159,7 @@ msgstr "Benini Köztársaság"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr "Bonaire, Saint Eustatius és Saba"
+msgstr "Bonaire, Sint Eustatius és Saba"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -186,7 +187,7 @@ msgstr "Bahrein"
 
 #. Official name for BHR
 msgid "Kingdom of Bahrain"
-msgstr "Bahrein Királyság"
+msgstr "Bahreini Királyság"
 
 #. Name for BHS
 msgid "Bahamas"
@@ -202,11 +203,11 @@ msgstr "Bosznia-Hercegovina"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
-msgstr "Bosznia-hercegovinai Köztársaság"
+msgstr "Bosznia-Hercegovina Köztársaság"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr "Saint Barthélemy"
+msgstr "Saint-Barthélemy"
 
 #. Name for BLR
 msgid "Belarus"
@@ -226,7 +227,7 @@ msgstr "Bermuda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr "Bolíviai Többnemzetiségű Állam"
+msgstr "Bolívia, Többnemzetiségű Állam"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
@@ -358,7 +359,7 @@ msgstr "Comore-szigeteki Unió"
 
 #. Name for CPV
 msgid "Cabo Verde"
-msgstr "Zöld-foki-szigetek"
+msgstr "Zöld-foki Köztársaság"
 
 #. Official name for CPV
 msgid "Republic of Cabo Verde"
@@ -426,7 +427,7 @@ msgstr "Dzsibuti Köztársaság"
 
 #. Name for DMA
 msgid "Dominica"
-msgstr "Dominika"
+msgstr "Dominikai Közösség"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
@@ -474,7 +475,7 @@ msgstr "Eritrea"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "Eritrea Állam"
+msgstr "Eritreai Állam"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -538,7 +539,7 @@ msgstr "Feröer"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
-msgstr "Mikronézia, Államszövetség"
+msgstr "Mikronéziai Szövetségi Államok"
 
 #. Official name for FSM
 msgid "Federated States of Micronesia"
@@ -662,7 +663,7 @@ msgstr "Hongkong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr "Hongkong, a Kínai Népköztársaság különleges közigazgatási területe"
+msgstr "Hongkong Különleges Közigazgatási Terület, Kína"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
@@ -894,7 +895,7 @@ msgstr "Srí Lanka"
 
 #. Official name for LKA
 msgid "Democratic Socialist Republic of Sri Lanka"
-msgstr "Srí Lanka-i Demokratikus Szocialista Köztársaság"
+msgstr "Srí Lanka Demokratikus Szocialista Köztársaság"
 
 #. Name for LSO
 msgid "Lesotho"
@@ -934,11 +935,11 @@ msgstr "Makaó"
 
 #. Official name for MAC
 msgid "Macao Special Administrative Region of China"
-msgstr "Makaó, a Kínai Népköztársaság különleges közigazgatási területe"
+msgstr "Makaó Különleges Közigazgatási Terület, Kína"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr "Saint Martin (francia oldal)"
+msgstr "Saint-Martin (francia rész)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -1006,7 +1007,7 @@ msgstr "Észak-Macedónia"
 
 #. Official name for MKD
 msgid "Republic of North Macedonia"
-msgstr "Észak-Macedóniai Köztársaság"
+msgstr "Észak-macedóniai Köztársaság"
 
 #. Name for MLI
 msgid "Mali"
@@ -1046,7 +1047,7 @@ msgstr "Északi-Mariana-szigetek"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
-msgstr "Északi Mariana-szigeteki Közösség"
+msgstr "Északi-Mariana-szigetek"
 
 #. Name for MOZ
 msgid "Mozambique"
@@ -1278,11 +1279,11 @@ msgstr "Paraguayi Köztársaság"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr "Palesztina"
+msgstr "Palesztina, Nemzeti Hatóság"
 
 #. Official name for PSE
 msgid "the State of Palestine"
-msgstr "Palesztina"
+msgstr "Palesztin Nemzeti Hatóság"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1294,7 +1295,7 @@ msgstr "Katar"
 
 #. Official name for QAT
 msgid "State of Qatar"
-msgstr "Katari Állam"
+msgstr "Katar Állam"
 
 #. Name for REU
 msgid "Réunion"
@@ -1358,7 +1359,7 @@ msgstr "Szent Ilona, Ascension és Tristan da Cunha"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard-szigetek és Jan Mayen-sziget"
+msgstr "Svalbard és Jan Mayen"
 
 #. Name for SLB
 msgid "Solomon Islands"
@@ -1466,7 +1467,7 @@ msgstr "Szváziföldi Királyság"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
-msgstr "Szent Martin (holland oldal)"
+msgstr "Sint Maarten (holland rész)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1574,7 +1575,7 @@ msgstr "Tuvalu"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
-msgstr "Tajvan, kínai tartomány"
+msgstr "Tajvan, Kína tartománya"
 
 #. Common name for TWN
 msgid "Taiwan"
@@ -1710,7 +1711,7 @@ msgstr "Jemeni Köztársaság"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "Dél-Afrika"
+msgstr "Dél-afrikai Köztársaság"
 
 #. Official name for ZAF
 msgid "Republic of South Africa"
