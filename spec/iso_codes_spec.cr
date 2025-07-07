@@ -165,6 +165,6 @@ describe ISOCodes do
     end
 
     it { ISOCodes::DataProvider::COUNTRY_TRANSLATION_CODES.size.should eq(161) }
-    it { ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.size.should eq(98) }
+    it { ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.size.should eq(100) }
   end
 end
