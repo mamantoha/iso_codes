@@ -11,14 +11,15 @@
 # victory <victory.deb@gmail.com>, 2013.
 # Yasuaki Taniguchi <yasuakit@gmail.com>, 2010-2011, 2017.
 # TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
+# Alexis Launay <yorunohikage@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2021-08-04 17:47+0000\n"
-"Last-Translator: TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>\n"
+"PO-Revision-Date: 2025-07-19 16:17+0000\n"
+"Last-Translator: Alexis Launay <yorunohikage@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ja/>\n"
 "Language: ja\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 # 西インド諸島
@@ -432,7 +433,7 @@ msgstr "キプロス共和国"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "チェコ"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -643,10 +644,8 @@ msgid "Gambia"
 msgstr "ガンビア"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "ザンビア共和国"
+msgstr "ガンビア共和国"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -787,7 +786,7 @@ msgstr "イラン・イスラム共和国"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "イラン"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -900,10 +899,8 @@ msgid "Korea, Republic of"
 msgstr "大韓民国 (韓国)"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "南アフリカ"
+msgstr "韓国"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -919,7 +916,7 @@ msgstr "ラオス人民民主共和国"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "ラオス"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1075,16 +1072,12 @@ msgstr "マーシャル諸島共和国"
 # オーストラリアの東、仏領ニューカレドニア島
 # ニューカレドニア本島と周辺の諸島
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "ニューカレドニア"
+msgstr "北マケドニア"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "リトアニア共和国"
+msgstr "北マケドニア共和国"
 
 #. Name for MLI
 msgid "Mali"
@@ -1362,10 +1355,8 @@ msgstr "朝鮮民主主義人民共和国"
 # オーストラリアの東、仏領ニューカレドニア島
 # ニューカレドニア本島と周辺の諸島
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
-msgstr "ニューカレドニア"
+msgstr "北朝鮮"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1581,14 +1572,12 @@ msgstr "スウェーデン王国"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "エスワティニ"
 
 # 外務省ではスペイン (Spain) 表記のみ
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "スペイン王国"
+msgstr "エスワティニ王国"
 
 # サンマルタンは北側がフランス領、南側がとオランダ領となっている
 # ここはオランダ領部分
@@ -1610,7 +1599,7 @@ msgstr "シリア・アラブ共和国"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "シリア"
 
 # 英領タークス諸島、カイコス諸島
 # カリブ海、ドミニカ共和国の北
@@ -1694,11 +1683,9 @@ msgstr "チュニジア共和国"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "トルコ"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "トルコ共和国"
 
