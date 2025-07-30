@@ -4,6 +4,9 @@ module ISOCodes
 
     @@translations = {} of String => Hash(String, String)
 
+    @@countries : Countries = Countries.from_json(json(:countries))
+    @@languages : Languages = Languages.from_json(json(:languages))
+
     DATA_DEST = "#{__DIR__}/../../data"
 
     JSON_CODES = {
@@ -23,11 +26,11 @@ module ISOCodes
       Dir.glob("#{DATA_DEST}/#{TRANSLATIONS[:languages]}/*.po").map { |path| Path[path].basename(".po") }
 
     def countries
-      @@countries ||= Countries.from_json(json(:countries))
+      @@countries
     end
 
     def languages
-      @@languages ||= Languages.from_json(json(:languages))
+      @@languages
     end
 
     def translations(type, language_code)
