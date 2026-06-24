@@ -7,9 +7,9 @@ module ISOCodes
     @[JSON::Field(key: "3166-1")]
     private property countries : Array(Country)
 
-    {% for key in %w(alpha_2 alpha_3 name numeric official_name common_name flag) %}
-      def find_by_{{key.id}}(value : String) : Country?
-        countries.find { |country| country.{{key.id}} == value }
+    {% for key in %w[alpha_2 alpha_3 name numeric official_name common_name flag] %}
+      def find_by_{{ key.id }}(value : String) : Country?
+        countries.find { |country| country.{{ key.id }} == value }
       end
     {% end %}
   end

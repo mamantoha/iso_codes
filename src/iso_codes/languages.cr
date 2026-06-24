@@ -7,9 +7,9 @@ module ISOCodes
     @[JSON::Field(key: "639-2")]
     private property languages : Array(Language)
 
-    {% for key in %w(alpha_2 alpha_3 name common_name bibliographic) %}
-      def find_by_{{key.id}}(value : String) : Language?
-        languages.find { |language| language.{{key.id}} == value }
+    {% for key in %w[alpha_2 alpha_3 name common_name bibliographic] %}
+      def find_by_{{ key.id }}(value : String) : Language?
+        languages.find { |language| language.{{ key.id }} == value }
       end
     {% end %}
   end
