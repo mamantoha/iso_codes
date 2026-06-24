@@ -2,21 +2,22 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Roumen Petrov <transl@roumenpetrov.info>, 2010-2014.
-# Damyan Ivanov <dmn@debian.org>, 2023.
-# Дамян Иванов <dmn@debian.org>, 2023.
-# 109247019824 <stoyan@gmx.com>, 2024.
+# SPDX-FileCopyrightText: 2010-2014 Roumen Petrov <transl@roumenpetrov.info>
+# SPDX-FileCopyrightText: 2023 Damyan Ivanov <dmn@debian.org>
+# SPDX-FileCopyrightText: 2023 Дамян Иванов <dmn@debian.org>
+# SPDX-FileCopyrightText: 2024 109247019824 <stoyan@gmx.com>
+# SPDX-FileCopyrightText: 2025 109247019824 <109247019824@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-09-28 07:16+0000\n"
-"Last-Translator: 109247019824 <stoyan@gmx.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-13 20:48+0000\n"
+"Last-Translator: 109247019824 "
+"<109247019824@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/bg/>\n"
 "Language: bg\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -156,7 +157,7 @@ msgstr "Авестийски"
 
 #. Name for awa
 msgid "Awadhi"
-msgstr "Авадхи"
+msgstr "Авади"
 
 #. Name for aym
 msgid "Aymara"
@@ -188,7 +189,7 @@ msgstr "Бамбара"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "Балинески"
+msgstr "Балийски"
 
 #. Name for bas
 msgid "Basa"
@@ -224,7 +225,7 @@ msgstr "Берберски езици"
 
 #. Name for bho
 msgid "Bhojpuri"
-msgstr "Бходжури"
+msgstr "Боджпури"
 
 #. Name for bih
 msgid "Bihari languages"
@@ -247,8 +248,10 @@ msgid "Siksika"
 msgstr "Сиксика"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Банту (други)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "езици банда"
 
 #. Name for bod
 msgid "Tibetan"
@@ -336,7 +339,7 @@ msgstr "Чагатайски"
 
 #. Name for chk
 msgid "Chuukese"
-msgstr "Чухски"
+msgstr "Чуук"
 
 #. Name for chm
 msgid "Mari"
@@ -457,8 +460,10 @@ msgid "German"
 msgstr "Германски"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr ""
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
+msgstr "Догриб"
 
 #. Name for din
 msgid "Dinka"
@@ -490,7 +495,7 @@ msgstr "Средновековен холандски (ок. 1050-1350)"
 
 #. Name for dyu
 msgid "Dyula"
-msgstr ""
+msgstr "Диула"
 
 #. Name for dzo
 msgid "Dzongkha"
@@ -578,7 +583,7 @@ msgstr "Угро-фински"
 
 #. Name for fon
 msgid "Fon"
-msgstr ""
+msgstr "Фон"
 
 #. Name for fra
 msgid "French"
@@ -766,7 +771,7 @@ msgstr "Арменски"
 
 #. Name for iba
 msgid "Iban"
-msgstr ""
+msgstr "Ибан"
 
 #. Name for ibo
 msgid "Igbo"
@@ -894,7 +899,7 @@ msgstr "Грузински"
 
 #. Name for kau
 msgid "Kanuri"
-msgstr ""
+msgstr "Канури"
 
 #. Name for kaw
 msgid "Kawi"
@@ -910,7 +915,7 @@ msgstr ""
 
 #. Name for kha
 msgid "Khasi"
-msgstr ""
+msgstr "Кхаси"
 
 #. Name for khi
 msgid "Khoisan languages"
@@ -946,7 +951,7 @@ msgstr ""
 
 #. Name for kom
 msgid "Komi"
-msgstr ""
+msgstr "Коми"
 
 #. Name for kon
 msgid "Kongo"
@@ -1070,7 +1075,7 @@ msgstr ""
 
 #. Name for luo
 msgid "Luo (Kenya and Tanzania)"
-msgstr ""
+msgstr "Луо (Кения и Танзания)"
 
 #. Name for lus
 msgid "Lushai"
@@ -1078,7 +1083,7 @@ msgstr ""
 
 #. Name for mad
 msgid "Madurese"
-msgstr ""
+msgstr "Мадурски"
 
 #. Name for mag
 msgid "Magahi"
@@ -1166,7 +1171,7 @@ msgstr ""
 
 #. Name for mni
 msgid "Manipuri"
-msgstr ""
+msgstr "Манипурски"
 
 #. Name for mno
 msgid "Manobo languages"
@@ -1245,11 +1250,11 @@ msgid "Navajo; Navaho"
 msgstr "Навахо"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr ""
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr ""
 
 #. Name for ndo
@@ -1265,7 +1270,7 @@ msgid "Nepali"
 msgstr "Непалски"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 #. Name for nia
@@ -1285,12 +1290,16 @@ msgid "Dutch; Flemish"
 msgstr "Холандски"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Нинорск, Норвежки"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Норвежки"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Букмол"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Норвежки"
 
 #. Name for nog
 msgid "Nogai"
@@ -1322,7 +1331,7 @@ msgstr ""
 
 #. Name for nya
 msgid "Chichewa; Chewa; Nyanja"
-msgstr ""
+msgstr "Чичева; Чева, Нянджа"
 
 #. Name for nym
 msgid "Nyamwezi"
@@ -1343,7 +1352,7 @@ msgstr ""
 #. Name for oci
 #, fuzzy
 #| msgid "Occitan (post 1500)"
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Окситански (след 1500)"
 
 #. Name for oji
@@ -1388,7 +1397,7 @@ msgstr ""
 
 #. Name for pam
 msgid "Pampanga; Kapampangan"
-msgstr ""
+msgstr "Пампанга"
 
 #. Name for pan
 msgid "Panjabi; Punjabi"
@@ -1437,7 +1446,7 @@ msgstr ""
 #. Name for pro
 #, fuzzy
 #| msgid "Irish, Old (to 900)"
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Староирландски (до 900)"
 
 #. Name for pus
@@ -1507,8 +1516,10 @@ msgid "Yakut"
 msgstr ""
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "южноамерикански индиански (други)"
+#, fuzzy
+#| msgid "Central American Indian languages"
+msgid "South American Indian languages"
+msgstr "централноамерикански индиански езици"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1891,7 +1902,7 @@ msgid "Wakashan languages"
 msgstr ""
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

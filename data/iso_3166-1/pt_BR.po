@@ -2,25 +2,25 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Lisiane Sztoltz <lisiane@conectiva.com.br>
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2006-2009.
-# Rafael Fontenelle <rffontenelle@gmail.com>, 2013, 2016-2017.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2019.
-# Rui Mendes <xz9@protonmail.com>, 2019.
-# Adriano Rafael Gomes <adrianorg@arg.eti.br>, 2021.
-# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2022.
+# SPDX-FileCopyrightText: Lisiane Sztoltz <lisiane@conectiva.com.br>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2006-2009 Leonardo Ferreira Fontenelle <leonardof@gnome.org>
+# SPDX-FileCopyrightText: 2013, 2016-2017 Rafael Fontenelle <rffontenelle@gmail.com>
+# SPDX-FileCopyrightText: 2019 Rafael Fontenelle <rafaelff@gnome.org>
+# SPDX-FileCopyrightText: 2019 Rui Mendes <xz9@protonmail.com>
+# SPDX-FileCopyrightText: 2021 Adriano Rafael Gomes <adrianorg@arg.eti.br>
+# SPDX-FileCopyrightText: 2022 Luiz Fernando Ranghetti <elchevive@opensuse.org>
+# Rafael Fontenelle <rafaelff@gnome.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2022-12-08 15:47+0000\n"
-"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-03-20 18:09+0000\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-1/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -734,7 +734,7 @@ msgstr "República Islâmica do Irã"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Irã"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -854,7 +854,7 @@ msgstr "República Popular Democrática do Laos"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1482,7 +1482,7 @@ msgstr "República Árabe da Síria"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Síria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"

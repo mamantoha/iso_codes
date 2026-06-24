@@ -2,17 +2,16 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Amitakhya Phukan <aphukan@fedoraproject.org>, 2010.
-# Itsmechinmoy <itsmechinmoy@users.noreply.hosted.weblate.org>, 2024, 2025.
+# SPDX-FileCopyrightText: 2010 Amitakhya Phukan <aphukan@fedoraproject.org>
+# SPDX-FileCopyrightText: 2024, 2025 Itsmechinmoy <itsmechinmoy@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-02-02 15:27+0000\n"
 "Last-Translator: Itsmechinmoy "
 "<itsmechinmoy@users.noreply.hosted.weblate.org>\n"

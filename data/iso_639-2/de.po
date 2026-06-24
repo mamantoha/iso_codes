@@ -2,33 +2,32 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Björn Ganslandt <bganslan@gmx.net>
+# SPDX-FileCopyrightText: 2001 Karl Eichwalder <ke@suse.de>
+# SPDX-FileCopyrightText: 2005 Wolfgang Rohdewald <wolfgang@rohdewald.de>
+# SPDX-FileCopyrightText: 2004, 2007 Bruno Haible <bruno@clisp.org>
+# SPDX-FileCopyrightText: 2012 Hendrik Knackstedt <kn.hendrik@gmail.com>
+# SPDX-FileCopyrightText: 2014 Kai Lahmann
+# SPDX-FileCopyrightText: 2014 Mario Blättermann <mario.blaettermann@gmail.com>
+# SPDX-FileCopyrightText: 2006, 2008-2009, 2011, 2013, 2016, 2025 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2020 J. Lavoie <j.lavoie@net-c.ca>
+# SPDX-FileCopyrightText: 2022 Nathan Schimmoller <nschimmo@gmail.com>
 # .
 # Notes:
 # Quellen-Verweise:
 # HKA: Haack Kleiner Atlas "Die Erde", VEB Hermann Haack, Gotha/Leipzig 1981.
 # AA: http://www.auswaertiges-amt.de/www/de/infoservice/download/pdf/publikationen/staatennamen-landesspr.pdf, 2002-10-17.
-# .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Björn Ganslandt <bganslan@gmx.net>, 2000-2001.
-# Karl Eichwalder <ke@suse.de>, 2001.
-# Wolfgang Rohdewald <wolfgang@rohdewald.de>, 2005.
-# Bruno Haible <bruno@clisp.org>, 2004, 2007.
-# Hendrik Knackstedt <kn.hendrik@gmail.com>, 2012.
-# Kai Lahmann, 2014.
-# Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2006, 2008-2009, 2011, 2013, 2016.
-# J. Lavoie <j.lavoie@net-c.ca>, 2020.
-# Nathan Schimmoller <nschimmo@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-08-05 14:21+0000\n"
-"Last-Translator: Nathan Schimmoller <nschimmo@gmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 23:37+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/de/>\n"
 "Language: de\n"
@@ -36,7 +35,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Lokalize 25.04.0\n"
 
 #. Name for aar
 msgid "Afar"
@@ -262,8 +261,8 @@ msgid "Siksika"
 msgstr "Blackfoot"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantusprache (Andere)"
+msgid "Bantu languages"
+msgstr "Bantu-Sprachen"
 
 #. Name for bod
 msgid "Tibetan"
@@ -472,8 +471,8 @@ msgid "German"
 msgstr "Deutsch"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "Dogrib"
+msgid "Tlicho; Dogrib"
+msgstr "Tlicho; Dogrib"
 
 #. Name for din
 msgid "Dinka"
@@ -1272,11 +1271,11 @@ msgid "Navajo; Navaho"
 msgstr "Navajo"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Süd-Ndebele"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Nord-Ndebele"
 
 #. Name for ndo
@@ -1292,8 +1291,8 @@ msgid "Nepali"
 msgstr "Nepali"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "Nepal Bhasa; Newar; Newari"
 
 #. Name for nia
 msgid "Nias"
@@ -1312,12 +1311,12 @@ msgid "Dutch; Flemish"
 msgstr "Niederländisch; Flämisch"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Neu-Norwegisch"
+msgid "Norwegian Nynorsk"
+msgstr "Norwegisch Nynorsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Norwegisch (Bokmål)"
+msgid "Norwegian Bokmål"
+msgstr "Norwegisch Bokmål"
 
 #. Name for nog
 msgid "Nogai"
@@ -1368,8 +1367,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "Okzitanisch (nach 1500); Provenzalisch"
+msgid "Occitan (post 1500)"
+msgstr "Okzitanisch (nach 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1460,8 +1459,8 @@ msgid "Prakrit languages"
 msgstr "Prakrit-Sprachen"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "Altprovenzalisch (bis 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "Altprovenzalisch (bis 1500), Altokzitanisch (bis 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1529,8 +1528,8 @@ msgid "Yakut"
 msgstr "Jakutisch"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Südamerikanische Indianersprache (Andere)"
+msgid "South American Indian languages"
+msgstr "Indianersprachen (Südamerika)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1920,8 +1919,8 @@ msgid "Wakashan languages"
 msgstr "Wakash-Sprachen"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Wolaytta"
+msgid "Wolaitta; Wolaytta"
+msgstr "Wolaitta; Wolaytta"
 
 #. Name for war
 msgid "Waray"

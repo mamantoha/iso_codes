@@ -2,34 +2,34 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Nikolai Prokoschenko <nikolai@prokoschenko.de>, 2004.
-# Pavel Maryanov <acid_jack@ukr.net>, 2009.
-# Yuri Kozlov <yuray@komyakino.ru>, 2004, 2006-2013, 2015.
-# yurayko <yuray@komyakino.ru>, 2018.
-# Artem <KovalevArtem.ru@gmail.com>, 2020.
-# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
-# kala Asi <maks-s15@mail.ru>, 2024.
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004 Nikolai Prokoschenko <nikolai@prokoschenko.de>
+# SPDX-FileCopyrightText: 2009 Pavel Maryanov <acid_jack@ukr.net>
+# SPDX-FileCopyrightText: 2004, 2006-2013, 2015 Yuri Kozlov <yuray@komyakino.ru>
+# SPDX-FileCopyrightText: 2018 yurayko <yuray@komyakino.ru>
+# SPDX-FileCopyrightText: 2020 Artem <KovalevArtem.ru@gmail.com>
+# SPDX-FileCopyrightText: 2021 Azamat H. Hackimov <azamat.hackimov@gmail.com>
+# SPDX-FileCopyrightText: 2024 kala Asi <maks-s15@mail.ru>
+# Blueberry <igory.ygr200@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2024-11-13 06:02+0000\n"
-"Last-Translator: kala Asi <maks-s15@mail.ru>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-1/ru/>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-05-10 04:40+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-1/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -661,7 +661,7 @@ msgstr "Гонконг"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr "Осо́бый административный район Гонконг"
+msgstr "Особый административный район Гонконг"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
@@ -729,7 +729,7 @@ msgstr "Иран"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
-msgstr "Исламская Респу́блика Иран"
+msgstr "Исламская Республика Иран"
 
 #. Common name for IRN
 msgid "Iran"
@@ -997,7 +997,7 @@ msgstr "Маршалловы острова"
 
 #. Official name for MHL
 msgid "Republic of the Marshall Islands"
-msgstr "Респу́блика Маршалловы Острова"
+msgstr "Республика Маршалловы Острова"
 
 #. Name for MKD
 msgid "North Macedonia"
@@ -1605,7 +1605,7 @@ msgstr "Украина"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Соединенные штаты Малых Удаленных островов"
+msgstr "Внешние малые острова США"
 
 #. Name for URY
 msgid "Uruguay"

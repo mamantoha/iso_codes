@@ -2,25 +2,25 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2005-2013 Miguel Figueiredo <elmig@debianpt.org>
+# SPDX-FileCopyrightText: 2018 Ayalos <reginaldoayalos0@gmail.com>
+# SPDX-FileCopyrightText: 2019 Rui Mendes <xz9@protonmail.com>
+# SPDX-FileCopyrightText: 2019 Chris Leonard <cjlhomeaddress@gmail.com>
+# SPDX-FileCopyrightText: 2022 Miguel Figueiredo <mfigueiredo@gmail.com>
+# SPDX-FileCopyrightText: 2024 ssantos <ssantos@web.de>
 # .
 # Notes:
 # Please follow this official pointer when translating to Portuguese
 # http://www.min-nestrangeiros.pt/mne/estrangeiro/indice.html
 # http://publications.europa.eu/code/pt/pt-5000500.htm
-# Copyright ©
-# Miguel Figueiredo <elmig@debianpt.org>, 2005-2013.
-# Ayalos <reginaldoayalos0@gmail.com>, 2018.
-# Rui Mendes <xz9@protonmail.com>, 2019.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
-# Miguel Figueiredo <mfigueiredo@gmail.com>, 2022.
-# ssantos <ssantos@web.de>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-10-07 21:28+0000\n"
 "Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"

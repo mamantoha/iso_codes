@@ -2,22 +2,21 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Elros Cyriatan <cyriatan@fastmail.fm>, 2004.
-# Luk Claes <luk.claes@ugent.be>, 2005.
-# Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2013, 2015, 2017.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
-# Pander <pander@users.sourceforge.net>, 2018, 2021, 2022.
-# powerburner-nl <peter.mulder.1981@gmail.com>, 2019.
-# Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2019, 2023.
+# SPDX-FileCopyrightText: 2004 Elros Cyriatan <cyriatan@fastmail.fm>
+# SPDX-FileCopyrightText: 2005 Luk Claes <luk.claes@ugent.be>
+# SPDX-FileCopyrightText: 2006-2013, 2015, 2017 Freek de Kruijf <f.de.kruijf@gmail.com>
+# SPDX-FileCopyrightText: 2018 Chris Leonard <cjlhomeaddress@gmail.com>
+# SPDX-FileCopyrightText: 2018, 2021, 2022 Pander <pander@users.sourceforge.net>
+# SPDX-FileCopyrightText: 2019 powerburner-nl <peter.mulder.1981@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2023 Frans Spiesschaert <frans.spiesschaert@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-03-18 21:41+0000\n"
 "Last-Translator: Frans Spiesschaert <frans.spiesschaert@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"

@@ -2,29 +2,28 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2000 Kenneth Christiansen <kenneth@gnu.org>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Ole Laursen <olau@hardworking.dk>
+# SPDX-FileCopyrightText: 2004-2006 Claus Hindsgaul <claus_h@image.dk>
+# SPDX-FileCopyrightText: 2008 Frederik 'Freso' S. Olesen <freso.dk@gmail.com>
+# SPDX-FileCopyrightText: 2000-2001, 2008, 2010 Keld Simonsen <keld@keldix.com>
+# SPDX-FileCopyrightText: 2013 Joe Hansen <joedalton2@yahoo.dk>
+# SPDX-FileCopyrightText: 2019 scootergrisen <scootergrisen@gmail.com>
 # .
 # Notes:
 # Many of these iso--639 translations were adopted from the state library department:
 # http://www.kat-format.dk/danMARC2/Danmarc2.a8.htm
 # .
 # Sprognavne er på dansk med lille begyndelsesbogstav
-# .
-# Copyright ©
-# Kenneth Christiansen <kenneth@gnu.org>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Ole Laursen <olau@hardworking.dk>, 2001.
-# Claus Hindsgaul <claus_h@image.dk>, 2004-2006.
-# Frederik 'Freso' S. Olesen <freso.dk@gmail.com>, 2008.
-# Keld Simonsen <keld@keldix.com>, 2000-2001, 2008, 2010.
-# Joe Hansen <joedalton2@yahoo.dk>, 2013.
-# scootergrisen <scootergrisen@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2019-03-06 12:57+0000\n"
 "Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/iso-codes/"
@@ -262,8 +261,10 @@ msgid "Siksika"
 msgstr "siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "bantu (andet)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "banda-sprog"
 
 #. Name for bod
 msgid "Tibetan"
@@ -474,7 +475,9 @@ msgid "German"
 msgstr "tysk"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "dogrib"
 
 #. Name for din
@@ -1269,11 +1272,15 @@ msgid "Navajo; Navaho"
 msgstr "navajo"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "ndebele, syd; sydndebele"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "ndebele, nord; nordndebele"
 
 #. Name for ndo
@@ -1290,7 +1297,9 @@ msgid "Nepali"
 msgstr "nepalesisk"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "nepalesisk bhasa"
 
 #. Name for nia
@@ -1311,12 +1320,16 @@ msgid "Dutch; Flemish"
 msgstr "hollandsk; flamsk"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "nynorsk; norsk nynorsk"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "norsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "bokmål, norsk; norsk bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "norsk"
 
 #. Name for nog
 msgid "Nogai"
@@ -1367,7 +1380,9 @@ msgid "Nzima"
 msgstr "nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "occitansk (efter 1500); provencalsk"
 
 #. Name for oji
@@ -1459,7 +1474,9 @@ msgid "Prakrit languages"
 msgstr "prakrit sprog"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "provençalsk, gammelt (indtil 1500)"
 
 #. Name for pus
@@ -1529,8 +1546,10 @@ msgid "Yakut"
 msgstr "yakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "sydamerikanske indianske (andet)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "nordamerikanske indianske sprog"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1925,8 +1944,8 @@ msgid "Wakashan languages"
 msgstr "wakashan sprog"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

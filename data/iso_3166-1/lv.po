@@ -2,20 +2,19 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Juris Kudiņš <cooker@inbox.lv>, 2001.
-# Aigars Mahinovs <aigarius@debian.org>, 2006.
-# Rihards Priedītis <rprieditis@gmail.com>, 2009, 2013.
-# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011-2012, 2014.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Juris Kudiņš <cooker@inbox.lv>
+# SPDX-FileCopyrightText: 2006 Aigars Mahinovs <aigarius@debian.org>
+# SPDX-FileCopyrightText: 2009, 2013 Rihards Priedītis <rprieditis@gmail.com>
+# SPDX-FileCopyrightText: 2011-2012, 2014 Rūdofls Mazurs <rudolfs.mazurs@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/iso-codes/"

@@ -2,17 +2,16 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Besnik Bleta <besnik@programeshqip.org>, 2020, 2022.
-# Besmir Godole <bgodole@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2020, 2022 Besnik Bleta <besnik@programeshqip.org>
+# SPDX-FileCopyrightText: 2022 Besmir Godole <bgodole@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-11-29 22:47+0000\n"
 "Last-Translator: Besmir Godole <bgodole@gmail.com>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/iso-codes/"
@@ -246,8 +245,10 @@ msgid "Siksika"
 msgstr "Siksikisht"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantu (Tjetër)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Gjuhë banda"
 
 #. Name for bod
 msgid "Tibetan"
@@ -456,7 +457,9 @@ msgid "German"
 msgstr "Gjermanisht"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogribisht"
 
 #. Name for din
@@ -1244,11 +1247,15 @@ msgid "Navajo; Navaho"
 msgstr "Navajisht; Navahisht"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebelishte e Jugut"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebelishte e Veriut"
 
 #. Name for ndo
@@ -1264,7 +1271,9 @@ msgid "Nepali"
 msgstr "Nepalisht"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Gjuhë nepaleze; Nivarisht"
 
 #. Name for nia
@@ -1284,12 +1293,16 @@ msgid "Dutch; Flemish"
 msgstr "Holandisht; Flamisht"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Nynorsk; Norvegjishte e re"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvegjisht"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Bukmol; Danonorvegjisht"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvegjisht"
 
 #. Name for nog
 msgid "Nogai"
@@ -1340,7 +1353,9 @@ msgid "Nzima"
 msgstr "Nzimisht"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Oksitanisht (pas 1500); Provansalisht"
 
 #. Name for oji
@@ -1432,7 +1447,9 @@ msgid "Prakrit languages"
 msgstr "Gjuhë prakrite"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provansalishte e vjetër (deri në 1500)"
 
 #. Name for pus
@@ -1500,8 +1517,10 @@ msgid "Yakut"
 msgstr "Jakutisht"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Indishte e Amerikës Jugore (Tjetër)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Gjuhë indiane të Amerikës Veriore"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1884,8 +1903,8 @@ msgid "Wakashan languages"
 msgstr "Gjuhë uakashe"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Uolajtisht"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

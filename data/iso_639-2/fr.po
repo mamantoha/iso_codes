@@ -2,38 +2,38 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Cedric De Wilde <daique@tiscalinet.be>, 2001.
-# Christophe Fergeau <christophe.fergeau@ensimag.imag.fr>, 2000-2001.
-# Christophe Merlet (RedFox) <redfox@eikonex.org>, 2001.
-# Christian Perrier <bubulle@debian.org>, 2005-2010, 2012-2013.
-# Alban Vidal <alban.vidal@zordhak.fr>, 2017.
-# Julien Humbert <julroy67@gmail.com>, 2020.
-# Mejans <farga@mejans.fr>, 2020.
-# Simon Picot <simonpicot06@gmail.com>, 2020.
-# J. Lavoie <j.lavoie@net-c.ca>, 2020.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2022.
-# verdy_p <verdyp@gmail.com>, 2022.
-# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Cedric De Wilde <daique@tiscalinet.be>
+# SPDX-FileCopyrightText: 2000-2001 Christophe Fergeau <christophe.fergeau@ensimag.imag.fr>
+# SPDX-FileCopyrightText: 2001 Christophe Merlet (RedFox) <redfox@eikonex.org>
+# SPDX-FileCopyrightText: 2005-2010, 2012-2013 Christian Perrier <bubulle@debian.org>
+# SPDX-FileCopyrightText: 2017 Alban Vidal <alban.vidal@zordhak.fr>
+# SPDX-FileCopyrightText: 2020 Julien Humbert <julroy67@gmail.com>
+# SPDX-FileCopyrightText: 2020 Mejans <farga@mejans.fr>
+# SPDX-FileCopyrightText: 2020 Simon Picot <simonpicot06@gmail.com>
+# SPDX-FileCopyrightText: 2020 J. Lavoie <j.lavoie@net-c.ca>
+# SPDX-FileCopyrightText: 2022 ButterflyOfFire <ButterflyOfFire@protonmail.com>
+# SPDX-FileCopyrightText: 2022 verdy_p <verdyp@gmail.com>
+# SPDX-FileCopyrightText: 2023 un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>
+# Valet <jeanvalet1212@outlook.fr>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: fr\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-07-17 10:07+0000\n"
-"Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/fr/>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-04-14 16:10+0000\n"
+"Last-Translator: Valet <jeanvalet1212@outlook.fr>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/iso-codes/iso-639-"
+"2/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -257,8 +257,10 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantoue (autre)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Bandas, langues"
 
 #. Name for bod
 msgid "Tibetan"
@@ -467,7 +469,9 @@ msgid "German"
 msgstr "Allemand"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogrib"
 
 #. Name for din
@@ -1255,11 +1259,15 @@ msgid "Navajo; Navaho"
 msgstr "Navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndébélé du Sud"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndébélé du Nord"
 
 #. Name for ndo
@@ -1275,7 +1283,9 @@ msgid "Nepali"
 msgstr "Népalais"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepâlbhâshâ ; Newari"
 
 #. Name for nia
@@ -1295,12 +1305,16 @@ msgid "Dutch; Flemish"
 msgstr "Néerlandais"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norvégien Nynorsk"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvégien"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Norvégien Bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvégien"
 
 #. Name for nog
 msgid "Nogai"
@@ -1351,7 +1365,9 @@ msgid "Nzima"
 msgstr "Nzema"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Occitan (après 1500) ; Provençal"
 
 #. Name for oji
@@ -1443,8 +1459,8 @@ msgid "Prakrit languages"
 msgstr "Prâkrits, langues"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "Vieux Occitan (jusqu'à 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "Vieil Occitan (jusqu'à 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1511,8 +1527,10 @@ msgid "Yakut"
 msgstr "Iakoute"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Sud-amérindien (autre)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Indiennes d’Amérique du Nord, langues"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1895,8 +1913,8 @@ msgid "Wakashan languages"
 msgstr "Wakashennes, langues"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

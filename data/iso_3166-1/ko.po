@@ -2,25 +2,24 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Jaegeum Choe <baedaron@hananet.net>
+# SPDX-FileCopyrightText: 2006-2007 Sunjae Park <darehanl@gmail.com>
+# SPDX-FileCopyrightText: 2004, 2008-2013, 2015, 2023 Changwoo Ryu <cwryu@debian.org>
+# SPDX-FileCopyrightText: 2019 Jun Hyung Shin <shmishmi79@gmail.com>
+# SPDX-FileCopyrightText: 2020 Shinjo Park <peremen@gmail.com>
 # .
 # Notes:
 # 위키백과 페이지 참고
 # http://ko.wikipedia.org/wiki/ISO_3166
-# .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Jaegeum Choe <baedaron@hananet.net>, 2001.
-# Sunjae Park <darehanl@gmail.com>, 2006-2007.
-# Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015, 2023.
-# Jun Hyung Shin <shmishmi79@gmail.com>, 2019.
-# Shinjo Park <peremen@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-09-10 13:54+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"

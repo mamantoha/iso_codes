@@ -2,19 +2,18 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# FarsiKDE Team <info@farsikde.org>
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Mostafa Ahangarha <ahangarha@gmail.com>, 2018.
-# Nader Jafari <naderpaskari@gmail.com>, 2019.
+# SPDX-FileCopyrightText: FarsiKDE Team <info@farsikde.org>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2018 Mostafa Ahangarha <ahangarha@gmail.com>
+# SPDX-FileCopyrightText: 2019 Nader Jafari <naderpaskari@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: fa\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2019-06-18 19:05+0000\n"
 "Last-Translator: Nader Jafari <naderpaskari@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"

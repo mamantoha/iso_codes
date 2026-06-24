@@ -2,25 +2,24 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Fatih Demir <kabalak@gmx.net>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>, 2001.
-# Volkan Gezer <volkangezer@gmail.com>, 2013.
-# Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
-# Serdar Sağlam <teknomobil@msn.com>, 2019.
-# Oguz Ersen <oguzersen@protonmail.com>, 2019.
-# EminUZUN <eminuzunn@gmail.com>, 2020.
-# Oğuz Ersen <oguzersen@protonmail.com>, 2021.
-# Oğuz Ersen <oguz@ersen.moe>, 2022.
+# SPDX-FileCopyrightText: 2000 Fatih Demir <kabalak@gmx.net>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>
+# SPDX-FileCopyrightText: 2013 Volkan Gezer <volkangezer@gmail.com>
+# SPDX-FileCopyrightText: 2015 Dmitry Sivachenko <trtrmitya@gmail.com>
+# SPDX-FileCopyrightText: 2019 Serdar Sağlam <teknomobil@msn.com>
+# SPDX-FileCopyrightText: 2019 Oguz Ersen <oguzersen@protonmail.com>
+# SPDX-FileCopyrightText: 2020 EminUZUN <eminuzunn@gmail.com>
+# SPDX-FileCopyrightText: 2021 Oğuz Ersen <oguzersen@protonmail.com>
+# SPDX-FileCopyrightText: 2022 Oğuz Ersen <oguz@ersen.moe>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-10-29 19:02+0000\n"
 "Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
@@ -255,8 +254,10 @@ msgid "Siksika"
 msgstr "Siksika (Kuzey Amerika yerlileri)"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantu (Diğer)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Banda dilleri"
 
 #. Name for bod
 msgid "Tibetan"
@@ -467,7 +468,9 @@ msgid "German"
 msgstr "Almanca"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogrib (Kanada)"
 
 #. Name for din
@@ -1269,11 +1272,15 @@ msgid "Navajo; Navaho"
 msgstr "Navajo; Navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebele, Güney; Güney Ndebelecesi"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebele, Kuzey; Kuzey Ndebelecesi"
 
 #. Name for ndo
@@ -1290,7 +1297,9 @@ msgid "Nepali"
 msgstr "Nepalce"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepal Bhasa; Newari"
 
 #. Name for nia
@@ -1310,12 +1319,16 @@ msgid "Dutch; Flemish"
 msgstr "Felemenkçe; Flamanca"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Halk Norveççesi; Halk, Norveççe"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norveççe"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Kitap, Norveççe; Kitap Norveççesi"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norveççe"
 
 # src/toolbar.c:237
 #. Name for nog
@@ -1367,7 +1380,9 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Oksitanca (1500 sonrası); Provensal"
 
 #. Name for oji
@@ -1459,7 +1474,9 @@ msgid "Prakrit languages"
 msgstr "Prakrit dilleri"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provensal, Eski (1500 yılı)"
 
 #. Name for pus
@@ -1527,8 +1544,10 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Güney Amerika Kızılderili (Diğer)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Kuzey Amerika Kızılderili dilleri"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1916,8 +1935,8 @@ msgid "Wakashan languages"
 msgstr "Wakashan dilleri"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

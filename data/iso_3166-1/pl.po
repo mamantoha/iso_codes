@@ -2,21 +2,20 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Tomasz Z. Napierala <zen@debian.linux.org.pl>, 2004, 2006.
-# Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2019, 2022, 2023.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
+# SPDX-FileCopyrightText: Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004, 2006 Tomasz Z. Napierala <zen@debian.linux.org.pl>
+# SPDX-FileCopyrightText: 2007 Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>
+# SPDX-FileCopyrightText: 2007-2017, 2019, 2022, 2023 Jakub Bogusz <qboosh@pld-linux.org>
+# SPDX-FileCopyrightText: 2018 Chris Leonard <cjlhomeaddress@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-20 19:53+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"

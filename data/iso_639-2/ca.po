@@ -2,25 +2,24 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Jordi Ferré <jordiferre@catalonia.altranet.fr>
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Softcatalà <info@softcatala.org>, 2000-2001.
-# Toni Hermoso Pulido <toniher@softcatala.org>, 2010.
-# Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015.
-# ferranroig <forums@ferranroig.com>, 2018.
-# Joan Montané <joan@montane.cat>, 2019.
-# Sergi Almacellas Abellana <sergi@koolpi.com>, 2022.
-# "Josep M. Ferrer" <txemaq@gmail.com>, 2024.
+# SPDX-FileCopyrightText: Jordi Ferré <jordiferre@catalonia.altranet.fr>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Softcatalà <info@softcatala.org>
+# SPDX-FileCopyrightText: 2010 Toni Hermoso Pulido <toniher@softcatala.org>
+# SPDX-FileCopyrightText: 2015 Jordi Mas i Hernàndez <jmas@softcatala.org>
+# SPDX-FileCopyrightText: 2018 ferranroig <forums@ferranroig.com>
+# SPDX-FileCopyrightText: 2019 Joan Montané <joan@montane.cat>
+# SPDX-FileCopyrightText: 2022 Sergi Almacellas Abellana <sergi@koolpi.com>
+# SPDX-FileCopyrightText: 2024, 2025 "Josep M. Ferrer" <txemaq@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-09-15 21:09+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: \"Josep M. Ferrer\" <txemaq@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ca/>\n"
@@ -29,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -252,8 +251,8 @@ msgid "Siksika"
 msgstr "siksika; peus negres"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "bantu (altra)"
+msgid "Bantu languages"
+msgstr "llengües bantu"
 
 #. Name for bod
 msgid "Tibetan"
@@ -462,8 +461,8 @@ msgid "German"
 msgstr "alemany"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "dogrib"
+msgid "Tlicho; Dogrib"
+msgstr "tlicho; dogrib"
 
 #. Name for din
 msgid "Dinka"
@@ -1250,11 +1249,11 @@ msgid "Navajo; Navaho"
 msgstr "navajo; navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "ndebele meridional"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "ndebele septentrional"
 
 #. Name for ndo
@@ -1270,8 +1269,8 @@ msgid "Nepali"
 msgstr "nepalès"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "newari; bhasa Nepal"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "newar; newari; bhasa Nepal"
 
 #. Name for nia
 msgid "Nias"
@@ -1290,11 +1289,11 @@ msgid "Dutch; Flemish"
 msgstr "neerlandès; holandès; flamenc"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
 msgstr "noruec nynorsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
 msgstr "noruec bokmål"
 
 #. Name for nog
@@ -1346,8 +1345,8 @@ msgid "Nzima"
 msgstr "nzema; nzima; appolo"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "occità (després del 1500); provençal"
+msgid "Occitan (post 1500)"
+msgstr "occità (després del 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1438,8 +1437,8 @@ msgid "Prakrit languages"
 msgstr "llengües pràcrits"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "provençal antic (fins al 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "provençal antic (fins al 1500); occità antic (fins al 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1506,8 +1505,8 @@ msgid "Yakut"
 msgstr "iacut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "llengua ameríndia d'Amèrica del Sud (altra)"
+msgid "South American Indian languages"
+msgstr "llengües ameríndies d'Amèrica del Sud"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1890,8 +1889,8 @@ msgid "Wakashan languages"
 msgstr "llengües wakashan"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr "wolaitta; wolaytta"
 
 #. Name for war
 msgid "Waray"

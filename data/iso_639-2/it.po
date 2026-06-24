@@ -2,21 +2,20 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alessio Frusciante <algol@firenze.linux.it>, 2001.
-# Marcello Raffa <mrooth@tiscalinet.it>, 2001.
-# Milo Casagrande <milo@casagrande.name>, 2008-2010, 2012-2013, 2017.
-# Fabio Tomat <f.t.public@gmail.com>, 2020, 2022.
-# Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
-# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2024.
+# SPDX-FileCopyrightText: 2001 Alessio Frusciante <algol@firenze.linux.it>
+# SPDX-FileCopyrightText: 2001 Marcello Raffa <mrooth@tiscalinet.it>
+# SPDX-FileCopyrightText: 2008-2010, 2012-2013, 2017 Milo Casagrande <milo@casagrande.name>
+# SPDX-FileCopyrightText: 2020, 2022 Fabio Tomat <f.t.public@gmail.com>
+# SPDX-FileCopyrightText: 2022 Luigi Toscano <luigi.toscano@tiscali.it>
+# SPDX-FileCopyrightText: 2024 Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-12-12 11:18+0100\n"
 "Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
@@ -250,8 +249,10 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Lingue bantu (altre)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Lingue banda"
 
 #. Name for bod
 msgid "Tibetan"
@@ -461,7 +462,9 @@ msgid "German"
 msgstr "Tedesco"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogrib"
 
 #. Name for din
@@ -1249,11 +1252,15 @@ msgid "Navajo; Navaho"
 msgstr "Navajo; Navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebele del Sud"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebele del Nord"
 
 #. Name for ndo
@@ -1269,7 +1276,9 @@ msgid "Nepali"
 msgstr "Nepalese"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Bhasa nepalese, Newari"
 
 #. Name for nia
@@ -1289,12 +1298,16 @@ msgid "Dutch; Flemish"
 msgstr "Olandese; Fiammingo"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Nynorsk norvegese"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvegese"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Bokmål, norvegiese; Bokmål norvegese"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvegese"
 
 #. Name for nog
 msgid "Nogai"
@@ -1345,7 +1358,9 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Occitano (posteriore 1500); Provenzale"
 
 #. Name for oji
@@ -1437,7 +1452,9 @@ msgid "Prakrit languages"
 msgstr "Lingue prakrit"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provenzale antico (fino al 1500)"
 
 #. Name for pus
@@ -1505,8 +1522,10 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Lingue indiane del Sud America (altre)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Lingue indiane del Nord America"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1889,8 +1908,8 @@ msgid "Wakashan languages"
 msgstr "Lingue wakashan"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

@@ -2,28 +2,28 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Amitakhya Phukan <aphukan@fedoraproject.org>, 2010.
-# Itsmechinmoy <itsmechinmoy@users.noreply.hosted.weblate.org>, 2024, 2025.
+# SPDX-FileCopyrightText: 2010 Amitakhya Phukan <aphukan@fedoraproject.org>
+# SPDX-FileCopyrightText: 2024, 2025 Itsmechinmoy <itsmechinmoy@users.noreply.hosted.weblate.org>
+# Itsmechinmoy <167056923+itsmechinmoy@users.noreply.github.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2025-02-02 15:27+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-05-01 09:13+0000\n"
 "Last-Translator: Itsmechinmoy "
-"<itsmechinmoy@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Assamese <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/as/>\n"
+"<167056923+itsmechinmoy@users.noreply.github.com>\n"
+"Language-Team: Assamese <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-2/as/>\n"
 "Language: as\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #. Name for aar
 msgid "Afar"
@@ -246,8 +246,8 @@ msgid "Siksika"
 msgstr "চিক্‌চিকা"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "বান্টু (অন্য)"
+msgid "Bantu languages"
+msgstr "বাণ্টু ভাষা"
 
 #. Name for bod
 msgid "Tibetan"
@@ -457,8 +457,8 @@ msgid "German"
 msgstr "জাৰ্মান"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "ডগ্ৰিব"
+msgid "Tlicho; Dogrib"
+msgstr "ত্লিচো; ডগ্ৰিব"
 
 #. Name for din
 msgid "Dinka"
@@ -1245,12 +1245,12 @@ msgid "Navajo; Navaho"
 msgstr "নাভাজে; নাভাহো"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
-msgstr "ডেবেলে, দক্ষিণ; দক্ষিণ ডেবেলে"
+msgid "South Ndebele"
+msgstr "দক্ষিণ ডেবেলে"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
-msgstr "ডেবেলে, উত্তৰ; উত্তৰ ডেবেলে"
+msgid "North Ndebele"
+msgstr "উত্তৰ ডেবেলে"
 
 #. Name for ndo
 msgid "Ndonga"
@@ -1265,8 +1265,8 @@ msgid "Nepali"
 msgstr "নেপালি"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "নেপাল ভাষা; নেৱাৰী"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "নেপাল ভাষা; নেৱাৰ; নেৱাৰী"
 
 #. Name for nia
 msgid "Nias"
@@ -1285,12 +1285,12 @@ msgid "Dutch; Flemish"
 msgstr "ডাশ্ব, ফ্লেমিছ"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "নৰ্ৱেইয়ান নিনৰ্স্ক; নিনৰ্স্ক, নৰ্ৱেইয়ান"
+msgid "Norwegian Nynorsk"
+msgstr "নৰৱেজিয়ান নিনোৰস্ক"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "বকমাল, নৰ্ৱেইয়ান; নৰ্ৱেইয়ান বকমাল"
+msgid "Norwegian Bokmål"
+msgstr "নৰৱেজিয়ান বোকমাল"
 
 #. Name for nog
 msgid "Nogai"
@@ -1341,8 +1341,8 @@ msgid "Nzima"
 msgstr "এনজিমা"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "অক্সিটান (১৫০০ পিছৰ); প্ৰভেন্সাল"
+msgid "Occitan (post 1500)"
+msgstr "অক্সিটান (১৫০০ পিছৰ)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1433,8 +1433,8 @@ msgid "Prakrit languages"
 msgstr "প্ৰাক্ৰিত ভাষা"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "প্ৰভেঙ্কাল, পুৰণি (১৫০০ পিছৰ)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "পুৰণি প্ৰভেন্সেল (১৫০০ চনলৈ); পুৰণি অক্সিটান (১৫০০ চনলৈ)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1501,8 +1501,8 @@ msgid "Yakut"
 msgstr "য়াকুট"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "দক্ষিণ আমেৰিকান ভাৰতীয় (অন্যান্য)"
+msgid "South American Indian languages"
+msgstr "দক্ষিণ আমেৰিকাৰ খিলঞ্জীয়া ভাষা"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1885,8 +1885,8 @@ msgid "Wakashan languages"
 msgstr "ৱাকাশ্বান ভাষা"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "ৱালাম’"
+msgid "Wolaitta; Wolaytta"
+msgstr "wal-ৰ নাম"
 
 #. Name for war
 msgid "Waray"

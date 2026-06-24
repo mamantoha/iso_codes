@@ -2,16 +2,15 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2023.
+# SPDX-FileCopyrightText: 2022, 2023 Temuri Doghonadze <temuri.doghonadze@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-08-29 16:54+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/iso-codes/"
@@ -244,8 +243,10 @@ msgid "Siksika"
 msgstr ""
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "ბანდა ენები"
 
 #. Name for bod
 msgid "Tibetan"
@@ -454,7 +455,7 @@ msgid "German"
 msgstr "გერმანული"
 
 #. Name for dgr
-msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr ""
 
 #. Name for din
@@ -1242,11 +1243,11 @@ msgid "Navajo; Navaho"
 msgstr ""
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr ""
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr ""
 
 #. Name for ndo
@@ -1262,7 +1263,7 @@ msgid "Nepali"
 msgstr "ნეპალური"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 #. Name for nia
@@ -1282,12 +1283,16 @@ msgid "Dutch; Flemish"
 msgstr ""
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr ""
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "ნორვეგიული"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "ნორვეგიული"
 
 #. Name for nog
 msgid "Nogai"
@@ -1338,7 +1343,7 @@ msgid "Nzima"
 msgstr ""
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr ""
 
 #. Name for oji
@@ -1430,7 +1435,7 @@ msgid "Prakrit languages"
 msgstr "პრაკრიტის ენები"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr ""
 
 #. Name for pus
@@ -1498,8 +1503,10 @@ msgid "Yakut"
 msgstr "იაკუტიური"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr ""
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "ჩრდილოეთ ამერიკის ინდური ენები"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1882,7 +1889,7 @@ msgid "Wakashan languages"
 msgstr "ვაკასჰანის ენები"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

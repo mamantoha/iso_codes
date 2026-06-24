@@ -2,23 +2,22 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Andrea Scialpi <solopec@tiscalinet.it>, 2001.
-# Danilo Piazzalunga <danilopiazza@libero.it>, 2004.
-# Davide Viti <zinosat@tiscali.it>, 2006.
-# Milo Casagrande <milo@milo.name>, 2008-2013, 2017.
-# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2018-2024.
-# Luigi Toscano <luigi.toscano@tiscali.it>, 2022.
-# Giuseppe Sacco <eppesuig@debian.org>, 2025.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Andrea Scialpi <solopec@tiscalinet.it>
+# SPDX-FileCopyrightText: 2004 Danilo Piazzalunga <danilopiazza@libero.it>
+# SPDX-FileCopyrightText: 2006 Davide Viti <zinosat@tiscali.it>
+# SPDX-FileCopyrightText: 2008-2013, 2017 Milo Casagrande <milo@milo.name>
+# SPDX-FileCopyrightText: 2018-2024 Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>
+# SPDX-FileCopyrightText: 2022 Luigi Toscano <luigi.toscano@tiscali.it>
+# SPDX-FileCopyrightText: 2025 Giuseppe Sacco <eppesuig@debian.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-01-24 10:07+0100\n"
 "Last-Translator: Giuseppe Sacco <eppesuig@debian.org>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"

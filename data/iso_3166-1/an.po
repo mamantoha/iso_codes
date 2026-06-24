@@ -2,26 +2,26 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Juan Pablo Martínez <jpmart@unizar.es>, 2020.
+# SPDX-FileCopyrightText: 2020 Juan Pablo Martínez <jpmart@unizar.es>
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2020-09-24 20:41+0000\n"
-"Last-Translator: Juan Pablo Martínez <jpmart@unizar.es>\n"
-"Language-Team: Aragonese <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-1/an/>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-04-17 16:27+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Aragonese <https://hosted.weblate.org/projects/iso-codes/iso-"
+"3166-1/an/>\n"
 "Language: an\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1082,14 +1082,12 @@ msgid "Republic of the Marshall Islands"
 msgstr ""
 
 #. Name for MKD
-#, fuzzy
 msgid "North Macedonia"
-msgstr "Nueva Caledonia"
+msgstr "Macedonya d'o Norte"
 
 #. Official name for MKD
-#, fuzzy
 msgid "Republic of North Macedonia"
-msgstr "Republica d'o Congo"
+msgstr "Republica de Macedonya d'o Norte"
 
 #. Name for MLI
 #, fuzzy

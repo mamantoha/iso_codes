@@ -1,20 +1,19 @@
-# Translation of ISO 639-2 to Norwegian Nynorsk; Nynorsk, Norwegian
+# Translation of ISO 639-2 to Norwegian Nynorsk
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Kjartan Maraas <kmaraas@gnome.org>, 2001.
-# Roy-Magne Mo <rmo@sunnmore.net>, 2001.
-# Karl Ove Hufthammer <karl@huftis.org>, 2003-2004, 2006.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Kjartan Maraas <kmaraas@gnome.org>
+# SPDX-FileCopyrightText: 2001 Roy-Magne Mo <rmo@sunnmore.net>
+# SPDX-FileCopyrightText: 2003-2004, 2006 Karl Ove Hufthammer <karl@huftis.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: nn\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2006-10-08 13:49+0200\n"
 "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
 "Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
@@ -256,8 +255,9 @@ msgid "Siksika"
 msgstr ""
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+msgid "Bantu languages"
+msgstr "Munda"
 
 #. Name for bod
 msgid "Tibetan"
@@ -480,7 +480,7 @@ msgid "German"
 msgstr "Tysk"
 
 #. Name for dgr
-msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr ""
 
 #. Name for din
@@ -1296,11 +1296,11 @@ msgstr "Navaho"
 
 #. Name for nbl
 #, fuzzy
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Sør-Afrika"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr ""
 
 #. Name for ndo
@@ -1316,7 +1316,7 @@ msgid "Nepali"
 msgstr "Nepali"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 #. Name for nia
@@ -1338,12 +1338,16 @@ msgid "Dutch; Flemish"
 msgstr "nederlandsk"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norsk (nynorsk)"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norsk"
 
 #. Name for nog
 msgid "Nogai"
@@ -1395,7 +1399,7 @@ msgstr ""
 
 #. Name for oci
 #, fuzzy
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Oksitansk (etter 1500)"
 
 #. Name for oji
@@ -1492,7 +1496,7 @@ msgstr "Prakrit"
 
 #. Name for pro
 #, fuzzy
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "oksitansk (etter 1500); provençalsk"
 
 #. Name for pus
@@ -1567,7 +1571,7 @@ msgstr ""
 
 #. Name for sai
 #, fuzzy
-msgid "South American Indian (Other)"
+msgid "South American Indian languages"
 msgstr "Nordamerikansk indiansk"
 
 #. Name for sal
@@ -1967,7 +1971,7 @@ msgid "Wakashan languages"
 msgstr "algonkin"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

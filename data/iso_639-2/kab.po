@@ -2,19 +2,18 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Muḥend Belqasem <belkacem77@gmail.com>, 2020.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2020.
-# ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>, 2024.
+# SPDX-FileCopyrightText: 2020 Muḥend Belqasem <belkacem77@gmail.com>
+# SPDX-FileCopyrightText: 2020 ButterflyOfFire <ButterflyOfFire@protonmail.com>
+# SPDX-FileCopyrightText: 2024, 2025 ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-03-14 22:01+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-24 14:03+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/kab/>\n"
@@ -23,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -187,7 +186,7 @@ msgstr "Tabambarat"
 
 #. Name for ban
 msgid "Balinese"
-msgstr ""
+msgstr "Tabalinit"
 
 #. Name for bas
 msgid "Basa"
@@ -211,7 +210,7 @@ msgstr "Tabimbat"
 
 #. Name for ben
 msgid "Bengali"
-msgstr "Bengalî"
+msgstr "Tabengalit"
 
 #. Common name for ben
 msgid "Bangla"
@@ -219,7 +218,7 @@ msgstr ""
 
 #. Name for ber
 msgid "Berber languages"
-msgstr "Tutlayin n tmaziɣt"
+msgstr "Tutlayin timaziɣin"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -246,8 +245,8 @@ msgid "Siksika"
 msgstr ""
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+msgid "Bantu languages"
+msgstr "Tutlayin n Bantu"
 
 #. Name for bod
 msgid "Tibetan"
@@ -456,7 +455,7 @@ msgid "German"
 msgstr "Talmanit"
 
 #. Name for dgr
-msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr ""
 
 #. Name for din
@@ -593,15 +592,15 @@ msgstr ""
 
 #. Name for frr
 msgid "Northern Frisian"
-msgstr ""
+msgstr "Tafrisyant n ugafa"
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr ""
+msgstr "Tafrisyant n usammar"
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr ""
+msgstr "Tafrisyant n umalu"
 
 #. Name for ful
 msgid "Fulah"
@@ -669,7 +668,7 @@ msgstr ""
 
 #. Name for got
 msgid "Gothic"
-msgstr "Gothique"
+msgstr "Tagutikt"
 
 #. Name for grb
 msgid "Grebo"
@@ -1057,7 +1056,7 @@ msgstr "Talubat n Katanga"
 
 #. Name for lug
 msgid "Ganda"
-msgstr ""
+msgstr "Tagandat"
 
 #. Name for lui
 msgid "Luiseno"
@@ -1141,7 +1140,7 @@ msgstr ""
 
 #. Name for mis
 msgid "Uncoded languages"
-msgstr ""
+msgstr "Tutlayin ur nettuttengel ara"
 
 #. Name for mkd
 msgid "Macedonian"
@@ -1193,7 +1192,7 @@ msgstr "Tamalizit"
 
 #. Name for mul
 msgid "Multiple languages"
-msgstr ""
+msgstr "Aṭas n tutlayin"
 
 #. Name for mun
 msgid "Munda languages"
@@ -1244,11 +1243,11 @@ msgid "Navajo; Navaho"
 msgstr ""
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr ""
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr ""
 
 #. Name for ndo
@@ -1264,7 +1263,7 @@ msgid "Nepali"
 msgstr "Tanipalit"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 #. Name for nia
@@ -1284,12 +1283,12 @@ msgid "Dutch; Flemish"
 msgstr ""
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr ""
+msgid "Norwegian Nynorsk"
+msgstr "Tanurvijit Nynorsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+msgid "Norwegian Bokmål"
+msgstr "Tanurvijit Bokmål"
 
 #. Name for nog
 msgid "Nogai"
@@ -1340,12 +1339,12 @@ msgid "Nzima"
 msgstr ""
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr ""
+msgid "Occitan (post 1500)"
+msgstr "Tuksiṭanit (seld 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
-msgstr ""
+msgstr "Tujibwat"
 
 #. Name for ori
 msgid "Oriya"
@@ -1432,7 +1431,7 @@ msgid "Prakrit languages"
 msgstr ""
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr ""
 
 #. Name for pus
@@ -1500,7 +1499,7 @@ msgid "Yakut"
 msgstr "Tayakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
+msgid "South American Indian languages"
 msgstr ""
 
 #. Name for sal
@@ -1513,7 +1512,7 @@ msgstr ""
 
 #. Name for san
 msgid "Sanskrit"
-msgstr "m"
+msgstr "Tasanskrit"
 
 #. Name for sas
 msgid "Sasak"
@@ -1777,7 +1776,7 @@ msgstr ""
 
 #. Name for ton
 msgid "Tonga (Tonga Islands)"
-msgstr "Tongien (Îles Tonga)"
+msgstr "Taṭungit (Tigzirin n Ṭunga)"
 
 #. Name for tpi
 msgid "Tok Pisin"
@@ -1817,7 +1816,7 @@ msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr ""
+msgstr "Tuvalu"
 
 #. Name for twi
 msgid "Twi"
@@ -1849,7 +1848,7 @@ msgstr ""
 
 #. Name for und
 msgid "Undetermined"
-msgstr ""
+msgstr "Araguccel"
 
 #. Name for urd
 msgid "Urdu"
@@ -1884,7 +1883,7 @@ msgid "Wakashan languages"
 msgstr ""
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war
@@ -1949,7 +1948,7 @@ msgstr ""
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Tamaziɣt tameslugant tameṛṛukit"
 
 #. Name for zha
 msgid "Zhuang; Chuang"
@@ -1957,7 +1956,7 @@ msgstr ""
 
 #. Name for zho
 msgid "Chinese"
-msgstr "Chinois"
+msgstr "Tacinwat"
 
 #. Name for znd
 msgid "Zande languages"

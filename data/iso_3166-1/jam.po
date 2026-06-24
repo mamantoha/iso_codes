@@ -2,17 +2,17 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
+# SPDX-FileCopyrightText: 2025 bgo-eiu <huyaqoob+toolforge@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2017-12-29 14:12+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-30 14:02+0000\n"
+"Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
 "Language-Team: Jamaican Patois <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-1/jam/>\n"
 "Language: jam\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -32,7 +32,7 @@ msgstr "Afganistan"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr ""
+msgstr "Islamik Ripoblik a Afganistan"
 
 #. Name for AGO
 msgid "Angola"
@@ -88,11 +88,11 @@ msgstr ""
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr ""
+msgstr "Amoerkan Samoa"
 
 #. Name for ATA
 msgid "Antarctica"
-msgstr ""
+msgstr "Antaatika"
 
 #. Name for ATF
 msgid "French Southern Territories"
@@ -180,7 +180,7 @@ msgstr ""
 
 #. Name for BHS
 msgid "Bahamas"
-msgstr ""
+msgstr "Ba’aamaz"
 
 #. Official name for BHS
 msgid "Commonwealth of the Bahamas"
@@ -212,7 +212,7 @@ msgstr "Biliiz"
 
 #. Name for BMU
 msgid "Bermuda"
-msgstr ""
+msgstr "Boermyuuda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
@@ -292,15 +292,15 @@ msgstr ""
 
 #. Name for CHN
 msgid "China"
-msgstr ""
+msgstr "Chaina"
 
 #. Official name for CHN
 msgid "People's Republic of China"
-msgstr "Chaina"
+msgstr "Piiplz Ripoblik a Chaina"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"
-msgstr ""
+msgstr "Aivri Kuos"
 
 #. Official name for CIV
 msgid "Republic of Côte d'Ivoire"
@@ -320,7 +320,7 @@ msgstr ""
 
 #. Name for COG
 msgid "Congo"
-msgstr ""
+msgstr "Kanggo"
 
 #. Official name for COG
 msgid "Republic of the Congo"
@@ -372,7 +372,7 @@ msgstr ""
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "Kiurasao"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -392,7 +392,7 @@ msgstr ""
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Chekia"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -468,7 +468,7 @@ msgstr ""
 
 #. Name for ESH
 msgid "Western Sahara"
-msgstr "Westan Sa'aara"
+msgstr "Westan Sa’aara"
 
 #. Name for ESP
 msgid "Spain"
@@ -480,7 +480,7 @@ msgstr ""
 
 #. Name for EST
 msgid "Estonia"
-msgstr ""
+msgstr "hEstuonia"
 
 #. Official name for EST
 msgid "Republic of Estonia"
@@ -584,7 +584,7 @@ msgstr "Guadiluup"
 
 #. Name for GMB
 msgid "Gambia"
-msgstr ""
+msgstr "Giambia"
 
 #. Official name for GMB
 #, fuzzy
@@ -622,7 +622,7 @@ msgstr "Grinieda"
 
 #. Name for GRL
 msgid "Greenland"
-msgstr ""
+msgstr "Griinlan"
 
 #. Name for GTM
 msgid "Guatemala"
@@ -650,7 +650,7 @@ msgstr ""
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Ang Kang"
+msgstr "hAng Kang"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -662,7 +662,7 @@ msgstr ""
 
 #. Name for HND
 msgid "Honduras"
-msgstr "Andyuuras"
+msgstr "hAndyuuras"
 
 #. Official name for HND
 msgid "Republic of Honduras"
@@ -686,7 +686,7 @@ msgstr ""
 
 #. Name for HUN, Official name for HUN
 msgid "Hungary"
-msgstr "Onggari"
+msgstr "hOnggari"
 
 #. Name for IDN
 msgid "Indonesia"
@@ -726,7 +726,7 @@ msgstr ""
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -848,7 +848,7 @@ msgstr ""
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laus"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "ESwatini"
 
 #. Official name for SWZ
 msgid "Kingdom of Eswatini"
@@ -1478,7 +1478,7 @@ msgstr ""
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Siria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1526,7 +1526,7 @@ msgstr "Toerkmenistan"
 
 #. Name for TLS
 msgid "Timor-Leste"
-msgstr ""
+msgstr "Iis Timor"
 
 #. Official name for TLS
 msgid "Democratic Republic of Timor-Leste"
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Toerki"
 
 #. Official name for TUR
 #, fuzzy

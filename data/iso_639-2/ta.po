@@ -2,21 +2,21 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Dwayne Bailey <dwayne@translate.org.za>, 2009.
-# I. Felix <ifelix25@gmail.com>, 2009.
-# தமிழ்நேரம் <anishprabu.t@gmail.com>, 2024.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2024.
+# SPDX-FileCopyrightText: 2009 Dwayne Bailey <dwayne@translate.org.za>
+# SPDX-FileCopyrightText: 2009 I. Felix <ifelix25@gmail.com>
+# SPDX-FileCopyrightText: 2024 தமிழ்நேரம் <anishprabu.t@gmail.com>
+# SPDX-FileCopyrightText: 2024 Chris Leonard <cjlhomeaddress@gmail.com>
+# தமிழ்நேரம் <tamilneram247@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-01-16 03:45+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-12-25 18:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ta/>\n"
 "Language: ta\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Name for aar
 msgid "Afar"
@@ -247,8 +247,8 @@ msgid "Siksika"
 msgstr "சிக்சிகா"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "பன்டு (மற்ற)"
+msgid "Bantu languages"
+msgstr "பான்டு மொழிகள்"
 
 #. Name for bod
 msgid "Tibetan"
@@ -457,8 +457,8 @@ msgid "German"
 msgstr "செர்மன்"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "டாக்ரிப்"
+msgid "Tlicho; Dogrib"
+msgstr "டிலிச்சோ; டோக்ரிப்"
 
 #. Name for din
 msgid "Dinka"
@@ -1245,12 +1245,12 @@ msgid "Navajo; Navaho"
 msgstr "நவாசோ; நவாசோ"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
-msgstr "டிப்லெ; தெற்கு; தெற்கு டிப்லெ"
+msgid "South Ndebele"
+msgstr "தெற்கு டிப்லெ"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
-msgstr "டிப்லெ; வடக்கு; வடக்கு டிப்லெ"
+msgid "North Ndebele"
+msgstr "வடக்கு டிப்லெ"
 
 #. Name for ndo
 msgid "Ndonga"
@@ -1265,8 +1265,8 @@ msgid "Nepali"
 msgstr "நேபாலி"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "நேபாளம் பாச்சா: நியுவாரி"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "நேபாளம் பாச்சா: நியுவார்: நியுவாரி"
 
 #. Name for nia
 msgid "Nias"
@@ -1285,12 +1285,12 @@ msgid "Dutch; Flemish"
 msgstr "டச்சு; ஃப்லீமிச்"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "நார்வேசியன் நைநோர்ச்க்; நைநோர்ச்க், நார்வேசியன்"
+msgid "Norwegian Nynorsk"
+msgstr "நார்வேசியன் நைனார்சக்"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "போக்மால், நார்வேசியன்; நார்வேசியன் போக்மால்"
+msgid "Norwegian Bokmål"
+msgstr "நார்வேசியன் போக்மால்"
 
 #. Name for nog
 msgid "Nogai"
@@ -1341,8 +1341,8 @@ msgid "Nzima"
 msgstr "நிசிமா"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "ஒசிடியன் (post 1500); பிரோவெகால்"
+msgid "Occitan (post 1500)"
+msgstr "ஒசிடியன் (பதவி 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1433,8 +1433,8 @@ msgid "Prakrit languages"
 msgstr "பராக்ரிட் மொழிகள்"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "ப்ரோவாங்கல்,பழைய (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "ப்ரோவாங்கல், பழைய (1500 வரை); ஒக்சிட்டன், பழைய (1500 வரை)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1501,8 +1501,8 @@ msgid "Yakut"
 msgstr "யாகுட்"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "தெற்கு அமெரிக்க இந்திய (மற்ற)"
+msgid "South American Indian languages"
+msgstr "தெற்கு அமெரிக்க இந்திய மொழிகள்"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1885,8 +1885,8 @@ msgid "Wakashan languages"
 msgstr "வகாசன் மொழிகள்"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "வாலாமோ"
+msgid "Wolaitta; Wolaytta"
+msgstr "வோலைட்டா; வோலைட்டா"
 
 #. Name for war
 msgid "Waray"

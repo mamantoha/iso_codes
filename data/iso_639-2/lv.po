@@ -2,19 +2,18 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Andris Maziks <andzha@latnet.lv>
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Rihards Prieditis <rihards.prieditis@gmail.com>, 2013.
-# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011, 2014.
+# SPDX-FileCopyrightText: Andris Maziks <andzha@latnet.lv>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2013 Rihards Prieditis <rihards.prieditis@gmail.com>
+# SPDX-FileCopyrightText: 2011, 2014 Rūdofls Mazurs <rudolfs.mazurs@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2014-04-20 16:50+0300\n"
 "Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
 "Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
@@ -248,8 +247,10 @@ msgid "Siksika"
 msgstr "Siksiku"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Bandu"
 
 #. Name for bod
 msgid "Tibetan"
@@ -458,7 +459,9 @@ msgid "German"
 msgstr "Vācu"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogribu"
 
 #. Name for din
@@ -1248,11 +1251,15 @@ msgid "Navajo; Navaho"
 msgstr "Navahu"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Dienvidndebelu"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ziemeļndebelu"
 
 #. Name for ndo
@@ -1268,7 +1275,9 @@ msgid "Nepali"
 msgstr "Nepāliešu"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nevaru"
 
 #. Name for nia
@@ -1288,12 +1297,16 @@ msgid "Dutch; Flemish"
 msgstr "Holandiešu"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Jaunnorvēģu"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvēģu"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Norvēģu bukmols"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvēģu"
 
 #. Name for nog
 msgid "Nogai"
@@ -1346,7 +1359,7 @@ msgstr "Nzemu"
 #. Name for oci
 #, fuzzy
 #| msgid "Occitan (post 1500)"
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Oksitāņu"
 
 #. Name for oji
@@ -1440,7 +1453,7 @@ msgstr "Prākrita valoda"
 #. Name for pro
 #, fuzzy
 #| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Senprovansiešu (līdz 1500)"
 
 #. Name for pus
@@ -1511,9 +1524,9 @@ msgstr "Jakutu"
 
 #. Name for sai
 #, fuzzy
-#| msgid "South American Indian languages"
-msgid "South American Indian (Other)"
-msgstr "Dienvidamerikas indiāņu"
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Ziemeļamerikas indiāņu valodas"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1896,7 +1909,7 @@ msgid "Wakashan languages"
 msgstr "Vakašu valodas"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

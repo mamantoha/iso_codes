@@ -2,17 +2,17 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
+# SPDX-FileCopyrightText: 2025 bgo-eiu <huyaqoob+toolforge@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2018-01-01 07:31+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-07 17:51+0000\n"
+"Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
 "Language-Team: Sindhi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sd/>\n"
 "Language: sd\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -396,7 +396,7 @@ msgstr ""
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "جمهوريہ چيڪ"
+msgstr "چيڪ ريپبلڪ"
 
 #. Name for DEU
 msgid "Germany"
@@ -798,7 +798,7 @@ msgstr ""
 
 #. Name for KGZ
 msgid "Kyrgyzstan"
-msgstr "ڪِرگزِستانُ"
+msgstr "ڪرغزستان"
 
 #. Official name for KGZ
 msgid "Kyrgyz Republic"
@@ -1174,7 +1174,7 @@ msgstr ""
 
 #. Name for OMN
 msgid "Oman"
-msgstr "سلطنت عمان"
+msgstr "عمان"
 
 #. Official name for OMN
 msgid "Sultanate of Oman"
@@ -1386,7 +1386,7 @@ msgstr ""
 
 #. Name for SOM
 msgid "Somalia"
-msgstr "صوماليه"
+msgstr "صوماليا"
 
 #. Official name for SOM
 msgid "Federal Republic of Somalia"

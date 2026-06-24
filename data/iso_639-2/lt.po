@@ -2,20 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
-# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2006, 2008-2009.
-# Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>, 2021.
-# Rimas Kudelis <rimas@kudelis.lt>, 2023.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Gediminas Paulauskas <menesis@delfi.lt>
+# SPDX-FileCopyrightText: 2004, 2006, 2008-2009 Kęstutis Biliūnas <kebil@kaunas.init.lt>
+# SPDX-FileCopyrightText: 2021 Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>
+# SPDX-FileCopyrightText: 2023 Rimas Kudelis <rimas@kudelis.lt>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-07-15 07:51+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@kudelis.lt>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"
@@ -250,8 +249,10 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantų (kitos)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Bandos kalbos"
 
 #. Name for bod
 msgid "Tibetan"
@@ -460,7 +461,9 @@ msgid "German"
 msgstr "Vokiečių"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogribų"
 
 #. Name for din
@@ -1248,11 +1251,15 @@ msgid "Navajo; Navaho"
 msgstr "Navahų"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Pietų ndebelų"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Šiaurės ndebelų"
 
 #. Name for ndo
@@ -1268,7 +1275,9 @@ msgid "Nepali"
 msgstr "Nepalų"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepalų bhasa; nevarų"
 
 #. Name for nia
@@ -1288,12 +1297,16 @@ msgid "Dutch; Flemish"
 msgstr "Olandų; Flamandų"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norvegų nynorsk; nynorsk, norvegų"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvegų"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Bokmål; norvegų; norvegų bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvegų"
 
 #. Name for nog
 msgid "Nogai"
@@ -1344,7 +1357,9 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Oksitanų (po 1500 m.); Provansaliečių"
 
 #. Name for oji
@@ -1436,7 +1451,9 @@ msgid "Prakrit languages"
 msgstr "Prakrit kalbos"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provansaliečių, senoji (iki 1500 m.)"
 
 #. Name for pus
@@ -1504,8 +1521,10 @@ msgid "Yakut"
 msgstr "Jakutų"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Pietų Amerikos indėnų (kitos)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Šiaurės Amerikos indėnų kalbos"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1888,8 +1907,8 @@ msgid "Wakashan languages"
 msgstr "Vakašan kalbos"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Velaitų"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

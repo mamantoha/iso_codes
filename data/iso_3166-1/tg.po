@@ -2,17 +2,16 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Victor Ibragimov <victor.ibragimov@gmail.com>, 2018, 2019
+# SPDX-FileCopyrightText: 2018, 2019 Victor Ibragimov <victor.ibragimov@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2019-08-08 14:42+0500\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-05-11 13:31+0500\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Tajik <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/tg/>\n"
@@ -20,7 +19,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -724,7 +723,7 @@ msgstr "Ҷумҳурии Исломии Эрон"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Эрон"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -827,10 +826,8 @@ msgid "Korea, Republic of"
 msgstr "Ҷумҳурии Корея"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Африкаи Ҷанубӣ"
+msgstr "Кореяи Ҷанубӣ"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -846,7 +843,7 @@ msgstr "Ҷумҳурии Халқӣ-Демократии Лаъо"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Лаос"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1249,10 +1246,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Ҷумҳурии Халқӣ-Демократии Корея"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Македонияи Шимолӣ"
+msgstr "Кореяи Шимолӣ"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1276,7 +1271,7 @@ msgstr "Ҷумҳурии Фаластин"
 
 #. Official name for PSE
 msgid "the State of Palestine"
-msgstr "Давлати Эритрея"
+msgstr "Давлати Фаластин"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1476,7 +1471,7 @@ msgstr "Ҷумҳурии Сурияи Араб"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Сурия"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1556,11 +1551,9 @@ msgstr "Ҷумҳурии Тунис"
 
 #. Name for TUR
 msgid "Türkiye"
-msgstr ""
+msgstr "Туркия"
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Turkey"
 msgid "Republic of Türkiye"
 msgstr "Ҷумҳурии Туркия"
 
@@ -1658,7 +1651,7 @@ msgstr "Ҷазираҳои Виргини Ингилистон"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Ҷазираҳои Виргини И.М.А"
+msgstr "Ҷазираҳои Виргини И.М.А."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

@@ -2,28 +2,28 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Edmund GRIMLEY EVANS <edmundo@rano.org>, 2004-2011, 2013.
-# phlostically <phlostically@mailinator.com>, 2021.
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004-2011, 2013 Edmund GRIMLEY EVANS <edmundo@rano.org>
+# SPDX-FileCopyrightText: 2021 phlostically <phlostically@mailinator.com>
+# phlostically <phlostically@mailinator.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2021-11-30 23:53+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-05-06 08:31+0000\n"
 "Last-Translator: phlostically <phlostically@mailinator.com>\n"
-"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/eo/>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-2/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #. Name for aar
 msgid "Afar"
@@ -246,8 +246,8 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantua (alia)"
+msgid "Bantu languages"
+msgstr "Bantuaj lingvoj"
 
 #. Name for bod
 msgid "Tibetan"
@@ -377,7 +377,7 @@ msgstr "Ĉamaj lingvoj"
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegra"
 
 #. Name for cop
 msgid "Coptic"
@@ -456,7 +456,9 @@ msgid "German"
 msgstr "Germana"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogriba"
 
 #. Name for din
@@ -1246,12 +1248,12 @@ msgid "Navajo; Navaho"
 msgstr "Navaha"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
-msgstr "Ndebela, suda"
+msgid "South Ndebele"
+msgstr "Suda Ndebela"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
-msgstr "Ndebela, norda"
+msgid "North Ndebele"
+msgstr "Norda Ndebela"
 
 #. Name for ndo
 msgid "Ndonga"
@@ -1266,7 +1268,9 @@ msgid "Nepali"
 msgstr "Nepala"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nevara"
 
 #. Name for nia
@@ -1286,12 +1290,12 @@ msgid "Dutch; Flemish"
 msgstr "Nederlanda; Flandra"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norvega (Nynorsk)"
+msgid "Norwegian Nynorsk"
+msgstr "Norvega (novnorvega)"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Norvega (Bokmål)"
+msgid "Norwegian Bokmål"
+msgstr "Norvega (libronorvega)"
 
 #. Name for nog
 msgid "Nogai"
@@ -1342,8 +1346,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "Okcitana (post 1500); Provenca"
+msgid "Occitan (post 1500)"
+msgstr "Okcitana (post 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1434,8 +1438,8 @@ msgid "Prakrit languages"
 msgstr "Prakritaj lingvoj"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "Provenca, malnova (ĝis 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "Provenca, malnova (ĝis 1500); okcitana, malnova (ĝis 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1502,8 +1506,8 @@ msgid "Yakut"
 msgstr "Jakuta"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Sudamerikaj indianaj lingvoj (aliaj)"
+msgid "South American Indian languages"
+msgstr "Sudamerikaj indianaj lingvoj"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1886,7 +1890,7 @@ msgid "Wakashan languages"
 msgstr "Vakaŝaj lingvoj"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

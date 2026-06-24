@@ -2,20 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Ahmad Sofyan <fade@2bl.ac>, 2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Andhika Padmawan <andhika.padmawan@gmail.com>, 2010.
-# Andika Triwidada <andika@gmail.com>, 2018, 2021, 2022.
+# SPDX-FileCopyrightText: 2001 Ahmad Sofyan <fade@2bl.ac>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2010 Andhika Padmawan <andhika.padmawan@gmail.com>
+# SPDX-FileCopyrightText: 2018, 2021, 2022, 2025 Andika Triwidada <andika@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:16+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/id/>\n"
@@ -24,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -247,8 +246,8 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantu (Lainnya)"
+msgid "Bantu languages"
+msgstr "Bahasa-bahasa Bantu"
 
 #. Name for bod
 msgid "Tibetan"
@@ -459,8 +458,8 @@ msgid "German"
 msgstr "Jerman"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "Dogrib"
+msgid "Tlicho; Dogrib"
+msgstr "Tlicho; Dogrib"
 
 #. Name for din
 msgid "Dinka"
@@ -1247,12 +1246,12 @@ msgid "Navajo; Navaho"
 msgstr "Navajo; Navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
-msgstr "Ndebele, Selatan; Ndebele Selatan"
+msgid "South Ndebele"
+msgstr "Ndebele Selatan"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
-msgstr "Ndebele, Utara; Ndebele Utara"
+msgid "North Ndebele"
+msgstr "Ndebele Utara"
 
 #. Name for ndo
 msgid "Ndonga"
@@ -1267,8 +1266,8 @@ msgid "Nepali"
 msgstr "Nepal"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "Nepal Bhasa; Newar; Newari"
 
 #. Name for nia
 msgid "Nias"
@@ -1287,12 +1286,12 @@ msgid "Dutch; Flemish"
 msgstr "Belanda; Flemish"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norwegian Nynorsk; Nynorsk, Norwegia"
+msgid "Norwegian Nynorsk"
+msgstr "Nynorsk Norwegia"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Bokmål, Norwegian; Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr "Bokmål Norwegia"
 
 #. Name for nog
 msgid "Nogai"
@@ -1343,8 +1342,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "Occitan (pasca 1500); Provençal"
+msgid "Occitan (post 1500)"
+msgstr "Occitan (pasca 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1435,8 +1434,8 @@ msgid "Prakrit languages"
 msgstr "Bahasa-bahasa Prakrit"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "Provençal, Kuno (sampai 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "Provençal, Kuno (sampai 1500); Occitan, Kuno (sampai 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1503,8 +1502,8 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Indian Amerika Selatan (Lainnya)"
+msgid "South American Indian languages"
+msgstr "Bahasa-bahasa Indian Amerika Selatan"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1887,8 +1886,8 @@ msgid "Wakashan languages"
 msgstr "Bahasa-bahasa Wakasha"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr "Wolaitta; Wolaytta"
 
 #. Name for war
 msgid "Waray"

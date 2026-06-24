@@ -2,17 +2,16 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Nguyễn Hùng Vũ <vuhung16@bigfoot.com>, 2001.
-# Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
+# SPDX-FileCopyrightText: 2001 Nguyễn Hùng Vũ <vuhung16@bigfoot.com>
+# SPDX-FileCopyrightText: 2005-2009 Clytie Siddall <clytie@riverland.net.au>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2013-03-09 13:55+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"
@@ -244,8 +243,10 @@ msgid "Siksika"
 msgstr "Tiếng Xich-xich-a"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Hệ ngôn ngữ Ban-đa"
 
 #. Name for bod
 msgid "Tibetan"
@@ -454,7 +455,9 @@ msgid "German"
 msgstr "Tiếng Đức"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Tiếng Đoc-rip"
 
 #. Name for din
@@ -1244,11 +1247,15 @@ msgid "Navajo; Navaho"
 msgstr "Tiếng Na-va-hô"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Tiếng Nam N-đe-be-lê"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Tiếng Bắc N-đe-be-lê"
 
 #. Name for ndo
@@ -1264,7 +1271,9 @@ msgid "Nepali"
 msgstr "Tiếng Nê-pan"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepal Bhasa; Newari"
 
 #. Name for nia
@@ -1284,12 +1293,16 @@ msgid "Dutch; Flemish"
 msgstr "Tiếng Hoà Lan; Tiếng Ph-le-mi"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Tiếng Na Uy (Ni-noa-x-kh)"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Tiếng Na Uy"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Na Uy (Bóc-man)"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Tiếng Na Uy"
 
 #. Name for nog
 msgid "Nogai"
@@ -1342,7 +1355,7 @@ msgstr "Tiếng N-xi-ma"
 #. Name for oci
 #, fuzzy
 #| msgid "Occitan (post 1500)"
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Tiếng Oc-xi-tan (từ năm 1500)"
 
 #. Name for oji
@@ -1436,7 +1449,7 @@ msgstr "Hệ ngôn ngữ Pợ-ra-cợ-rit"
 #. Name for pro
 #, fuzzy
 #| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr ""
 "Tiếng Pợ-ro-ven-san Cũ (đến năm 1500); Tiếng Ô-xi-tan Cũ (đến năm 1500)"
 
@@ -1508,9 +1521,9 @@ msgstr "Tiếng Ia-cut"
 
 #. Name for sai
 #, fuzzy
-#| msgid "South American Indian languages"
-msgid "South American Indian (Other)"
-msgstr "Hệ ngôn ngữ Thổ Dân Nam Mỹ"
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Hệ ngôn ngữ Thổ dân Bắc Mỹ"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1893,7 +1906,7 @@ msgid "Wakashan languages"
 msgstr "Hệ ngôn ngữ Oua-ca-sa"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

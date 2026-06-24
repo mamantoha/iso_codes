@@ -2,26 +2,25 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2008, 2013 Kumar Appaiah <kumar.appaiah@gmail.com>
+# SPDX-FileCopyrightText: 2021 Chris Leonard <cjlhomeaddress@gmail.com>
+# SPDX-FileCopyrightText: 2021 KushagraKarira <kushagrakarira@gmail.com>
+# SPDX-FileCopyrightText: 2024 Scrambled777 <weblate.scrambled777@simplelogin.com>
 # .
 # Notes:
 # Data taken from ICU-2.8; originally from:
 # - Shehnaz Nagpurwala and Anwar Nagpurwala [first version]
 # - IBM NLTC:  http://w3.torolab.ibm.com/gcoc/documents/india/hi-nlsgg.htm
 # - Arundhati Bhowmick [IBM Cupertino]
-# .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2013.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
-# KushagraKarira <kushagrakarira@gmail.com>, 2021.
-# Scrambled777 <weblate.scrambled777@simplelogin.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-04-22 21:07+0000\n"
 "Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/iso-codes/"

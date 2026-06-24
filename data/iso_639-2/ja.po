@@ -2,23 +2,22 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Yukihiro Nakai <nakai@gnome.gr.jp>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2001.
-# Takuro Ashie <ashie@homa.ne.jp>, 2001.
-# IIDA Yosiaki <iida@gnu.org>, 2004-2006.
-# TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>, 2021.
-# ht1722 <taichi_19990611@yahoo.co.jp>, 2022.
-# ht1722 <ht1722@users.noreply.hosted.weblate.org>, 2024.
+# SPDX-FileCopyrightText: 2000 Yukihiro Nakai <nakai@gnome.gr.jp>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>
+# SPDX-FileCopyrightText: 2001 Takuro Ashie <ashie@homa.ne.jp>
+# SPDX-FileCopyrightText: 2004-2006 IIDA Yosiaki <iida@gnu.org>
+# SPDX-FileCopyrightText: 2021 TANIGUCHI Yasuaki <yasuakit+weblate@gmail.com>
+# SPDX-FileCopyrightText: 2022 ht1722 <taichi_19990611@yahoo.co.jp>
+# SPDX-FileCopyrightText: 2024 ht1722 <ht1722@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-03-25 00:59+0000\n"
 "Last-Translator: ht1722 <ht1722@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/iso-codes/"
@@ -347,9 +346,15 @@ msgstr "ビスラマ語"
 msgid "Siksika"
 msgstr "シクシカ語"
 
+# 国国は「Munda (Other) ムンダ諸語」
+# ISO, Ethnologueは「Munda languages」
+# インド
+# ムンダー〜とも
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "バントゥー語（その他）"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "バンダ語族"
 
 # 国国
 #. Name for bod
@@ -638,7 +643,9 @@ msgstr "ドイツ語"
 
 # カナダ、イエローナイフ周辺
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "ドグリブ語"
 
 # 国国
@@ -1833,14 +1840,18 @@ msgid "Navajo; Navaho"
 msgstr "ナヴァホ語"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "マタベレ語, 南; 南ヌデベレ語"
 
 # 国国は「Ndebele (Zimbabwe) マタベレ語」
 # ニッポニカ「ジンバブエ」の項に「ヌデベレ語」
 # CLDR訳は「北ンデベレ語」
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "マタベレ語, 北; 北ヌデベレ語"
 
 # ナミビア
@@ -1862,7 +1873,7 @@ msgid "Nepali"
 msgstr "ネパール語"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 # インドネシア西部スマトラ島西岸北部沖合いニアス島
@@ -1889,16 +1900,19 @@ msgstr "ニウーエイ語"
 msgid "Dutch; Flemish"
 msgstr "オランダ語; フラマン語"
 
-# ニッポニカ「ノルウェー語」の項に「新ノルウェー語 nynorsk」
-# Landsmaal, NEW NORSEとも
-# ニューノシュク〜とも
+# 国国
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "ニーノシュク・ノルウェー語; ノルウェー語, ニーノシュク"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "ノルウェー語"
 
+# 国国
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "ノルウェー語"
 
 # ニッポニカ「ノガイ語」の項
 #. Name for nog
@@ -1972,7 +1986,7 @@ msgstr "ンゼマ語"
 
 #. Name for oci
 #, fuzzy
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "オック語 (1500以後); プロバンス語"
 
 # 国国
@@ -2108,7 +2122,7 @@ msgstr "プラークリット語族"
 # CLDR訳は「古期プロバンス語」
 #. Name for pro
 #, fuzzy
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "プロヴァンス語, 古期 (-1500)"
 
 # 国国
@@ -2230,8 +2244,8 @@ msgstr "ヤクート語"
 # 国国
 #. Name for sai
 #, fuzzy
-msgid "South American Indian (Other)"
-msgstr "南米インディアン諸語 (その他)"
+msgid "South American Indian languages"
+msgstr "北米インディアン諸語"
 
 # 国国
 # CLDR訳は「セイリッシュ語族」
@@ -2799,7 +2813,7 @@ msgid "Wakashan languages"
 msgstr "ワカシ語族"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 # フィリピン(の4.6%)

@@ -2,7 +2,14 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2004 Nikolai Prokoschenko <nikolai@prokoschenko.de>
+# SPDX-FileCopyrightText: 2006 Mikhail Zabaluev <mhz@altlinux.org>
+# SPDX-FileCopyrightText: 2004-2010, 2012-2013 Yuri Kozlov <yuray@komyakino.ru>
+# SPDX-FileCopyrightText: 2015 Dmitry Sivachenko <trtrmitya@gmail.com>
+# SPDX-FileCopyrightText: 2021 Azamat H. Hackimov <azamat.hackimov@gmail.com>
+# SPDX-FileCopyrightText: 2024 kala Asi <maks-s15@mail.ru>
 # .
 # Notes:
 # GOST 7.75-97
@@ -11,31 +18,24 @@
 # http://etheo.h10.ru/omot01.htm
 # http://www.rba.ru/rusmarc/2_red/supa/supa21.htm
 # http://www.rba.ru/rusmarc/2_red/supa/supa22.htm
-# .
-# Copyright ©
-# Nikolai Prokoschenko <nikolai@prokoschenko.de>, 2004.
-# Mikhail Zabaluev <mhz@altlinux.org>, 2006.
-# Yuri Kozlov <yuray@komyakino.ru>, 2004-2010, 2012-2013.
-# Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
-# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
-# kala Asi <maks-s15@mail.ru>, 2024.
+# Blueberry <igory.ygr200@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2024-11-13 06:02+0000\n"
-"Last-Translator: kala Asi <maks-s15@mail.ru>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/ru/>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-05-10 04:40+0000\n"
+"Last-Translator: Blueberry <igory.ygr200@gmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-2/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -260,8 +260,8 @@ msgid "Siksika"
 msgstr "сиксика"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "банту (другие)"
+msgid "Bantu languages"
+msgstr "языки банту"
 
 #. Name for bod
 msgid "Tibetan"
@@ -471,8 +471,8 @@ msgid "German"
 msgstr "немецкий"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "догриб"
+msgid "Tlicho; Dogrib"
+msgstr "тличо; догриб"
 
 #. Name for din
 msgid "Dinka"
@@ -1259,11 +1259,11 @@ msgid "Navajo; Navaho"
 msgstr "навахо"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "южный ндебеле"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "северный ндебеле"
 
 #. Name for ndo
@@ -1279,8 +1279,8 @@ msgid "Nepali"
 msgstr "непальский"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "непальский бхаса; неварский"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "непальский бхаса; невар; неварский"
 
 #. Name for nia
 msgid "Nias"
@@ -1299,12 +1299,12 @@ msgid "Dutch; Flemish"
 msgstr "голландский; фламандский"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "норвежский нюнорск"
+msgid "Norwegian Nynorsk"
+msgstr "норвежский (нюнорск)"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "букмол, норвежский; норвежский букмол"
+msgid "Norwegian Bokmål"
+msgstr "норвежский (букмол)"
 
 #. Name for nog
 msgid "Nogai"
@@ -1355,8 +1355,8 @@ msgid "Nzima"
 msgstr "нзима"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "окситанский (после 1500); провансальский"
+msgid "Occitan (post 1500)"
+msgstr "окситанский (после 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1447,8 +1447,8 @@ msgid "Prakrit languages"
 msgstr "языки пракрит"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "старопровансальский (до 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "старопровансальский (до 1500); староокситанский (до 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1515,8 +1515,8 @@ msgid "Yakut"
 msgstr "якутский"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "языки индейцев Южной Америки (другие)"
+msgid "South American Indian languages"
+msgstr "языки индейцев Южной Америки"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1899,8 +1899,8 @@ msgid "Wakashan languages"
 msgstr "вакашские языки"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "воламо"
+msgid "Wolaitta; Wolaytta"
+msgstr "волайтта; воламо"
 
 #. Name for war
 msgid "Waray"

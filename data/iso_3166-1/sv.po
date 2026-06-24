@@ -2,23 +2,23 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Mattias Newzella <newzella@linux.nu>, 2001.
-# Christian Rose <menthos@menthos.com>, 2004.
-# Daniel Nylander <po@danielnylander.se>, 2007, 2011.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2019, 2021, 2022, 2023.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Mattias Newzella <newzella@linux.nu>
+# SPDX-FileCopyrightText: 2004 Christian Rose <menthos@menthos.com>
+# SPDX-FileCopyrightText: 2007, 2011 Daniel Nylander <po@danielnylander.se>
+# SPDX-FileCopyrightText: 2019, 2021, 2022, 2023 Anders Jonsson <anders.jonsson@norsjovallen.se>
+# SPDX-FileCopyrightText: 2022 Chris Leonard <cjlhomeaddress@gmail.com>
+# Erik Palm <erik.p.palm@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-02-24 20:39+0000\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-12-18 21:00+0000\n"
+"Last-Translator: Erik Palm <erik.p.palm@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sv/>\n"
 "Language: sv\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -1667,7 +1667,7 @@ msgstr "Brittiska Jungfruöarna"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Jungfruöarna, amerikanska"
+msgstr "Jungfruöarna, Amerikanska"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

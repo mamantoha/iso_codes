@@ -1,24 +1,23 @@
-# Translation of ISO 3166-1 to Bokmål, Norwegian; Norwegian Bokmål
+# Translation of ISO 3166-1 to Norwegian Bokmål
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Axel Bojer <axelb@skolelinux.no>, 2004.
-# Håvard Korsvoll <korsvoll@skulelinux.no>, 2004.
-# Knut Yrvin <knuty@skolelinux.no>, 2004.
-# Bjørn Steensrud <bjornst@powertech.no>, 2006.
-# Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2007-2015.
-# Allan Nordhøy <epost@anotheragency.no>, 2019, 2021.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
-# Petter Reinholdtsen <pere-weblate@hungry.com>, 2023.
+# SPDX-FileCopyrightText: 2004 Axel Bojer <axelb@skolelinux.no>
+# SPDX-FileCopyrightText: 2004 Håvard Korsvoll <korsvoll@skulelinux.no>
+# SPDX-FileCopyrightText: 2004 Knut Yrvin <knuty@skolelinux.no>
+# SPDX-FileCopyrightText: 2006 Bjørn Steensrud <bjornst@powertech.no>
+# SPDX-FileCopyrightText: 2007-2015 Hans Fredrik Nordhaug <hans@nordhaug.priv.no>
+# SPDX-FileCopyrightText: 2019, 2021 Allan Nordhøy <epost@anotheragency.no>
+# SPDX-FileCopyrightText: 2021 Chris Leonard <cjlhomeaddress@gmail.com>
+# SPDX-FileCopyrightText: 2023 Petter Reinholdtsen <pere-weblate@hungry.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-09-08 08:15+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/iso-"

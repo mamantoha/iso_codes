@@ -2,22 +2,21 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Georgi Georgiev <assenov_g@operamail.com>, 2001, 2004.
-# Ognyan Kulev <ogi@fmi.uni-sofia.bg>, 2004.
-# Georgi Georgiev <g.georgiev.shumen@gmail.com>, 2022.
-# Дамян Иванов <dmn@debian.org>, 2022.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2022.
-# Damyan Ivanov <dmn@debian.org>, 2006-2023.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001, 2004 Georgi Georgiev <assenov_g@operamail.com>
+# SPDX-FileCopyrightText: 2004 Ognyan Kulev <ogi@fmi.uni-sofia.bg>
+# SPDX-FileCopyrightText: 2022 Georgi Georgiev <g.georgiev.shumen@gmail.com>
+# SPDX-FileCopyrightText: 2022 Дамян Иванов <dmn@debian.org>
+# SPDX-FileCopyrightText: 2022 Chris Leonard <cjlhomeaddress@gmail.com>
+# SPDX-FileCopyrightText: 2006-2023 Damyan Ivanov <dmn@debian.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-06 19:14+0300\n"
 "Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
 "Language-Team: Bulgarian <dict@ludost.net>\n"

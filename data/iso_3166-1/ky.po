@@ -2,16 +2,15 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Ilyas Bakirov <i.bakirov@gmail.com>, 2018.
+# SPDX-FileCopyrightText: 2018 Ilyas Bakirov <i.bakirov@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: Kyrgyz (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2018-02-19 17:27+0000\n"
 "Last-Translator: Ilyas Bakirov <i.bakirov@gmail.com>\n"
 "Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-codes/"

@@ -2,16 +2,15 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Marquinos <maacub@gmail.com>, 2008.
+# SPDX-FileCopyrightText: 2008 Marquinos <maacub@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2010-12-22 17:41+0100\n"
 "Last-Translator: ivarela <maacub@gmail.com>\n"
 "Language-Team: Asturian <ubuntu-l10n-ast@lists.ubuntu.com>\n"
@@ -243,8 +242,10 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Llingües Banda"
 
 #. Name for bod
 msgid "Tibetan"
@@ -455,7 +456,9 @@ msgid "German"
 msgstr "Alemán"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Dogrib"
 
 #. Name for din
@@ -1246,11 +1249,15 @@ msgid "Navajo; Navaho"
 msgstr "Navajo; Navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebele del Sur"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebele del Norte"
 
 #. Name for ndo
@@ -1266,7 +1273,9 @@ msgid "Nepali"
 msgstr "Nepalí"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepal Bhasa; Newari"
 
 #. Name for nia
@@ -1286,12 +1295,16 @@ msgid "Dutch; Flemish"
 msgstr "Holandés"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Noruegu Nynorsk; Nynorsk, Noruegu"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Noruegu"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Bokmål, Norwegian; Norwegian Bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Noruegu"
 
 #. Name for nog
 msgid "Nogai"
@@ -1344,7 +1357,7 @@ msgstr "Nzima"
 #. Name for oci
 #, fuzzy
 #| msgid "Occitan (post 1500)"
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Occitan (post 1500)"
 
 #. Name for oji
@@ -1438,7 +1451,7 @@ msgstr "Llingües Prakrit"
 #. Name for pro
 #, fuzzy
 #| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Provençal, Vieyu (a 1500); Occitan, Vieyu (a 1500)"
 
 #. Name for pus
@@ -1509,9 +1522,9 @@ msgstr "Yakut"
 
 #. Name for sai
 #, fuzzy
-#| msgid "South American Indian languages"
-msgid "South American Indian (Other)"
-msgstr "Llingües Indíxenes d'América del Sur"
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Llingües Indíxenes d'América del Norte"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1894,7 +1907,7 @@ msgid "Wakashan languages"
 msgstr "Llingües Wakashanes"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

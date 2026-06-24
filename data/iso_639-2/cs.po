@@ -2,20 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Petr Cech <cech@debian.org>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Stanislav Brabec <utx@penguin.cz>, 2001.
-# Miroslav Kure <kurem@debian.cz>, 2004-2017.
-# Miroslav Kure <kurem@upcase.inf.upol.cz>, 2022.
+# SPDX-FileCopyrightText: 2000 Petr Cech <cech@debian.org>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Stanislav Brabec <utx@penguin.cz>
+# SPDX-FileCopyrightText: 2004-2017 Miroslav Kure <kurem@debian.cz>
+# SPDX-FileCopyrightText: 2022 Miroslav Kure <kurem@upcase.inf.upol.cz>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-12-10 18:48+0000\n"
 "Last-Translator: Miroslav Kure <kurem@upcase.inf.upol.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/iso-codes/"
@@ -250,8 +249,10 @@ msgid "Siksika"
 msgstr "siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "bantuské jazyky (ostatní)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "bandské jazyky"
 
 #. Name for bod
 msgid "Tibetan"
@@ -460,7 +461,9 @@ msgid "German"
 msgstr "němčina"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "dogrib"
 
 #. Name for din
@@ -1248,11 +1251,15 @@ msgid "Navajo; Navaho"
 msgstr "navajština"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "ndebelština jižní; Jižní Afrika"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "ndebelština severní; Zimbabwe"
 
 #. Name for ndo
@@ -1268,7 +1275,9 @@ msgid "Nepali"
 msgstr "nepálština"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "bhasa, névárština"
 
 #. Name for nia
@@ -1288,12 +1297,16 @@ msgid "Dutch; Flemish"
 msgstr "nizozemština; vlámština"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "norština Nynorsk"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "norština"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "norština Bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "norština"
 
 #. Name for nog
 msgid "Nogai"
@@ -1344,7 +1357,9 @@ msgid "Nzima"
 msgstr "nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "okcitánština (po 1500); provensálština"
 
 #. Name for oji
@@ -1436,7 +1451,9 @@ msgid "Prakrit languages"
 msgstr "prákrtské jazyky"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "provensálština, stará (do 1500)"
 
 #. Name for pus
@@ -1504,8 +1521,10 @@ msgid "Yakut"
 msgstr "jakutština"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "jihoamerické indiánské jazyky (ostatní)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "severoamerické indiánské jazyky"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1888,8 +1907,8 @@ msgid "Wakashan languages"
 msgstr "wakashské jazyky"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "walamština"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

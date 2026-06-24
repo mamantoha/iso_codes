@@ -2,24 +2,24 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Margus Väli <mvali@hot.ee>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Tõivo Leedjärv <leedjarv@interest.ee>, 2000-2001.
-# Kristjan Räts <kristjanrats@gmail.com>, 2018.
-# Mihkel Tõnnov <mihhkel@gmail.com>, 2019.
-# Janar Leas <janar.leas@gmail.com>, 2020.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2022.
+# SPDX-FileCopyrightText: 2000 Margus Väli <mvali@hot.ee>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Tõivo Leedjärv <leedjarv@interest.ee>
+# SPDX-FileCopyrightText: 2018 Kristjan Räts <kristjanrats@gmail.com>
+# SPDX-FileCopyrightText: 2019 Mihkel Tõnnov <mihhkel@gmail.com>
+# SPDX-FileCopyrightText: 2020 Janar Leas <janar.leas@gmail.com>
+# SPDX-FileCopyrightText: 2022 Priit Jõerüüt <hwlate@joeruut.com>
+# SPDX-FileCopyrightText: 2025 Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:16+0000\n"
-"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-30 14:02+0000\n"
+"Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/et/>\n"
 "Language: et\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -251,7 +251,7 @@ msgid "Siksika"
 msgstr "mustjalaindiaani (siksika)"
 
 #. Name for bnt
-msgid "Bantu (Other)"
+msgid "Bantu languages"
 msgstr "bantu keeled"
 
 #. Name for bod
@@ -462,7 +462,7 @@ msgid "German"
 msgstr "saksa"
 
 #. Name for dgr
-msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "dogribi"
 
 #. Name for din
@@ -1258,11 +1258,11 @@ msgid "Navajo; Navaho"
 msgstr "navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "lõunandebele"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "(põhja)ndebele"
 
 #. Name for ndo
@@ -1278,7 +1278,7 @@ msgid "Nepali"
 msgstr "nepali"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "nevari"
 
 #. Name for nia
@@ -1298,12 +1298,12 @@ msgid "Dutch; Flemish"
 msgstr "hollandi"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "uusnorra (nynorsk)"
+msgid "Norwegian Nynorsk"
+msgstr "uusnorra"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "norra (bokmål)"
+msgid "Norwegian Bokmål"
+msgstr "norra bokmål"
 
 #. Name for nog
 msgid "Nogai"
@@ -1354,7 +1354,7 @@ msgid "Nzima"
 msgstr "nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "oksitaani (alates 1500)"
 
 #. Name for oji
@@ -1446,8 +1446,8 @@ msgid "Prakrit languages"
 msgstr "praakriti keeled"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "vanaprovansi (aastani 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "vanaprovansi (aastani 1500); vanaoksitaani (kuni 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1514,7 +1514,7 @@ msgid "Yakut"
 msgstr "jakuudi"
 
 #. Name for sai
-msgid "South American Indian (Other)"
+msgid "South American Indian languages"
 msgstr "Lõuna-Ameerika indiaanikeeled"
 
 #. Name for sal
@@ -1901,7 +1901,7 @@ msgid "Wakashan languages"
 msgstr "vakaši keelkond"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr "volaita"
 
 #. Name for war

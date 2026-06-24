@@ -2,22 +2,21 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Meni Livne <livne@kde.org>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Meital Bourvine <meitalbourvine@gmail.com>, 2007.
-# Lior Kaplan <kaplan@debian.org>, 2005-2008, 2010-2012, 2015.
-# jeremy rutman <jeremy.rutman@gmail.com>, 2019.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021, 2022, 2023.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 2000 Meni Livne <livne@kde.org>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2007 Meital Bourvine <meitalbourvine@gmail.com>
+# SPDX-FileCopyrightText: 2005-2008, 2010-2012, 2015 Lior Kaplan <kaplan@debian.org>
+# SPDX-FileCopyrightText: 2019 jeremy rutman <jeremy.rutman@gmail.com>
+# SPDX-FileCopyrightText: 2020, 2021, 2022, 2023 Yaron Shahrabani <sh.yaron@gmail.com>
+# SPDX-FileCopyrightText: 2021 Chris Leonard <cjlhomeaddress@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-02-24 21:01+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"

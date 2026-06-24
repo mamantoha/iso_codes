@@ -2,21 +2,20 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Mai Hao Hui <mhh@126.com>, 2001.
-# LI Daobing <lidaobing@gmail.com>, 2007-2010, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2022.
-# tao wang <tonywang5@163.com>, 2020.
-# Tyson Tan <tysontanx@gmail.com>, 2024.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Mai Hao Hui <mhh@126.com>
+# SPDX-FileCopyrightText: 2007-2010, 2019 LI Daobing <lidaobing@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2020, 2021, 2022 Boyuan Yang <073plan@gmail.com>
+# SPDX-FileCopyrightText: 2020 tao wang <tonywang5@163.com>
+# SPDX-FileCopyrightText: 2024 Tyson Tan <tysontanx@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-01-15 02:23+0000\n"
 "Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
@@ -249,8 +248,10 @@ msgid "Siksika"
 msgstr "西克西卡语"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "班图语支"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "班达语"
 
 #. Name for bod
 msgid "Tibetan"
@@ -459,7 +460,9 @@ msgid "German"
 msgstr "德语"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "多格里布语"
 
 #. Name for din
@@ -1247,11 +1250,15 @@ msgid "Navajo; Navaho"
 msgstr "纳瓦霍语"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "南恩德贝勒语"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "北恩德贝勒语"
 
 #. Name for ndo
@@ -1267,7 +1274,9 @@ msgid "Nepali"
 msgstr "尼泊尔语"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "尼瓦尔语"
 
 #. Name for nia
@@ -1287,12 +1296,16 @@ msgid "Dutch; Flemish"
 msgstr "荷兰语"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "新挪威语"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "书面挪威语"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "挪威布克莫尔语"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "书面挪威语"
 
 #. Name for nog
 msgid "Nogai"
@@ -1343,7 +1356,9 @@ msgid "Nzima"
 msgstr "恩济马语"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "奥克语"
 
 #. Name for oji
@@ -1435,7 +1450,9 @@ msgid "Prakrit languages"
 msgstr "普拉克里特诸语言"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "古普罗旺斯语 (- 1500)"
 
 #. Name for pus
@@ -1503,8 +1520,10 @@ msgid "Yakut"
 msgstr "雅库特语"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "南美洲印第安诸语言"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "北美洲土著诸语言"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1887,8 +1906,8 @@ msgid "Wakashan languages"
 msgstr "瓦卡什诸语言"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "瓦拉莫语"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

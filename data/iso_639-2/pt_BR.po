@@ -2,22 +2,22 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Juan Carlos Castro y Castro <jcastro@vialink.com.br>, 2000, 2005.
-# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2007-2009.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2017, 2020.
-# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2022.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000, 2005 Juan Carlos Castro y Castro <jcastro@vialink.com.br>
+# SPDX-FileCopyrightText: 2007-2009 Leonardo Ferreira Fontenelle <leonardof@gnome.org>
+# SPDX-FileCopyrightText: 2017, 2020 Rafael Fontenelle <rafaelff@gnome.org>
+# SPDX-FileCopyrightText: 2022 Luiz Fernando Ranghetti <elchevive@opensuse.org>
+# Rafael Fontenelle <rafaelff@gnome.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-12-08 15:47+0000\n"
-"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-03-20 18:09+0000\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-639-2/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -248,8 +248,8 @@ msgid "Siksika"
 msgstr "Siksika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Bantu (Outros)"
+msgid "Bantu languages"
+msgstr "Idiomas bantos"
 
 #. Name for bod
 msgid "Tibetan"
@@ -366,7 +366,7 @@ msgid ""
 "Slavonic"
 msgstr ""
 "Eslavo Eclesiástico; Eslavo Antigo; Eslavo Eclesiástico; Búlgaro Antigo; "
-"Eslavônico Antigo Eclesiástico"
+"Eslavo Eclesiástico Antigo"
 
 #. Name for chv
 msgid "Chuvash"
@@ -462,8 +462,8 @@ msgid "German"
 msgstr "Alemão"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "Dogrib"
+msgid "Tlicho; Dogrib"
+msgstr "Tlicho; Dogrib"
 
 #. Name for din
 msgid "Dinka"
@@ -595,7 +595,7 @@ msgstr "Francês, médio (aprox. 1400-1600)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Francês, antigo (842-apr. 1400)"
+msgstr "Francês, Antigo (842-apr. 1400)"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -663,7 +663,7 @@ msgstr "Alemão, alta medieval (apr. 1050-1500)"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Alemão, medieval antigo (apr. 750-1050)"
+msgstr "Alemão, Medieval Antigo (apr. 750-1050)"
 
 #. Name for gon
 msgid "Gondi"
@@ -1258,12 +1258,12 @@ msgstr "Navarro"
 
 # Não consta no Houaiss
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ndebele do Sul"
 
 # Não consta no Houaiss
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ndebele do Norte"
 
 #. Name for ndo
@@ -1279,7 +1279,7 @@ msgid "Nepali"
 msgstr "Nepali"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Nepal Bhasa; Neuari"
 
 #. Name for nia
@@ -1299,12 +1299,12 @@ msgid "Dutch; Flemish"
 msgstr "Holandês; Flamengo"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
+msgid "Norwegian Nynorsk"
 msgstr "Norueguês Nynorsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Norwegian Bokmål"
+msgid "Norwegian Bokmål"
+msgstr "Norueguês Bokmål"
 
 #. Name for nog
 msgid "Nogai"
@@ -1312,7 +1312,7 @@ msgstr "Nogai"
 
 #. Name for non
 msgid "Norse, Old"
-msgstr "Nórdico, Arcaico"
+msgstr "Nórdico, Antigo"
 
 #. Name for nor
 msgid "Norwegian"
@@ -1355,8 +1355,8 @@ msgid "Nzima"
 msgstr "Nzema"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "Occitâno (pós-1500); Provençal"
+msgid "Occitan (post 1500)"
+msgstr "Occitano (pós-1500)"
 
 # Não consta no dicionário
 #. Name for oji
@@ -1417,7 +1417,7 @@ msgstr "Palauano"
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Persa, antigo (apr. 600-400 AC)"
+msgstr "Persa, Antigo (apr. 600-400 AC)"
 
 #. Name for phi
 msgid "Philippine languages"
@@ -1448,8 +1448,8 @@ msgid "Prakrit languages"
 msgstr "Idiomas prácritos"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "Provençal, Arcaico (até 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "Provençal, Arcaico (até 1500); Occitano, Arcaico (até 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1516,8 +1516,8 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Nativo Sul-Americano (Outros)"
+msgid "South American Indian languages"
+msgstr "Idiomas indígenas sul-americanos"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1905,8 +1905,8 @@ msgid "Wakashan languages"
 msgstr "Idiomas Wakashan"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Walamo"
+msgid "Wolaitta; Wolaytta"
+msgstr "Wolaitta; Wolaita; Wolaytta"
 
 #. Name for war
 msgid "Waray"

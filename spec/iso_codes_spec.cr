@@ -164,7 +164,7 @@ describe ISOCodes do
       ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.includes?("pt_BR").should be_truthy
     end
 
-    it { ISOCodes::DataProvider::COUNTRY_TRANSLATION_CODES.size.should eq(161) }
-    it { ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.size.should eq(100) }
+    it { ISOCodes::DataProvider::COUNTRY_TRANSLATION_CODES.size.should eq(162) }
+    it { ISOCodes::DataProvider::LANGUAGE_TRANSLATION_CODES.size.should eq(102) }
   end
 end

@@ -2,19 +2,18 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# auk piseth <piseth_dv@khmeros.info>, 2006.
-# eng vannak <evannak@khmeros.info>, 2006.
-# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2010.
-# កុសិនារា <kursinarapok@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2006 auk piseth <piseth_dv@khmeros.info>
+# SPDX-FileCopyrightText: 2006 eng vannak <evannak@khmeros.info>
+# SPDX-FileCopyrightText: 2006, 2010 Khoem Sokhem <khoemsokhem@khmeros.info>
+# SPDX-FileCopyrightText: 2023 កុសិនារា <kursinarapok@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-12-23 10:29+0000\n"
 "Last-Translator: កុសិនារា <kursinarapok@gmail.com>\n"
 "Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/iso-"

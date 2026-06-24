@@ -1,17 +1,16 @@
-# Translation of ISO 639-2 to LANGUAGE
+# Translation of ISO 639-2 to Bashkir
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
-#
-# This file is distributed under the same license as the iso-codes package.
-#
-# Copyright ©
-# Zulfar <mzulfar20@gmail.com>, 2025.
+# .
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2025 Zulfar <mzulfar20@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-06-19 18:27+0000\n"
 "Last-Translator: Zulfar <mzulfar20@gmail.com>\n"
 "Language-Team: Bashkir <https://hosted.weblate.org/projects/iso-codes/"
@@ -244,8 +243,10 @@ msgid "Siksika"
 msgstr "Сиксика"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "Банту (башҡа)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Банда телдәре"
 
 #. Name for bod
 msgid "Tibetan"
@@ -356,7 +357,9 @@ msgid "Cherokee"
 msgstr "Чероки"
 
 #. Name for chu
-msgid "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic"
+msgid ""
+"Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
+"Slavonic"
 msgstr ""
 "Сиркәү-славян; иҫке славян; сиркәү славяны; иҫке болгар; иҫке сиркәү-славян"
 
@@ -453,7 +456,9 @@ msgid "German"
 msgstr "Немец"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Догриб"
 
 #. Name for din
@@ -1241,11 +1246,15 @@ msgid "Navajo; Navaho"
 msgstr "Навахо"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Көньяҡ ндебеле"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Төньяҡ ндебеле"
 
 #. Name for ndo
@@ -1261,7 +1270,9 @@ msgid "Nepali"
 msgstr "Непал"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "Непал-бхаса; невари"
 
 #. Name for nia
@@ -1281,12 +1292,16 @@ msgid "Dutch; Flemish"
 msgstr "Голланд; фламанд"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Норвег нюнорск; нюнорск"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Норвег"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "Норвег букмол; букмол"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Норвег"
 
 #. Name for nog
 msgid "Nogai"
@@ -1337,7 +1352,9 @@ msgid "Nzima"
 msgstr "Нзима"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Окситан (1500 йылдан һуң); провансаль"
 
 #. Name for oji
@@ -1429,7 +1446,9 @@ msgid "Prakrit languages"
 msgstr "Пракрит телдәре"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Боронғо провансаль (1500 йылға тиклем)"
 
 #. Name for pus
@@ -1497,8 +1516,10 @@ msgid "Yakut"
 msgstr "Саха"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "Көньяҡ Америка индеецтары (башҡа)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Төньяҡ Америка индеецтары телдәре"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1881,8 +1902,8 @@ msgid "Wakashan languages"
 msgstr "Вакаш телдәре"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "Валамо"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

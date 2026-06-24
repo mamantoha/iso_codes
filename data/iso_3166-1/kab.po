@@ -2,18 +2,18 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Muḥend Belqasem <belkacem77@gmail.com>, 2020.
+# SPDX-FileCopyrightText: 2020 Muḥend Belqasem <belkacem77@gmail.com>
+# SPDX-FileCopyrightText: 2025 ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2020-04-19 16:11+0000\n"
-"Last-Translator: Muḥend Belqasem <belkacem77@gmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-08-24 21:02+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/kab/>\n"
 "Language: kab\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.2-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -588,10 +588,8 @@ msgid "Gambia"
 msgstr ""
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Congo"
 msgid "Republic of the Gambia"
-msgstr "Kungu"
+msgstr "Tagduda n Gambya"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -830,10 +828,8 @@ msgid "Korea, Republic of"
 msgstr ""
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Tafriqt n Wenẓul"
+msgstr "Kurya n Wenẓul"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1000,10 +996,8 @@ msgid "North Macedonia"
 msgstr ""
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of the Congo"
 msgid "Republic of North Macedonia"
-msgstr "Kungu"
+msgstr "Tagduda n Masidunya n Ugafa"
 
 #. Name for MLI
 msgid "Mali"
@@ -1562,10 +1556,8 @@ msgid "Türkiye"
 msgstr ""
 
 #. Official name for TUR
-#, fuzzy
-#| msgid "Republic of Albania"
 msgid "Republic of Türkiye"
-msgstr "Tagduda n Albanya"
+msgstr "Tagduda n Ṭṭurk"
 
 #. Name for TUV
 msgid "Tuvalu"

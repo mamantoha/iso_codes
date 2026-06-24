@@ -2,16 +2,15 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Viateur MUGENZI <muvia@hotmail.com>, 2004.
+# SPDX-FileCopyrightText: 2004 Viateur MUGENZI <muvia@hotmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2005-03-09 12:02+0700\n"
 "Last-Translator: Steve Murphy <murf@e-tools.com>\n"
 "Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
@@ -252,8 +251,9 @@ msgid "Siksika"
 msgstr "Igisikisika"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+msgid "Bantu languages"
+msgstr "Indimi munda"
 
 #. Name for bod
 msgid "Tibetan"
@@ -475,7 +475,9 @@ msgid "German"
 msgstr "Ikidage"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "Ikinyadogiribu"
 
 #. Name for din
@@ -1301,12 +1303,12 @@ msgstr "Ikinavaho"
 
 #. Name for nbl
 #, fuzzy
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Ikindebele, Amajyepfo"
 
 #. Name for nde
 #, fuzzy
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Ikindebele, amajyaruguru"
 
 #. Name for ndo
@@ -1322,7 +1324,7 @@ msgid "Nepali"
 msgstr "Ikinyanepale"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 #. Name for nia
@@ -1344,12 +1346,15 @@ msgstr ""
 
 #. Name for nno
 #, fuzzy
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Ikinyanoruveji nayinorusiki"
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Ikinyanoruveji"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Ikinyanoruveji"
 
 #. Name for nog
 msgid "Nogai"
@@ -1403,7 +1408,7 @@ msgstr "Ikinzima"
 
 #. Name for oci
 #, fuzzy
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Icyogisitani (nyuma 1500)"
 
 #. Name for oji
@@ -1501,7 +1506,7 @@ msgstr "Indimi za purakiriti"
 
 #. Name for pro
 #, fuzzy
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Igiporovensali, Gishaje (ku 1500)"
 
 #. Name for pus
@@ -1575,8 +1580,8 @@ msgstr "Ikiyakuti"
 
 #. Name for sai
 #, fuzzy
-msgid "South American Indian (Other)"
-msgstr "Igihinde cy'Amerika y'Amajyepfo (Ibindi)"
+msgid "South American Indian languages"
+msgstr "Igihinde cy'Amerika y'Amajyaruguru"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1972,7 +1977,7 @@ msgid "Wakashan languages"
 msgstr "Indimi za wakashi"
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

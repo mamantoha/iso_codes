@@ -2,18 +2,17 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
-# Scrambled777 <weblate.scrambled777@simplelogin.com>, 2024.
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2021 Chris Leonard <cjlhomeaddress@gmail.com>
+# SPDX-FileCopyrightText: 2024 Scrambled777 <weblate.scrambled777@simplelogin.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-04-22 21:07+0000\n"
 "Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/iso-codes/"
@@ -246,8 +245,10 @@ msgid "Siksika"
 msgstr "सिक्सिका"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "बंटू (अन्य)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "बांदा भाषाएं"
 
 #. Name for bod
 msgid "Tibetan"
@@ -457,7 +458,9 @@ msgid "German"
 msgstr "ज़र्मन"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "डोग्रिब"
 
 #. Name for din
@@ -1245,11 +1248,15 @@ msgid "Navajo; Navaho"
 msgstr "नवाजो; नवाहो"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "नडेबेले, दक्षिण; दक्षिण नडेबेले"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "नडेबेले, उत्तर; उत्तर नडेबेले"
 
 #. Name for ndo
@@ -1265,7 +1272,9 @@ msgid "Nepali"
 msgstr "नेपाली"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "नेपाल भाषा; नेवाड़ी"
 
 #. Name for nia
@@ -1285,12 +1294,16 @@ msgid "Dutch; Flemish"
 msgstr "डच; फ्लेमिश"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "नॉर्वेजियन नाइनोर्स्क; नाइनोर्स्क, नॉर्वेजियन"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "नार्वेजीयन्"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "बोकमाल, नॉर्वेजियन; नॉर्वेजियन बोकमाल"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "नार्वेजीयन्"
 
 #. Name for nog
 msgid "Nogai"
@@ -1341,7 +1354,9 @@ msgid "Nzima"
 msgstr "नज़िमा"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "ओसीटान (1500 के बाद); प्रोवेन्सल"
 
 #. Name for oji
@@ -1433,7 +1448,9 @@ msgid "Prakrit languages"
 msgstr "प्राकृत भाषाएं"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "प्रोवेन्सल, पुराना (1500 तक)"
 
 #. Name for pus
@@ -1501,8 +1518,10 @@ msgid "Yakut"
 msgstr "याकुट"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "दक्षिण अमेरिकी भारतीय (अन्य)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "उत्तर अमेरिकी भारतीय भाषाएं"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1885,8 +1904,8 @@ msgid "Wakashan languages"
 msgstr "वाकशान भाषाएं"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "वालमो"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

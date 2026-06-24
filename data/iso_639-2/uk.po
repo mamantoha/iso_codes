@@ -2,17 +2,16 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2012-2013, 2015, 2020, 2022.
+# SPDX-FileCopyrightText: 2010, 2012-2013, 2015, 2020, 2022, 2025 Yuri Chornoivan <yurchor@ukr.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2022-06-02 18:16+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/uk/>\n"
@@ -20,9 +19,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -246,8 +245,8 @@ msgid "Siksika"
 msgstr "сісіка"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "банту (інша)"
+msgid "Bantu languages"
+msgstr "Мови банту"
 
 #. Name for bod
 msgid "Tibetan"
@@ -458,8 +457,8 @@ msgid "German"
 msgstr "німецька"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "догріб"
+msgid "Tlicho; Dogrib"
+msgstr "тлічо; догріб"
 
 #. Name for din
 msgid "Dinka"
@@ -1246,11 +1245,11 @@ msgid "Navajo; Navaho"
 msgstr "навахо"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "південна ндебеле"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "північна ндебеле"
 
 #. Name for ndo
@@ -1266,7 +1265,7 @@ msgid "Nepali"
 msgstr "непальська"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "непальська бхаса; неварська"
 
 #. Name for nia
@@ -1286,12 +1285,12 @@ msgid "Dutch; Flemish"
 msgstr "голландська; фламандська"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "норвезька нюноршк"
+msgid "Norwegian Nynorsk"
+msgstr "норвезька (нюноршк)"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "норвезька букмол"
+msgid "Norwegian Bokmål"
+msgstr "норвезька (букмол)"
 
 #. Name for nog
 msgid "Nogai"
@@ -1342,8 +1341,8 @@ msgid "Nzima"
 msgstr "нзіма"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "окситанська (після 1500); провансальська"
+msgid "Occitan (post 1500)"
+msgstr "окситанська (після 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1434,8 +1433,8 @@ msgid "Prakrit languages"
 msgstr "Пракритські мови"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "давньопровансальська (до 1500 року)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "давньопровансальська (до 1500 року); давньоокситанська (до 1500 року)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1502,8 +1501,8 @@ msgid "Yakut"
 msgstr "якутська"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "мова індіанців Південної Америки (інша)"
+msgid "South American Indian languages"
+msgstr "Південноамериканські індіанські мови"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1886,8 +1885,8 @@ msgid "Wakashan languages"
 msgstr "Вакашські мови"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "валамо"
+msgid "Wolaitta; Wolaytta"
+msgstr "волаїтта; волайтта"
 
 #. Name for war
 msgid "Waray"

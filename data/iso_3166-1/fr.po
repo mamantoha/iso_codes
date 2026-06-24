@@ -2,25 +2,24 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2008.
-# Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015-2016.
-# Alban Vidal <alban.vidal@zordhak.fr>, 2017.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019, 2021.
-# Swann Martinet <swann.ranskassa@laposte.net>, 2019.
-# Julien Humbert <julroy67@gmail.com>, 2020.
-# Bernard Massot <bmassot@free.fr>, 2023.
-# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Grégoire Colbert <gregus@linux-mandrake.com>
+# SPDX-FileCopyrightText: 2008 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2004, 2006-2007, 2009-2013, 2015-2016 Christian Perrier <bubulle@debian.org>
+# SPDX-FileCopyrightText: 2017 Alban Vidal <alban.vidal@zordhak.fr>
+# SPDX-FileCopyrightText: 2019, 2021 ButterflyOfFire <ButterflyOfFire@protonmail.com>
+# SPDX-FileCopyrightText: 2019 Swann Martinet <swann.ranskassa@laposte.net>
+# SPDX-FileCopyrightText: 2020 Julien Humbert <julroy67@gmail.com>
+# SPDX-FileCopyrightText: 2023 Bernard Massot <bmassot@free.fr>
+# SPDX-FileCopyrightText: 2023 un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-07-15 07:53+0000\n"
 "Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"

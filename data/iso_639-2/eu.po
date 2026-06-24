@@ -2,22 +2,21 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Marcos Goienetxe <marcos_g@infonegocio.com>, 2002.
-# Piarres Beobide <pi@beobide.net>, 2008.
-# Xabier Bilbao <xabidu@gmail.com>, 2008.
-# Osoitz <oelkoro@gmail.com>, 2019, 2020.
-# Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2020.
-# Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2002 Marcos Goienetxe <marcos_g@infonegocio.com>
+# SPDX-FileCopyrightText: 2008 Piarres Beobide <pi@beobide.net>
+# SPDX-FileCopyrightText: 2008 Xabier Bilbao <xabidu@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2020 Osoitz <oelkoro@gmail.com>
+# SPDX-FileCopyrightText: 2020 Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>
+# SPDX-FileCopyrightText: 2022 Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: xd-ISO_639-eu\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-06-16 07:27+0000\n"
 "Last-Translator: Gorka Azkarate Zubiaur <gorkaazkarate@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
@@ -250,8 +249,10 @@ msgid "Siksika"
 msgstr "siksikera"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "bantu (beste batzuk)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "Bandar hizkuntzak"
 
 #. Name for bod
 msgid "Tibetan"
@@ -462,7 +463,9 @@ msgid "German"
 msgstr "alemana"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "dogribera"
 
 #. Name for din
@@ -1254,11 +1257,15 @@ msgid "Navajo; Navaho"
 msgstr "Navajoera"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "Hegoaldeko ndebelera"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "Iparraldeko ndebelera"
 
 #. Name for ndo
@@ -1274,7 +1281,9 @@ msgid "Nepali"
 msgstr "Nepalera"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "newarera"
 
 #. Name for nia
@@ -1294,12 +1303,16 @@ msgid "Dutch; Flemish"
 msgstr "Nederlandera; flandesera"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Norvegiera (Nynorsk)"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Norvegiera"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "bokmål, Norvegiako bokmål, norvegiera estandarra"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Norvegiera"
 
 #. Name for nog
 msgid "Nogai"
@@ -1350,7 +1363,9 @@ msgid "Nzima"
 msgstr ""
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "Okzitaniera (1500 ondorengoa); Proventzera"
 
 #. Name for oji
@@ -1442,7 +1457,9 @@ msgid "Prakrit languages"
 msgstr "Prakrit hizkuntzak"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Proventzera, zaharra (1500 arte)"
 
 #. Name for pus
@@ -1511,8 +1528,8 @@ msgstr "sakhera"
 
 #. Name for sai
 #, fuzzy
-msgid "South American Indian (Other)"
-msgstr "Hego Amerikako indiar hizkuntzak (beste batzuk)"
+msgid "South American Indian languages"
+msgstr "Ipar Amerikako indiar hizkuntzak"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1895,8 +1912,8 @@ msgid "Wakashan languages"
 msgstr "Wakashar hizkuntzak"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "welayta"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

@@ -2,31 +2,31 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Dafydd Harries <daf@muse.19inch.net>, 2004, 2006.
-# Aled Powell <aled@aledpowell.cymru>, 2019.
-# dreigiau <sterilgrimed23@gmail.com>, 2023.
-# Chris Leonard <cjlhomeaddress@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004, 2006 Dafydd Harries <daf@muse.19inch.net>
+# SPDX-FileCopyrightText: 2019 Aled Powell <aled@aledpowell.cymru>
+# SPDX-FileCopyrightText: 2023 dreigiau <sterilgrimed23@gmail.com>
+# SPDX-FileCopyrightText: 2023 Chris Leonard <cjlhomeaddress@gmail.com>
+# dreigiau <dreigiau@users.noreply.hosted.weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-04-23 17:51+0000\n"
-"Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
-"Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-1/cy/>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-03-20 18:09+0000\n"
+"Last-Translator: dreigiau <dreigiau@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/iso-3166-"
+"1/cy/>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -34,7 +34,7 @@ msgstr "Aruba"
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr "Afghanistan"
+msgstr "Affganistan"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
@@ -94,7 +94,7 @@ msgstr "Gweriniaeth Armenia"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "Samoa America"
+msgstr "Samoa Americanaidd"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -102,7 +102,7 @@ msgstr "Antarctica"
 
 #. Name for ATF
 msgid "French Southern Territories"
-msgstr "French Southern Territories"
+msgstr "Tiriogaethau Deheuol Ffrainc"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
@@ -130,7 +130,7 @@ msgstr "Gweriniaeth Azerbaijan"
 
 #. Name for BDI
 msgid "Burundi"
-msgstr "Bwrwndi"
+msgstr "Burundi"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
@@ -142,7 +142,7 @@ msgstr "Gwlad Belg"
 
 #. Official name for BEL
 msgid "Kingdom of Belgium"
-msgstr "Brenhiniaeth Belg"
+msgstr "Teyrnas Gwlad Belg"
 
 #. Name for BEN
 msgid "Benin"
@@ -194,7 +194,7 @@ msgstr "Cymanwlad y Bahamas"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnia a Hercegovina"
+msgstr "Bosnia a Herzegovina"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -222,15 +222,15 @@ msgstr "Bermuda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr "Bolifia, Gwladwriaeth Amlgenedlaethol"
+msgstr "Bolivia, Gwladwriaeth Amlgenedl"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
-msgstr "Gwladwriaeth Amlgenedlaethol Bolifia"
+msgstr "Gwladwriaeth Amlgenedl Bolivia"
 
 #. Common name for BOL
 msgid "Bolivia"
-msgstr "Bolifia"
+msgstr "Bolivia"
 
 #. Name for BRA
 msgid "Brazil"
@@ -254,7 +254,7 @@ msgstr "Bhutan"
 
 #. Official name for BTN
 msgid "Kingdom of Bhutan"
-msgstr "Brenhiniaeth Bhutan"
+msgstr "Teyrnas Bhutan"
 
 #. Name for BVT
 msgid "Bouvet Island"
@@ -1662,7 +1662,7 @@ msgstr "Ynysoedd Virgin, U.D.A."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr "Ynysoedd Virgin Unol Daleithiau America"
+msgstr "Ynysoedd yr Wyryf Unol Daleithiau America"
 
 #. Name for VNM
 msgid "Viet Nam"
@@ -1694,7 +1694,7 @@ msgstr "Samoa"
 
 #. Official name for WSM
 msgid "Independent State of Samoa"
-msgstr "Talaith Annibynol Samoa"
+msgstr "Gwladwriaeth Annibynnol Samoa"
 
 #. Name for YEM
 msgid "Yemen"

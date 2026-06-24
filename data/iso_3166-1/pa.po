@@ -2,19 +2,18 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
-# A S Alam <apbrar@gmail.com>, 2009.
-# Aman ALam <alam.yellow@gmail.com>, 2019.
-# Aman Alam <aalam@users.noreply.hosted.weblate.org>, 2023.
+# SPDX-FileCopyrightText: 2005 Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>
+# SPDX-FileCopyrightText: 2009 A S Alam <apbrar@gmail.com>
+# SPDX-FileCopyrightText: 2019 Aman ALam <alam.yellow@gmail.com>
+# SPDX-FileCopyrightText: 2023 Aman Alam <aalam@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-11-17 14:06+0000\n"
 "Last-Translator: Aman Alam <aalam@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"

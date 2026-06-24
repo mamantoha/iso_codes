@@ -2,24 +2,23 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2006 Hasso Tepper <hasso@estpak.ee>
+# SPDX-FileCopyrightText: 2006 Siim Põder <windo@p6drad-teel.net>
+# SPDX-FileCopyrightText: 2008, 2011, 2013 Tõivo Leedjärv <toivol@gmail.com>
+# SPDX-FileCopyrightText: 2020 Janar Leas <janar.leas@gmail.com>
+# SPDX-FileCopyrightText: 2021, 2022, 2023 Priit Jõerüüt <hwlate@joeruut.com>
 # .
 # Notes:
 # Tõlgete aluseks on Eesti Keele Instituudi Emakeele Seltsi keeletoimkonna koostatud maailma maade nimede loend
-# .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Hasso Tepper <hasso@estpak.ee>, 2006.
-# Siim Põder <windo@p6drad-teel.net>, 2006.
-# Tõivo Leedjärv <toivol@gmail.com>, 2008, 2011, 2013.
-# Janar Leas <janar.leas@gmail.com>, 2020.
-# Priit Jõerüüt <hwlate@joeruut.com>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-02-28 09:59+0000\n"
 "Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"

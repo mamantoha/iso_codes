@@ -2,24 +2,23 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Wang Jian <lark@linux.net.cn>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004-2006.
-# YunQiang Su <wzssyqa@gmail.com>, 2011.
-# LI Daobing <lidaobing@gmail.com>, 2007-2011, 2013, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2023.
-# tao wang <tonywang5@163.com>, 2020.
-# Promesis Yuan <m3149154722@outlook.com>, 2022.
-# Tyson Tan <tysontanx@gmail.com>, 2024.
+# SPDX-FileCopyrightText: 2000 Wang Jian <lark@linux.net.cn>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004-2006 Carlos Z.F. Liu <carlosliu@users.sourceforge.net>
+# SPDX-FileCopyrightText: 2011 YunQiang Su <wzssyqa@gmail.com>
+# SPDX-FileCopyrightText: 2007-2011, 2013, 2019 LI Daobing <lidaobing@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2020, 2021, 2023 Boyuan Yang <073plan@gmail.com>
+# SPDX-FileCopyrightText: 2020 tao wang <tonywang5@163.com>
+# SPDX-FileCopyrightText: 2022 Promesis Yuan <m3149154722@outlook.com>
+# SPDX-FileCopyrightText: 2024 Tyson Tan <tysontanx@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-01-15 15:46+0000\n"
 "Last-Translator: Tyson Tan <tysontanx@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"

@@ -2,25 +2,24 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2000 JeongHee Kang <Keizi@mail.co.kr>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Eungkyu Song <eungkyu@sparcs.org>
+# SPDX-FileCopyrightText: 2011, 2013, 2023 Changwoo Ryu <cwryu@debian.org>
+# SPDX-FileCopyrightText: 2020 Shinjo Park <peremen@gmail.com>
+# SPDX-FileCopyrightText: 2023 이정희 <daemul72@gmail.com>
 # .
 # Notes:
 # 위키백과 페이지 참고
 # http://ko.wikipedia.org/wiki/ISO_639
-# .
-# Copyright ©
-# JeongHee Kang <Keizi@mail.co.kr>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Eungkyu Song <eungkyu@sparcs.org>, 2001.
-# Changwoo Ryu <cwryu@debian.org>, 2011, 2013, 2023.
-# Shinjo Park <peremen@gmail.com>, 2020.
-# 이정희 <daemul72@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-02-13 21:36+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
@@ -255,8 +254,10 @@ msgid "Siksika"
 msgstr "블랫풋어"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "반투어군"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "반다어"
 
 #. Name for bod
 msgid "Tibetan"
@@ -465,7 +466,9 @@ msgid "German"
 msgstr "독일어"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "도그리브어"
 
 #. Name for din
@@ -1255,11 +1258,15 @@ msgid "Navajo; Navaho"
 msgstr "나바호어"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "은데벨레어 (남)"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "은데벨레어 (북)"
 
 #. Name for ndo
@@ -1275,7 +1282,9 @@ msgid "Nepali"
 msgstr "네팔어"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "네와르어"
 
 #. Name for nia
@@ -1295,11 +1304,15 @@ msgid "Dutch; Flemish"
 msgstr "네덜란드어"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "뉘노리스크"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "노르웨이어"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
 msgstr "노르웨이어"
 
 #. Name for nog
@@ -1352,7 +1365,9 @@ msgid "Nzima"
 msgstr "은제마어"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "오크어 (1500년 이후)"
 
 #. Name for oji
@@ -1444,7 +1459,9 @@ msgid "Prakrit languages"
 msgstr "프라크리트 제어"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "프로방스어 (고대) (1500년 이전)"
 
 #. Name for pus
@@ -1512,8 +1529,10 @@ msgid "Yakut"
 msgstr "야큐트어"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "남아메리카 인디언 제어 (기타)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "북아메리카 인디언 제어"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1899,8 +1918,8 @@ msgid "Wakashan languages"
 msgstr "와카시어족"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "왈라모어"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

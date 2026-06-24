@@ -2,21 +2,20 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Simos Xenitellis <simos@hellug.gr>, 2001.
-# Konstantinos Margaritis <markos@debian.org>, 2004.
-# Athanasios Lefteris <alefteris@gmail.com>, 2008.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2018, 2020.
-# THANOS SIOURDAKIS <siourdakisthanos@gmail.com>, 2019, 2020.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Simos Xenitellis <simos@hellug.gr>
+# SPDX-FileCopyrightText: 2004 Konstantinos Margaritis <markos@debian.org>
+# SPDX-FileCopyrightText: 2008 Athanasios Lefteris <alefteris@gmail.com>
+# SPDX-FileCopyrightText: 2018, 2020 Vangelis Skarmoutsos <skarmoutsosv@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2020 THANOS SIOURDAKIS <siourdakisthanos@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2020-02-23 06:33+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
@@ -254,8 +253,9 @@ msgid "Siksika"
 msgstr ""
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr ""
+#, fuzzy
+msgid "Bantu languages"
+msgstr "Μπάντα γλώσσες"
 
 #. Name for bod
 msgid "Tibetan"
@@ -470,7 +470,7 @@ msgid "German"
 msgstr "Γερμανικά"
 
 #. Name for dgr
-msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr ""
 
 #. Name for din
@@ -1274,11 +1274,11 @@ msgid "Navajo; Navaho"
 msgstr ""
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr ""
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr ""
 
 #. Name for ndo
@@ -1294,7 +1294,7 @@ msgid "Nepali"
 msgstr ""
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr ""
 
 #. Name for nia
@@ -1316,12 +1316,15 @@ msgstr ""
 
 #. Name for nno
 #, fuzzy
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "Νορβηγικά Nynorsk"
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "Νορβηγικά"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "Νορβηγικά"
 
 #. Name for nog
 msgid "Nogai"
@@ -1372,7 +1375,7 @@ msgid "Nzima"
 msgstr ""
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr ""
 
 #. Name for oji
@@ -1466,7 +1469,7 @@ msgstr ""
 
 #. Name for pro
 #, fuzzy
-msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "Προβηγκικά, παλαιά (ως το 1500)"
 
 #. Name for pus
@@ -1538,8 +1541,9 @@ msgstr ""
 
 #. Name for sai
 #, fuzzy
-msgid "South American Indian (Other)"
-msgstr "Ινδιάνικα Νότιας Αμερικής (άλλη)"
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "Ινδιάνικες γλώσσες Βόρειας Αμερικής"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1926,7 +1930,7 @@ msgid "Wakashan languages"
 msgstr ""
 
 #. Name for wal
-msgid "Walamo"
+msgid "Wolaitta; Wolaytta"
 msgstr ""
 
 #. Name for war

@@ -1,1984 +1,1884 @@
-# Translation of ISO 639-2 to Swedish
+# Translation of ISO 639-2 to Turkish, Ottoman (1500-1928)
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
 # SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# SPDX-FileCopyrightText: 2004 Christian Rose <menthos@menthos.com>
-# SPDX-FileCopyrightText: 2016-2017, 2022 Anders Jonsson <anders.jonsson@norsjovallen.se>
-# SPDX-FileCopyrightText: 2019 Mattias Münster <mattiasmun@gmail.com>
-# .
-# Notes:
-# Many of these names are taken directly from
-# http://www.softwolves.pp.se/misc/spraklista.html, a page maintained by
-# Peter Karlsson <peter@softwolves.pp.se> which contains an extensive list of
-# ISO-639 language names in Swedish. A big thanks to him.
-# .
-# Additionally, most Swedish language names are taken from
-# http://www.libris.kb.se/tjanster/katalogisering/formathandbok/sprakkoder.htm
-# .
-# Please note that many common language names in Swedish as a general rule
-# usually end in "ska". Nationality adjectives on the other hand usually end
-# in "sk". Please don't confuse the two.
-# .
-# She speaks Japanese.    <=> Hon talar japanska.
-# She has a Japanese car. <=> Hon har en japansk bil.
-# .
-# In addition, and as the example above shows, language names in Swedish should
-# always be written entirely *lowercase*, the exception of course being if it's
-# the first word in a sentence.
-# But since this is a list, rather than language names used inside
-# sentences, these translated language names use capital initial letters.
-# Erik Palm <erik.p.palm@gmail.com>, 2025.
+# SPDX-FileCopyrightText: 2025 bgo-eiu <huyaqoob+toolforge@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2025-11-18 11:09+0100\n"
-"PO-Revision-Date: 2025-12-18 21:00+0000\n"
-"Last-Translator: Erik Palm <erik.p.palm@gmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/sv/>\n"
-"Language: sv\n"
+"PO-Revision-Date: 2025-10-24 14:03+0000\n"
+"Last-Translator: bgo-eiu <huyaqoob+toolforge@gmail.com>\n"
+"Language-Team: Turkish (Ottoman) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-2/ota/>\n"
+"Language: ota\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
-"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
-msgstr "Afar"
+msgstr ""
 
 #. Name for abk
 msgid "Abkhazian"
-msgstr "Abchaziska"
+msgstr "آبخازجە"
 
-# Libris vill ha achinese här.
 #. Name for ace
 msgid "Achinese"
-msgstr "Acehenesiska"
+msgstr ""
 
 #. Name for ach
 msgid "Acoli"
-msgstr "Acoli"
+msgstr ""
 
 #. Name for ada
 msgid "Adangme"
-msgstr "Adangme"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for ady
 msgid "Adyghe; Adygei"
-msgstr "Adygeiska"
+msgstr ""
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr "Afroasiatiska språk"
+msgstr ""
 
 #. Name for afh
 msgid "Afrihili"
-msgstr "Afrihili"
+msgstr ""
 
 #. Name for afr
 msgid "Afrikaans"
-msgstr "Afrikaans"
+msgstr "آفریقانجە"
 
 #. Name for ain
 msgid "Ainu"
-msgstr "Ainu"
+msgstr ""
 
 #. Name for aka
 msgid "Akan"
-msgstr "Akan"
+msgstr "آقانجە"
 
 #. Name for akk
 msgid "Akkadian"
-msgstr "Akkadiska"
+msgstr "آقادجە"
 
 #. Name for ale
 msgid "Aleut"
-msgstr "Aleutiska"
+msgstr ""
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr "Algonkinska språk"
+msgstr ""
 
 #. Name for alt
 msgid "Southern Altai"
-msgstr "Altaiska"
+msgstr ""
 
 #. Name for amh
 msgid "Amharic"
-msgstr "Amhariska"
+msgstr ""
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "Fornengelska (ca 450-1100)"
+msgstr ""
 
 #. Name for anp
 msgid "Angika"
-msgstr "Angika"
+msgstr ""
 
 #. Name for apa
 msgid "Apache languages"
-msgstr "Apachiska språk"
+msgstr ""
 
 #. Name for ara
 msgid "Arabic"
-msgstr "Arabiska"
+msgstr "عربجە"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
-msgstr "Imperiell arameiska (700-300 f.Kr.)"
+msgstr ""
 
-# Libris vill ha "aragonsk spanska"
 #. Name for arg
 msgid "Aragonese"
-msgstr "Aragonska"
+msgstr ""
 
 #. Name for arn
 msgid "Mapudungun; Mapuche"
-msgstr "Arakuanska (Mapuche)"
+msgstr ""
 
 #. Name for arp
 msgid "Arapaho"
-msgstr "Arapaho"
+msgstr ""
 
 #. Name for art
 msgid "Artificial languages"
-msgstr "Konstgjorda språk"
+msgstr ""
 
 #. Name for arw
 msgid "Arawak"
-msgstr "Arawakiska"
+msgstr ""
 
 #. Name for asm
 msgid "Assamese"
-msgstr "Assamesiska"
+msgstr ""
 
 #. Name for ast
 msgid "Asturian; Bable; Leonese; Asturleonese"
-msgstr "Asturiska (Bable)"
+msgstr ""
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr "Athapaskiska språk"
+msgstr ""
 
 #. Name for aus
 msgid "Australian languages"
-msgstr "Australiska språk"
+msgstr ""
 
 #. Name for ava
 msgid "Avaric"
-msgstr "Avariska"
+msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestiska"
+msgstr ""
 
 #. Name for awa
 msgid "Awadhi"
-msgstr "Awadhi"
+msgstr ""
 
 #. Name for aym
 msgid "Aymara"
-msgstr "Aymara"
+msgstr ""
 
 #. Name for aze
 msgid "Azerbaijani"
-msgstr "Azerbajdzjanska"
+msgstr ""
 
 #. Name for bad
 msgid "Banda languages"
-msgstr "Bandaspråk"
+msgstr ""
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr "Bamilekespråk"
+msgstr ""
 
 #. Name for bak
 msgid "Bashkir"
-msgstr "Basjkiriska"
+msgstr ""
 
 #. Name for bal
 msgid "Baluchi"
-msgstr "Baluchi"
+msgstr ""
 
 #. Name for bam
 msgid "Bambara"
-msgstr "Bambara"
+msgstr ""
 
 #. Name for ban
 msgid "Balinese"
-msgstr "Balinesiska"
+msgstr ""
 
-# Libris har med den där parentesen
 #. Name for bas
 msgid "Basa"
-msgstr "Basa (bantuspråk)"
+msgstr ""
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr "Baltiska språk"
+msgstr ""
 
 #. Name for bej
 msgid "Beja; Bedawiyet"
-msgstr "Beyja"
+msgstr ""
 
 #. Name for bel
 msgid "Belarusian"
-msgstr "Vitryska"
+msgstr ""
 
 #. Name for bem
 msgid "Bemba"
-msgstr "Bemba"
+msgstr ""
 
 #. Name for ben
 msgid "Bengali"
-msgstr "Bengali"
+msgstr ""
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bengali"
+msgstr ""
 
 #. Name for ber
 msgid "Berber languages"
-msgstr "Berberspråk"
+msgstr ""
 
 #. Name for bho
 msgid "Bhojpuri"
-msgstr "Bhojpuri"
+msgstr ""
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr "Biharispråk"
+msgstr ""
 
 #. Name for bik
 msgid "Bikol"
-msgstr "Bikol"
+msgstr ""
 
-# Libris har med parentesen
 #. Name for bin
 msgid "Bini; Edo"
-msgstr "Edo (bini)"
+msgstr ""
 
 #. Name for bis
 msgid "Bislama"
-msgstr "Bislama"
+msgstr ""
 
-# Länge leve Libris!
 #. Name for bla
 msgid "Siksika"
-msgstr "Svartfotindianernas språk (siksika)"
+msgstr ""
 
 #. Name for bnt
 msgid "Bantu languages"
-msgstr "Bantuspråk"
+msgstr ""
 
 #. Name for bod
 msgid "Tibetan"
-msgstr "Tibetanska"
+msgstr ""
 
 #. Name for bos
 msgid "Bosnian"
-msgstr "Bosniska"
+msgstr ""
 
 #. Name for bra
 msgid "Braj"
-msgstr "Braj"
+msgstr ""
 
 #. Name for bre
 msgid "Breton"
-msgstr "Bretonska"
+msgstr ""
 
 #. Name for btk
 msgid "Batak languages"
-msgstr "Batakspråk"
+msgstr ""
 
 #. Name for bua
 msgid "Buriat"
-msgstr "Burjatiska"
+msgstr ""
 
 #. Name for bug
 msgid "Buginese"
-msgstr "Buginesiska"
+msgstr ""
 
 #. Name for bul
 msgid "Bulgarian"
-msgstr "Bulgariska"
+msgstr ""
 
 #. Name for byn
 msgid "Blin; Bilin"
-msgstr "Bilin"
+msgstr ""
 
 #. Name for cad
 msgid "Caddo"
-msgstr "Caddo"
+msgstr ""
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Centralamerikanska indianspråk"
+msgstr ""
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Karibiska"
+msgstr ""
 
 #. Name for cat
 msgid "Catalan; Valencian"
-msgstr "Katalanska; Valencianska"
+msgstr ""
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr "Kaukasiska språk"
+msgstr ""
 
 #. Name for ceb
 msgid "Cebuano"
-msgstr "Cebuano"
+msgstr ""
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr "Keltiska språk"
+msgstr ""
 
 #. Name for ces
 msgid "Czech"
-msgstr "Tjeckiska"
+msgstr ""
 
 #. Name for cha
 msgid "Chamorro"
-msgstr "Chamorro"
+msgstr ""
 
 #. Name for chb
 msgid "Chibcha"
-msgstr "Chibcha"
+msgstr ""
 
 #. Name for che
 msgid "Chechen"
-msgstr "Tjetjenska"
+msgstr ""
 
 #. Name for chg
 msgid "Chagatai"
-msgstr "Chagatai"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for chk
 msgid "Chuukese"
-msgstr "Chuukesiska (Truk)"
+msgstr ""
 
-# Alternativt tjeremissiska enligt Libris.
 #. Name for chm
 msgid "Mari"
-msgstr "Mariska"
+msgstr ""
 
 #. Name for chn
 msgid "Chinook jargon"
-msgstr "Chinook"
+msgstr ""
 
 #. Name for cho
 msgid "Choctaw"
-msgstr "Choctaw"
+msgstr ""
 
 #. Name for chp
 msgid "Chipewyan; Dene Suline"
-msgstr "Chipewyanska; Dene Suline"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for chr
 msgid "Cherokee"
-msgstr "Cherokesiska"
+msgstr ""
 
 #. Name for chu
 msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
-msgstr "Fornkyrkslaviska; Fornkyrkoslaviska; Fornslaviska"
+msgstr ""
 
 #. Name for chv
 msgid "Chuvash"
-msgstr "Tjuvasjiska"
+msgstr ""
 
 #. Name for chy
 msgid "Cheyenne"
-msgstr "Cheyenne"
+msgstr ""
 
 #. Name for cmc
 msgid "Chamic languages"
-msgstr "Chamicspråk"
+msgstr ""
 
 #. Name for cnr
 msgid "Montenegrin"
-msgstr "Montenegrinska"
+msgstr ""
 
 #. Name for cop
 msgid "Coptic"
-msgstr "Koptiska"
+msgstr ""
 
 #. Name for cor
 msgid "Cornish"
-msgstr "Korniska"
+msgstr ""
 
 #. Name for cos
 msgid "Corsican"
-msgstr "Korsikanska"
+msgstr ""
 
 #. Name for cpe
 msgid "Creoles and pidgins, English based"
-msgstr "Pidgin-engelska"
+msgstr ""
 
 #. Name for cpf
 msgid "Creoles and pidgins, French-based"
-msgstr "Franskt kreolspråk"
+msgstr ""
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "Kreol- och pidginspråk, portugisiskbaserade"
+msgstr ""
 
 #. Name for cre
 msgid "Cree"
-msgstr "Cree"
+msgstr ""
 
 #. Name for crh
 msgid "Crimean Tatar; Crimean Turkish"
-msgstr "Krimtatariska (Krimturkiska)"
+msgstr ""
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr "Kreol- och pidginspråk"
+msgstr ""
 
-# Osäker
-# Ej verifierat
 #. Name for csb
 msgid "Kashubian"
-msgstr "Kasjubiska"
+msgstr ""
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr "Kusjitiska språk"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for cym
 msgid "Welsh"
-msgstr "Kymriska"
+msgstr ""
 
 #. Name for dak
 msgid "Dakota"
-msgstr "Dakota"
+msgstr ""
 
 #. Name for dan
 msgid "Danish"
-msgstr "Danska"
+msgstr ""
 
-# Libris vill ha "Darginska (Dargwa)". Jag antar att Dargwa är vanligare.
 #. Name for dar
 msgid "Dargwa"
-msgstr "Darginska"
+msgstr ""
 
 #. Name for day
 msgid "Land Dayak languages"
-msgstr "Land Dayak-språk"
+msgstr ""
 
 #. Name for del
 msgid "Delaware"
-msgstr "Delaware"
+msgstr ""
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr "Slave"
+msgstr ""
 
 #. Name for deu
 msgid "German"
-msgstr "Tyska"
+msgstr ""
 
 #. Name for dgr
-#, fuzzy
-#| msgid "Dogrib"
 msgid "Tlicho; Dogrib"
-msgstr "Dogrib"
+msgstr ""
 
 #. Name for din
 msgid "Dinka"
-msgstr "Dinka"
+msgstr ""
 
 #. Name for div
 msgid "Divehi; Dhivehi; Maldivian"
-msgstr "Divehi; Maldiviska"
+msgstr ""
 
 #. Name for doi
 msgid "Dogri"
-msgstr "Dogri"
+msgstr ""
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr "Dravidiska språk"
+msgstr ""
 
 #. Name for dsb
 msgid "Lower Sorbian"
-msgstr "Lågsorbiska"
+msgstr ""
 
 #. Name for dua
 msgid "Duala"
-msgstr "Duala"
+msgstr ""
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Medelnederländska (ca 1050-1350)"
+msgstr ""
 
 #. Name for dyu
 msgid "Dyula"
-msgstr "Dyula"
+msgstr ""
 
-# Libris vill ha med parentesen.
 #. Name for dzo
 msgid "Dzongkha"
-msgstr "Dzongkha"
+msgstr ""
 
 #. Name for efi
 msgid "Efik"
-msgstr "Efik"
+msgstr ""
 
 #. Name for egy
 msgid "Egyptian (Ancient)"
-msgstr "Fornegyptiska"
+msgstr ""
 
 #. Name for eka
 msgid "Ekajuk"
-msgstr "Ekajuk"
+msgstr ""
 
 #. Name for ell
 msgid "Greek, Modern (1453-)"
-msgstr "Nygrekiska (1453-)"
+msgstr ""
 
 #. Name for elx
 msgid "Elamite"
-msgstr "Elamitiska"
+msgstr ""
 
 #. Name for eng
 msgid "English"
-msgstr "Engelska"
+msgstr ""
 
 #. Name for enm
 msgid "English, Middle (1100-1500)"
-msgstr "Medelengelska (1100-1500)"
+msgstr ""
 
 #. Name for epo
 msgid "Esperanto"
-msgstr "Esperanto"
+msgstr ""
 
 #. Name for est
 msgid "Estonian"
-msgstr "Estniska"
+msgstr ""
 
 #. Name for eus
 msgid "Basque"
-msgstr "Baskiska"
+msgstr ""
 
 #. Name for ewe
 msgid "Ewe"
-msgstr "Ewe"
+msgstr ""
 
 #. Name for ewo
 msgid "Ewondo"
-msgstr "Ewondo"
+msgstr ""
 
 #. Name for fan
 msgid "Fang"
-msgstr "Fang"
+msgstr ""
 
 #. Name for fao
 msgid "Faroese"
-msgstr "Färöiska"
+msgstr ""
 
 #. Name for fas
 msgid "Persian"
-msgstr "Persiska"
+msgstr ""
 
 #. Name for fat
 msgid "Fanti"
-msgstr "Fanti"
+msgstr ""
 
-# SAOL vill ha utan d, Libris med d. Jag kör på SAOL:s variant.
 #. Name for fij
 msgid "Fijian"
-msgstr "Fijianska"
+msgstr ""
 
 #. Name for fil
 msgid "Filipino; Pilipino"
-msgstr "Filipino; Pilipino"
+msgstr ""
 
 #. Name for fin
 msgid "Finnish"
-msgstr "Finska"
+msgstr ""
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr "Finsk-ugriska språk"
+msgstr ""
 
 #. Name for fon
 msgid "Fon"
-msgstr "Fon"
+msgstr ""
 
 #. Name for fra
 msgid "French"
-msgstr "Franska"
+msgstr ""
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "Medelfranska (ca 1400-1600)"
+msgstr ""
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Fornfranska (842-ca 1400)"
+msgstr ""
 
 #. Name for frr
 msgid "Northern Frisian"
-msgstr "Nordfrisiska"
+msgstr ""
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr "Östfrisiska"
+msgstr ""
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr "Frisiska"
+msgstr ""
 
 #. Name for ful
 msgid "Fulah"
-msgstr "Fulani"
+msgstr ""
 
 #. Name for fur
 msgid "Friulian"
-msgstr "Friuliska"
+msgstr ""
 
 #. Name for gaa
 msgid "Ga"
-msgstr "Ga"
+msgstr ""
 
 #. Name for gay
 msgid "Gayo"
-msgstr "Gayo"
+msgstr ""
 
 #. Name for gba
 msgid "Gbaya"
-msgstr "Gbaya"
+msgstr ""
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr "Germanska språk"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for gez
 msgid "Geez"
-msgstr "Fornetiopiska (Geez)"
+msgstr ""
 
 #. Name for gil
 msgid "Gilbertese"
-msgstr "Gilbertesiska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for gla
 msgid "Gaelic; Scottish Gaelic"
-msgstr "Höglandsskotska; Gäliska"
+msgstr ""
 
 #. Name for gle
 msgid "Irish"
-msgstr "Iriska"
+msgstr ""
 
 #. Name for glg
 msgid "Galician"
-msgstr "Galiciska"
+msgstr ""
 
 #. Name for glv
 msgid "Manx"
-msgstr "Manx"
+msgstr ""
 
 #. Name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "Medelhögtyska (ca 1050-1500)"
+msgstr ""
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Fornhögtyska (ca 750-1050)"
+msgstr ""
 
 #. Name for gon
 msgid "Gondi"
-msgstr "Gondi"
+msgstr ""
 
 #. Name for gor
 msgid "Gorontalo"
-msgstr "Gorontalo"
+msgstr ""
 
 #. Name for got
 msgid "Gothic"
-msgstr "Gotiska"
+msgstr ""
 
 #. Name for grb
 msgid "Grebo"
-msgstr "Grebo"
+msgstr ""
 
 #. Name for grc
 msgid "Greek, Ancient (to 1453)"
-msgstr "Grekiska, klassisk (-1453)"
+msgstr ""
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Guarani"
+msgstr ""
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
-msgstr "Schweizertyska"
+msgstr ""
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "Gujarati"
+msgstr ""
 
 #. Name for gwi
 msgid "Gwich'in"
-msgstr "Gwichin"
+msgstr ""
 
 #. Name for hai
 msgid "Haida"
-msgstr "Haida"
+msgstr ""
 
-# Libris vill ha det som "Haitiska (Haitisk kreol)".
 #. Name for hat
 msgid "Haitian; Haitian Creole"
-msgstr "Haitiska; haitisk kreol"
+msgstr ""
 
 #. Name for hau
 msgid "Hausa"
-msgstr "Haussa"
+msgstr ""
 
 #. Name for haw
 msgid "Hawaiian"
-msgstr "Hawaiiska"
+msgstr ""
 
 #. Name for heb
 msgid "Hebrew"
-msgstr "Hebreiska"
+msgstr ""
 
 #. Name for her
 msgid "Herero"
-msgstr "Herero"
+msgstr ""
 
 #. Name for hil
 msgid "Hiligaynon"
-msgstr "Hiligaynon"
+msgstr ""
 
 #. Name for him
 msgid "Himachali languages; Western Pahari languages"
-msgstr "Västligt Paharispråk"
+msgstr ""
 
 #. Name for hin
 msgid "Hindi"
-msgstr "Hindi"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for hit
 msgid "Hittite"
-msgstr "Hettitiska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for hmn
 msgid "Hmong; Mong"
-msgstr "Hmong"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for hmo
 msgid "Hiri Motu"
-msgstr "Hiri motu"
+msgstr ""
 
 #. Name for hrv
 msgid "Croatian"
-msgstr "Kroatiska"
+msgstr ""
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Högsorbiska"
+msgstr ""
 
 #. Name for hun
 msgid "Hungarian"
-msgstr "Ungerska"
+msgstr ""
 
 #. Name for hup
 msgid "Hupa"
-msgstr "Hupa"
+msgstr ""
 
 #. Name for hye
 msgid "Armenian"
-msgstr "Armeniska"
+msgstr ""
 
 #. Name for iba
 msgid "Iban"
-msgstr "Iban"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for ibo
 msgid "Igbo"
-msgstr "Ibo (Igbo)"
+msgstr ""
 
 #. Name for ido
 msgid "Ido"
-msgstr "Ido"
+msgstr ""
 
 #. Name for iii
 msgid "Sichuan Yi; Nuosu"
-msgstr "Sichuan Yi"
+msgstr ""
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr "Ijospråk"
+msgstr ""
 
 #. Name for iku
 msgid "Inuktitut"
-msgstr "Inuktitut"
+msgstr ""
 
 #. Name for ile
 msgid "Interlingue; Occidental"
-msgstr "Interlingue; Occidental"
+msgstr ""
 
 #. Name for ilo
 msgid "Iloko"
-msgstr "Iloko"
+msgstr ""
 
 #. Name for ina
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr "Interlingua (International Auxiliary Language Association)"
+msgstr ""
 
 #. Name for inc
 msgid "Indic languages"
-msgstr "Indoariska språk"
+msgstr ""
 
 #. Name for ind
 msgid "Indonesian"
-msgstr "Indonesiska"
+msgstr ""
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr "Indoeuropeiska språk"
+msgstr ""
 
 #. Name for inh
 msgid "Ingush"
-msgstr "Ingusj"
+msgstr ""
 
 #. Name for ipk
 msgid "Inupiaq"
-msgstr "Inupiaq"
+msgstr ""
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr "Iranska språk"
+msgstr ""
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr "Irokesiska språk"
+msgstr ""
 
 #. Name for isl
 msgid "Icelandic"
-msgstr "Isländska"
+msgstr ""
 
 #. Name for ita
 msgid "Italian"
-msgstr "Italienska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for jav
 msgid "Javanese"
-msgstr "Javanska"
+msgstr ""
 
 #. Name for jbo
 msgid "Lojban"
-msgstr "Lojban"
+msgstr ""
 
 #. Name for jpn
 msgid "Japanese"
-msgstr "Japanska"
+msgstr ""
 
 #. Name for jpr
 msgid "Judeo-Persian"
-msgstr "Judepersiska"
+msgstr ""
 
 #. Name for jrb
 msgid "Judeo-Arabic"
-msgstr "Judearabiska"
+msgstr ""
 
 #. Name for kaa
 msgid "Kara-Kalpak"
-msgstr "Karakalpakiska"
+msgstr ""
 
 #. Name for kab
 msgid "Kabyle"
-msgstr "Kabyliska"
+msgstr ""
 
 #. Name for kac
 msgid "Kachin; Jingpho"
-msgstr "Kachin"
+msgstr ""
 
 #. Name for kal
 msgid "Kalaallisut; Greenlandic"
-msgstr "Grönländska"
+msgstr ""
 
 #. Name for kam
 msgid "Kamba"
-msgstr "Kamba"
+msgstr ""
 
-# Även kanaresiska (äldre form)
 #. Name for kan
 msgid "Kannada"
-msgstr "Kanaresiska"
+msgstr ""
 
 #. Name for kar
 msgid "Karen languages"
-msgstr "Karenspråk"
+msgstr ""
 
 #. Name for kas
 msgid "Kashmiri"
-msgstr "Kashmiri"
+msgstr ""
 
 #. Name for kat
 msgid "Georgian"
-msgstr "Georgiska"
+msgstr ""
 
 #. Name for kau
 msgid "Kanuri"
-msgstr "Kanuri"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for kaw
 msgid "Kawi"
-msgstr "Fornjavanska (kawi)"
+msgstr ""
 
 #. Name for kaz
 msgid "Kazakh"
-msgstr "Kazakiska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for kbd
 msgid "Kabardian"
-msgstr "Kabardinska (östtjerkessiska)"
+msgstr ""
 
 #. Name for kha
 msgid "Khasi"
-msgstr "Khasi"
+msgstr ""
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr "Khoisanspråk"
+msgstr ""
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "Kambodjanska (Khmer)"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for kho
 msgid "Khotanese; Sakan"
-msgstr "Sakiska (khotanesiska)"
+msgstr ""
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
-msgstr "Kikuyu"
+msgstr ""
 
 #. Name for kin
 msgid "Kinyarwanda"
-msgstr "Rwanda"
+msgstr ""
 
 #. Name for kir
 msgid "Kirghiz; Kyrgyz"
-msgstr "Kirgisiska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for kmb
 msgid "Kimbundu"
-msgstr "Mbundu (kimbundu)"
+msgstr ""
 
 #. Name for kok
 msgid "Konkani"
-msgstr "Konkani"
+msgstr ""
 
 #. Name for kom
 msgid "Komi"
-msgstr "Komi"
+msgstr ""
 
 #. Name for kon
 msgid "Kongo"
-msgstr "Kikongo"
+msgstr ""
 
 #. Name for kor
 msgid "Korean"
-msgstr "Koreanska"
+msgstr ""
 
 #. Name for kos
 msgid "Kosraean"
-msgstr "Kusaie"
+msgstr ""
 
 #. Name for kpe
 msgid "Kpelle"
-msgstr "Kpelle"
+msgstr ""
 
-# Osäker
-# Ej verifierat
 #. Name for krc
 msgid "Karachay-Balkar"
-msgstr "Karatjajbalkariska"
+msgstr ""
 
 #. Name for krl
 msgid "Karelian"
-msgstr "Karelska"
+msgstr ""
 
 #. Name for kro
 msgid "Kru languages"
-msgstr "Kruspråk"
+msgstr ""
 
 #. Name for kru
 msgid "Kurukh"
-msgstr "Kurukh"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for kua
 msgid "Kuanyama; Kwanyama"
-msgstr "Ovambo (kuanyama)"
+msgstr ""
 
 #. Name for kum
 msgid "Kumyk"
-msgstr "Kumyk"
+msgstr ""
 
 #. Name for kur
 msgid "Kurdish"
-msgstr "Kurdiska"
+msgstr ""
 
 #. Name for kut
 msgid "Kutenai"
-msgstr "Kutenai"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for lad
 msgid "Ladino"
-msgstr "Spanjolska (ladino)"
+msgstr ""
 
 #. Name for lah
 msgid "Lahnda"
-msgstr "Lahnda"
+msgstr ""
 
 #. Name for lam
 msgid "Lamba"
-msgstr "Lamba"
+msgstr ""
 
 #. Name for lao
 msgid "Lao"
-msgstr "Laotiska"
+msgstr ""
 
 #. Name for lat
 msgid "Latin"
-msgstr "Latin"
+msgstr ""
 
 #. Name for lav
 msgid "Latvian"
-msgstr "Lettiska"
+msgstr ""
 
 #. Name for lez
 msgid "Lezghian"
-msgstr "Lezginska"
+msgstr ""
 
 #. Name for lim
 msgid "Limburgan; Limburger; Limburgish"
-msgstr "Limburgiska"
+msgstr ""
 
 #. Name for lin
 msgid "Lingala"
-msgstr "Lingala"
+msgstr ""
 
 #. Name for lit
 msgid "Lithuanian"
-msgstr "Litauiska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for lol
 msgid "Mongo"
-msgstr "Lolo (mongo)"
+msgstr ""
 
 #. Name for loz
 msgid "Lozi"
-msgstr "Lozi"
+msgstr ""
 
 #. Name for ltz
 msgid "Luxembourgish; Letzeburgesch"
-msgstr "Luxemburgiska"
+msgstr ""
 
 #. Name for lua
 msgid "Luba-Lulua"
-msgstr "Luba-Lulua"
+msgstr ""
 
 #. Name for lub
 msgid "Luba-Katanga"
-msgstr "Luba-Katanga"
+msgstr ""
 
 #. Name for lug
 msgid "Ganda"
-msgstr "Luganda"
+msgstr ""
 
 #. Name for lui
 msgid "Luiseno"
-msgstr "Luiseno"
+msgstr ""
 
 #. Name for lun
 msgid "Lunda"
-msgstr "Lunda"
+msgstr ""
 
 #. Name for luo
 msgid "Luo (Kenya and Tanzania)"
-msgstr "Luo (Kenya och Tanzania)"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for lus
 msgid "Lushai"
-msgstr "Mizo (lushai)"
+msgstr ""
 
-# Tidigare maduresiska.
 #. Name for mad
 msgid "Madurese"
-msgstr "Maduresiska"
+msgstr ""
 
 #. Name for mag
 msgid "Magahi"
-msgstr "Magahi"
+msgstr ""
 
 #. Name for mah
 msgid "Marshallese"
-msgstr "Marshallesiska"
+msgstr ""
 
 #. Name for mai
 msgid "Maithili"
-msgstr "Maithili"
+msgstr ""
 
 #. Name for mak
 msgid "Makasar"
-msgstr "Makasar"
+msgstr ""
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "Malayalam"
+msgstr ""
 
-# Libris vill ha det så.
-# Även malinke.
 #. Name for man
 msgid "Mandingo"
-msgstr "Mande"
+msgstr ""
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr "Austronesiska språk"
+msgstr ""
 
 #. Name for mar
 msgid "Marathi"
-msgstr "Marathi"
+msgstr ""
 
 #. Name for mas
 msgid "Masai"
-msgstr "Massajiska"
+msgstr ""
 
-# Osäker
-# Ej verifierat
 #. Name for mdf
 msgid "Moksha"
-msgstr "Moksha"
+msgstr ""
 
 #. Name for mdr
 msgid "Mandar"
-msgstr "Mandar"
+msgstr ""
 
 #. Name for men
 msgid "Mende"
-msgstr "Mende"
+msgstr ""
 
 #. Name for mga
 msgid "Irish, Middle (900-1200)"
-msgstr "Medeliriska (900-1200)"
+msgstr ""
 
 #. Name for mic
 msgid "Mi'kmaq; Micmac"
-msgstr "Mic-mac; Mi’kmaq"
+msgstr ""
 
 #. Name for min
 msgid "Minangkabau"
-msgstr "Minangkabau"
+msgstr ""
 
 #. Name for mis
 msgid "Uncoded languages"
-msgstr "Okodade språk"
+msgstr ""
 
 #. Name for mkd
 msgid "Macedonian"
-msgstr "Makedonska"
+msgstr ""
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr "Mon-Khmerspråk"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for mlg
 msgid "Malagasy"
-msgstr "Malagasy"
+msgstr ""
 
 #. Name for mlt
 msgid "Maltese"
-msgstr "Maltesiska"
+msgstr ""
 
-# Även mandju.
 #. Name for mnc
 msgid "Manchu"
-msgstr "Manchu"
+msgstr ""
 
 #. Name for mni
 msgid "Manipuri"
-msgstr "Manipuri"
+msgstr ""
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr "Manobospråk"
+msgstr ""
 
 #. Name for moh
 msgid "Mohawk"
-msgstr "Mohawk"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for mon
 msgid "Mongolian"
-msgstr "Mongoliska"
+msgstr ""
 
 #. Name for mos
 msgid "Mossi"
-msgstr "Mossi"
+msgstr ""
 
 #. Name for mri
 msgid "Maori"
-msgstr "Maori"
+msgstr ""
 
 #. Name for msa
 msgid "Malay"
-msgstr "Malajiska"
+msgstr ""
 
 #. Name for mul
 msgid "Multiple languages"
-msgstr "Flera språk"
+msgstr ""
 
 #. Name for mun
 msgid "Munda languages"
-msgstr "Mundaspråk"
+msgstr ""
 
 #. Name for mus
 msgid "Creek"
-msgstr "Muskogee"
+msgstr ""
 
 #. Name for mwl
 msgid "Mirandese"
-msgstr "Mirandesiska"
+msgstr ""
 
 #. Name for mwr
 msgid "Marwari"
-msgstr "Marwari"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for mya
 msgid "Burmese"
-msgstr "Burmesiska"
+msgstr ""
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr "Mayaspråk"
+msgstr ""
 
-# http://www.geocities.com/forfader/samerna/uraliska.html
 #. Name for myv
 msgid "Erzya"
-msgstr "Erzya"
+msgstr ""
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr "Nahuatlspråk"
+msgstr ""
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr "Nordamerikanska indianspråk"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for nap
 msgid "Neapolitan"
-msgstr "Neapolitansk italienska"
+msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "Nauru"
+msgstr ""
 
 #. Name for nav
 msgid "Navajo; Navaho"
-msgstr "Navaho"
+msgstr ""
 
 #. Name for nbl
-#, fuzzy
-#| msgid "Ndebele, South; South Ndebele"
 msgid "South Ndebele"
-msgstr "Ndebele (Sydafrika)"
+msgstr ""
 
 #. Name for nde
-#, fuzzy
-#| msgid "Ndebele, North; North Ndebele"
 msgid "North Ndebele"
-msgstr "Ndebele (Zimbabwe)"
+msgstr ""
 
 #. Name for ndo
 msgid "Ndonga"
-msgstr "Ndonga"
+msgstr ""
 
 #. Name for nds
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr "Lågtyska"
+msgstr ""
 
 #. Name for nep
 msgid "Nepali"
-msgstr "Nepali"
+msgstr ""
 
 #. Name for new
-#, fuzzy
-#| msgid "Nepal Bhasa; Newari"
 msgid "Nepal Bhasa; Newar; Newari"
-msgstr "Newari"
+msgstr ""
 
 #. Name for nia
 msgid "Nias"
-msgstr "Nias"
+msgstr ""
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr "Niger-/Kongospråk"
+msgstr ""
 
 #. Name for niu
 msgid "Niuean"
-msgstr "Niuean"
+msgstr ""
 
 #. Name for nld
 msgid "Dutch; Flemish"
-msgstr "Nederländska; Flamländska"
+msgstr ""
 
 #. Name for nno
-#, fuzzy
-#| msgid "Norwegian"
 msgid "Norwegian Nynorsk"
-msgstr "Norska"
+msgstr ""
 
 #. Name for nob
-#, fuzzy
-#| msgid "Norwegian"
 msgid "Norwegian Bokmål"
-msgstr "Norska"
+msgstr ""
 
-# Libris vill ha det så
 #. Name for nog
 msgid "Nogai"
-msgstr "Nogaiska"
+msgstr ""
 
 #. Name for non
 msgid "Norse, Old"
-msgstr "Fornisländska"
+msgstr ""
 
 #. Name for nor
 msgid "Norwegian"
-msgstr "Norska"
+msgstr ""
 
 #. Name for nqo
 msgid "N'Ko"
-msgstr "N'Ko"
+msgstr ""
 
 #. Name for nso
 msgid "Pedi; Sepedi; Northern Sotho"
-msgstr "Nordsotho"
+msgstr ""
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr "Nubiska språk"
+msgstr ""
 
-# Osäker
 #. Name for nwc
 msgid "Classical Newari; Old Newari; Classical Nepal Bhasa"
-msgstr "Klassisk Newari; Fornnewari"
+msgstr ""
 
 #. Name for nya
 msgid "Chichewa; Chewa; Nyanja"
-msgstr "Nyanja"
+msgstr ""
 
 #. Name for nym
 msgid "Nyamwezi"
-msgstr "Nyamwezi"
+msgstr ""
 
 #. Name for nyn
 msgid "Nyankole"
-msgstr "Nyankole"
+msgstr ""
 
 #. Name for nyo
 msgid "Nyoro"
-msgstr "Nyoro"
+msgstr ""
 
 #. Name for nzi
 msgid "Nzima"
-msgstr "Nzima"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500); Provençal"
 msgid "Occitan (post 1500)"
-msgstr "Langue d'oc (1500-); Provensalska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for oji
 msgid "Ojibwa"
-msgstr "Odjibwa (chippewa)"
+msgstr ""
 
 #. Name for ori
 msgid "Oriya"
-msgstr "Oriya"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for orm
 msgid "Oromo"
-msgstr "Oromo"
+msgstr ""
 
 #. Name for osa
 msgid "Osage"
-msgstr "Osage"
+msgstr ""
 
 #. Name for oss
 msgid "Ossetian; Ossetic"
-msgstr "Ossetiska"
+msgstr ""
 
 #. Name for ota
 msgid "Turkish, Ottoman (1500-1928)"
-msgstr "Osmanska (1500-1928)"
+msgstr ""
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr "Otomispråk"
+msgstr ""
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Papuanska språk"
+msgstr ""
 
 #. Name for pag
 msgid "Pangasinan"
-msgstr "Pangasinan"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for pal
 msgid "Pahlavi"
-msgstr "Pahlavi (medelpersiska)"
+msgstr ""
 
 #. Name for pam
 msgid "Pampanga; Kapampangan"
-msgstr "Pampanga"
+msgstr ""
 
 #. Name for pan
 msgid "Panjabi; Punjabi"
-msgstr "Panjabi; Punjabi"
+msgstr ""
 
 #. Name for pap
 msgid "Papiamento"
-msgstr "Papiamento"
+msgstr ""
 
 #. Name for pau
 msgid "Palauan"
-msgstr "Palauiska"
+msgstr ""
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Fornpersiska (ca 600-400 f.Kr.)"
+msgstr ""
 
 #. Name for phi
 msgid "Philippine languages"
-msgstr "Filippinska språk"
+msgstr ""
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Feniciska"
+msgstr ""
 
 #. Name for pli
 msgid "Pali"
-msgstr "Pali"
+msgstr ""
 
 #. Name for pol
 msgid "Polish"
-msgstr "Polska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for pon
 msgid "Pohnpeian"
-msgstr "Ponape"
+msgstr ""
 
 #. Name for por
 msgid "Portuguese"
-msgstr "Portugisiska"
+msgstr ""
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr "Prakritspråk"
+msgstr ""
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500)"
 msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
-msgstr "Provensalska (-1500)"
+msgstr ""
 
 #. Name for pus
 msgid "Pushto; Pashto"
-msgstr "Pashto"
+msgstr ""
 
 #. Name for qaa-qtz
 msgid "Reserved for local use"
-msgstr "Reserverat för lokal användning"
+msgstr ""
 
 #. Name for que
 msgid "Quechua"
-msgstr "Quechua"
+msgstr ""
 
 #. Name for raj
 msgid "Rajasthani"
-msgstr "Rajasthani"
+msgstr ""
 
 #. Name for rap
 msgid "Rapanui"
-msgstr "Rapanui"
+msgstr ""
 
 #. Name for rar
 msgid "Rarotongan; Cook Islands Maori"
-msgstr "Rarotongesiska"
+msgstr ""
 
 #. Name for roa
 msgid "Romance languages"
-msgstr "Romanska språk"
+msgstr ""
 
 #. Name for roh
 msgid "Romansh"
-msgstr "Rätoromanska"
+msgstr ""
 
 #. Name for rom
 msgid "Romany"
-msgstr "Romani"
+msgstr ""
 
 #. Name for ron
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Rumänska; Moldaviska"
+msgstr ""
 
 #. Name for run
 msgid "Rundi"
-msgstr "Rundi"
+msgstr ""
 
 #. Name for rup
 msgid "Aromanian; Arumanian; Macedo-Romanian"
-msgstr "Arumanska; Arumänska"
+msgstr ""
 
 #. Name for rus
 msgid "Russian"
-msgstr "Ryska"
+msgstr ""
 
 #. Name for sad
 msgid "Sandawe"
-msgstr "Sandawe"
+msgstr ""
 
 #. Name for sag
 msgid "Sango"
-msgstr "Sango"
+msgstr ""
 
 #. Name for sah
 msgid "Yakut"
-msgstr "Jakutiska"
+msgstr ""
 
 #. Name for sai
-#, fuzzy
-#| msgid "North American Indian languages"
 msgid "South American Indian languages"
-msgstr "Nordamerikanska indianspråk"
+msgstr ""
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr "Saliska språk"
+msgstr ""
 
 #. Name for sam
 msgid "Samaritan Aramaic"
-msgstr "Samaritanska"
+msgstr ""
 
 #. Name for san
 msgid "Sanskrit"
-msgstr "Sanskrit"
+msgstr ""
 
 #. Name for sas
 msgid "Sasak"
-msgstr "Sasak"
+msgstr ""
 
 #. Name for sat
 msgid "Santali"
-msgstr "Santali"
+msgstr ""
 
 #. Name for scn
 msgid "Sicilian"
-msgstr "Siciliansk italienska"
+msgstr ""
 
 #. Name for sco
 msgid "Scots"
-msgstr "Skotska"
+msgstr ""
 
 #. Name for sel
 msgid "Selkup"
-msgstr "Selkup"
+msgstr ""
 
 #. Name for sem
 msgid "Semitic languages"
-msgstr "Semitiska språk"
+msgstr ""
 
 #. Name for sga
 msgid "Irish, Old (to 900)"
-msgstr "Forniriska (-900)"
+msgstr ""
 
 #. Name for sgn
 msgid "Sign Languages"
-msgstr "Teckenspråk"
+msgstr ""
 
 #. Name for shn
 msgid "Shan"
-msgstr "Shan"
+msgstr ""
 
 #. Name for sid
 msgid "Sidamo"
-msgstr "Sidami"
+msgstr ""
 
 #. Name for sin
 msgid "Sinhala; Sinhalese"
-msgstr "Singalesiska"
+msgstr ""
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr "Siouxspråk"
+msgstr ""
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
-msgstr "Sino-tibetanska språk"
+msgstr ""
 
 #. Name for sla
 msgid "Slavic languages"
-msgstr "Slaviska språk"
+msgstr ""
 
 #. Name for slk
 msgid "Slovak"
-msgstr "Slovakiska"
+msgstr ""
 
 #. Name for slv
 msgid "Slovenian"
-msgstr "Slovenska"
+msgstr ""
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr "Sydsamiska"
+msgstr ""
 
 #. Name for sme
 msgid "Northern Sami"
-msgstr "Nordsamiska"
+msgstr ""
 
 #. Name for smi
 msgid "Sami languages"
-msgstr "Samiska språk"
+msgstr ""
 
 #. Name for smj
 msgid "Lule Sami"
-msgstr "Lulesamiska"
+msgstr ""
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr "Enaresamiska"
+msgstr ""
 
 #. Name for smo
 msgid "Samoan"
-msgstr "Samoanska"
+msgstr ""
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr "Skoltsamiska"
+msgstr ""
 
 #. Name for sna
 msgid "Shona"
-msgstr "Shona"
+msgstr ""
 
 #. Name for snd
 msgid "Sindhi"
-msgstr "Sindhi"
+msgstr ""
 
 #. Name for snk
 msgid "Soninke"
-msgstr "Soninke"
+msgstr ""
 
 #. Name for sog
 msgid "Sogdian"
-msgstr "Sogdiska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for som
 msgid "Somali"
-msgstr "Somali"
+msgstr ""
 
 #. Name for son
 msgid "Songhai languages"
-msgstr "Songhaispråk"
+msgstr ""
 
 #. Name for sot
 msgid "Sotho, Southern"
-msgstr "Sydsotho"
+msgstr ""
 
 #. Name for spa
 msgid "Spanish; Castilian"
-msgstr "Spanska"
+msgstr ""
 
 #. Name for sqi
 msgid "Albanian"
-msgstr "Albanska"
+msgstr ""
 
 #. Name for srd
 msgid "Sardinian"
-msgstr "Sardiska"
+msgstr ""
 
 #. Name for srn
 msgid "Sranan Tongo"
-msgstr "Sranan"
+msgstr ""
 
 #. Name for srp
 msgid "Serbian"
-msgstr "Serbiska"
+msgstr ""
 
 #. Name for srr
 msgid "Serer"
-msgstr "Serer"
+msgstr ""
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
-msgstr "Nilo-sahariska språk"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for ssw
 msgid "Swati"
-msgstr "Swazi"
+msgstr ""
 
 #. Name for suk
 msgid "Sukuma"
-msgstr "Sukuma"
+msgstr ""
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Sundanesiska"
+msgstr ""
 
 #. Name for sus
 msgid "Susu"
-msgstr "Susu"
+msgstr ""
 
 #. Name for sux
 msgid "Sumerian"
-msgstr "Sumeriska"
+msgstr ""
 
 #. Name for swa
 msgid "Swahili"
-msgstr "Swahili"
+msgstr ""
 
 #. Name for swe
 msgid "Swedish"
-msgstr "Svenska"
+msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr "Klassisk syriska"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for syr
 msgid "Syriac"
-msgstr "Syriska"
+msgstr ""
 
 #. Name for tah
 msgid "Tahitian"
-msgstr "Tahitiska"
+msgstr ""
 
 #. Name for tai
 msgid "Tai languages"
-msgstr "Thaispråk"
+msgstr ""
 
 #. Name for tam
 msgid "Tamil"
-msgstr "Tamil"
+msgstr ""
 
 #. Name for tat
 msgid "Tatar"
-msgstr "Tatariska"
+msgstr ""
 
 #. Name for tel
 msgid "Telugu"
-msgstr "Telugu"
+msgstr ""
 
 #. Name for tem
 msgid "Timne"
-msgstr "Temne"
+msgstr ""
 
 #. Name for ter
 msgid "Tereno"
-msgstr "Tereno"
+msgstr ""
 
 #. Name for tet
 msgid "Tetum"
-msgstr "Tetum"
+msgstr ""
 
 #. Name for tgk
 msgid "Tajik"
-msgstr "Tadzjikiska"
+msgstr ""
 
 #. Name for tgl
 msgid "Tagalog"
-msgstr "Tagalog"
+msgstr ""
 
 #. Name for tha
 msgid "Thai"
-msgstr "Thailändska"
+msgstr ""
 
 #. Name for tig
 msgid "Tigre"
-msgstr "Tigré"
+msgstr ""
 
 #. Name for tir
 msgid "Tigrinya"
-msgstr "Tigrinja"
+msgstr ""
 
 #. Name for tiv
 msgid "Tiv"
-msgstr "Tivi"
+msgstr ""
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "Tokelau"
+msgstr ""
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
-msgstr "Klingon; tlhIngan-Hol"
+msgstr ""
 
 #. Name for tli
 msgid "Tlingit"
-msgstr "Tlingit"
+msgstr ""
 
 #. Name for tmh
 msgid "Tamashek"
-msgstr "Tamashek"
+msgstr ""
 
 #. Name for tog
 msgid "Tonga (Nyasa)"
-msgstr "Tonga (nyasa)"
+msgstr ""
 
 #. Name for ton
 msgid "Tonga (Tonga Islands)"
-msgstr "Tonga (Tongaöarna)"
+msgstr ""
 
 #. Name for tpi
 msgid "Tok Pisin"
-msgstr "Tok Pisin"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for tsi
 msgid "Tsimshian"
-msgstr "Tsimshian"
+msgstr ""
 
 #. Name for tsn
 msgid "Tswana"
-msgstr "Tswana"
+msgstr ""
 
 #. Name for tso
 msgid "Tsonga"
-msgstr "Tsonga"
+msgstr ""
 
 #. Name for tuk
 msgid "Turkmen"
-msgstr "Turkmeniska"
+msgstr ""
 
 #. Name for tum
 msgid "Tumbuka"
-msgstr "Tumbuka"
+msgstr ""
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr "Tupíspråk"
+msgstr ""
 
 #. Name for tur
 msgid "Turkish"
-msgstr "Turkiska"
+msgstr ""
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr "Altaiska språk"
+msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "Tuvalu"
+msgstr ""
 
 #. Name for twi
 msgid "Twi"
-msgstr "Twi"
+msgstr ""
 
 #. Name for tyv
 msgid "Tuvinian"
-msgstr "Tuvinska"
+msgstr ""
 
 #. Name for udm
 msgid "Udmurt"
-msgstr "Udmurtiska"
+msgstr ""
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr "Ugaritiska"
+msgstr ""
 
 #. Name for uig
 msgid "Uighur; Uyghur"
-msgstr "Uiguriska"
+msgstr ""
 
 #. Name for ukr
 msgid "Ukrainian"
-msgstr "Ukrainska"
+msgstr ""
 
 #. Name for umb
 msgid "Umbundu"
-msgstr "Umbundu"
+msgstr ""
 
 #. Name for und
 msgid "Undetermined"
-msgstr "Odefinierat språk"
+msgstr ""
 
 #. Name for urd
 msgid "Urdu"
-msgstr "Urdu"
+msgstr ""
 
 #. Name for uzb
 msgid "Uzbek"
-msgstr "Uzbekiska"
+msgstr ""
 
 #. Name for vai
 msgid "Vai"
-msgstr "Vai"
+msgstr ""
 
 #. Name for ven
 msgid "Venda"
-msgstr "Venda"
+msgstr ""
 
 #. Name for vie
 msgid "Vietnamese"
-msgstr "Vietnamesiska"
+msgstr ""
 
 #. Name for vol
 msgid "Volapük"
-msgstr "Volapük"
+msgstr ""
 
 #. Name for vot
 msgid "Votic"
-msgstr "Votiska"
+msgstr ""
 
 #. Name for wak
 msgid "Wakashan languages"
-msgstr "Wakusjiska språk"
+msgstr ""
 
 #. Name for wal
 msgid "Wolaitta; Wolaytta"
@@ -1986,93 +1886,92 @@ msgstr ""
 
 #. Name for war
 msgid "Waray"
-msgstr "Waray"
+msgstr ""
 
 #. Name for was
 msgid "Washo"
-msgstr "Washo"
+msgstr ""
 
 #. Name for wen
 msgid "Sorbian languages"
-msgstr "Sorbiska (vendiska) språk"
+msgstr ""
 
 #. Name for wln
 msgid "Walloon"
-msgstr "Vallonska"
+msgstr ""
 
 #. Name for wol
 msgid "Wolof"
-msgstr "Wolof"
+msgstr ""
 
-# Libris vill ha det så.
 #. Name for xal
 msgid "Kalmyk; Oirat"
-msgstr "Kalmuckiska"
+msgstr ""
 
 #. Name for xho
 msgid "Xhosa"
-msgstr "Xhosa"
+msgstr ""
 
 #. Name for yao
 msgid "Yao"
-msgstr "Yao"
+msgstr ""
 
 #. Name for yap
 msgid "Yapese"
-msgstr "Yap"
+msgstr ""
 
 #. Name for yid
 msgid "Yiddish"
-msgstr "Jiddisch"
+msgstr ""
 
 #. Name for yor
 msgid "Yoruba"
-msgstr "Yoruba"
+msgstr ""
 
 #. Name for ypk
 msgid "Yupik languages"
-msgstr "Eskimåspråk (yupikspråk)"
+msgstr ""
 
 #. Name for zap
 msgid "Zapotec"
-msgstr "Zapotek"
+msgstr ""
 
 #. Name for zbl
 msgid "Blissymbols; Blissymbolics; Bliss"
-msgstr "Blissymboler"
+msgstr ""
 
 #. Name for zen
 msgid "Zenaga"
-msgstr "Zenaga"
+msgstr ""
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr "Standardmarockansk tamazight"
+msgstr ""
 
 #. Name for zha
 msgid "Zhuang; Chuang"
-msgstr "Zhuang"
+msgstr ""
 
 #. Name for zho
 msgid "Chinese"
-msgstr "Kinesiska"
+msgstr ""
 
 #. Name for znd
 msgid "Zande languages"
-msgstr "Zandespråk"
+msgstr ""
 
 #. Name for zul
 msgid "Zulu"
-msgstr "Zulu"
+msgstr ""
 
 #. Name for zun
 msgid "Zuni"
-msgstr "Zuni"
+msgstr ""
 
 #. Name for zxx
 msgid "No linguistic content; Not applicable"
-msgstr "Inget lingvistiskt innehåll; Inte tillämpbart"
+msgstr ""
 
 #. Name for zza
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"
-msgstr "Zaza"
+msgstr ""

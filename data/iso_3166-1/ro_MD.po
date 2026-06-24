@@ -2,26 +2,26 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Vlad Nenea <diskette144@hotmail.com>, 2023.
+# SPDX-FileCopyrightText: 2023 Vlad Nenea <diskette144@hotmail.com>
+# SPDX-FileCopyrightText: 2025 Vlad Nenea <cybernenea11@users.noreply.hosted.weblate.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2023-03-07 17:40+0000\n"
-"Last-Translator: Vlad Nenea <diskette144@hotmail.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-07 17:51+0000\n"
+"Last-Translator: Vlad Nenea <cybernenea11@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Moldavian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ro_MD/>\n"
-"Language: mo\n"
+"Language: ro_MD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -293,11 +293,11 @@ msgstr ""
 
 #. Name for CHN
 msgid "China"
-msgstr ""
+msgstr "Кина"
 
 #. Official name for CHN
 msgid "People's Republic of China"
-msgstr ""
+msgstr "Република Популарэ Кинезэ"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"

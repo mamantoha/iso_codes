@@ -2,31 +2,32 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Mişu Moldovan <dumol@go.ro>, 2000-2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2009-2010.
-# Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
-# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023.
+# SPDX-FileCopyrightText: 2000-2001 Mişu Moldovan <dumol@go.ro>
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2009-2010 Lucian Adrian Grijincu <lucian.grijincu@gmail.com>
+# SPDX-FileCopyrightText: 2018 Andrei POPESCU <andreimpopescu@gmail.com>
+# SPDX-FileCopyrightText: 2023, 2025 Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>
+# Andrea Andrei <andrea.tsg19@slmail.me>, 2026.
+# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
-"PO-Revision-Date: 2023-12-30 00:11+0000\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2026-05-18 09:11+0000\n"
 "Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
-"Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/ro/>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/iso-"
+"639-2/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:00+0000\n"
 "PO-Creation-Date: 2000-09-24 15:45+0300\n"
 
@@ -252,8 +253,8 @@ msgid "Siksika"
 msgstr "sicsică"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "bantu (alta)"
+msgid "Bantu languages"
+msgstr "limbi bantu"
 
 #. Name for bod
 msgid "Tibetan"
@@ -464,8 +465,8 @@ msgid "German"
 msgstr "germană"
 
 #. Name for dgr
-msgid "Dogrib"
-msgstr "dogribă (tlicho)"
+msgid "Tlicho; Dogrib"
+msgstr "dogribă; tlicho"
 
 #. Name for din
 msgid "Dinka"
@@ -737,7 +738,7 @@ msgstr "limbi himachali; limbi pahari vestice"
 
 #. Name for hin
 msgid "Hindi"
-msgstr "hindusă"
+msgstr "hindi (hindusă)"
 
 #. Name for hit
 msgid "Hittite"
@@ -1252,11 +1253,11 @@ msgid "Navajo; Navaho"
 msgstr "navajo; navaho"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "ndebele sudică"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "ndebele nordică"
 
 #. Name for ndo
@@ -1272,8 +1273,8 @@ msgid "Nepali"
 msgstr "nepaleză"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
-msgstr "bhasa nepaleză; newari"
+msgid "Nepal Bhasa; Newar; Newari"
+msgstr "bhasa nepaleză; newar; newari"
 
 #. Name for nia
 msgid "Nias"
@@ -1292,12 +1293,12 @@ msgid "Dutch; Flemish"
 msgstr "olandeză; flamandă"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "nynorsk, norvegiană; norvegiană nynorsk (modernă)"
+msgid "Norwegian Nynorsk"
+msgstr "norvegiană nynorsk"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "bokmål, norvegiană; norvegiană bokmål (cărturărească)"
+msgid "Norwegian Bokmål"
+msgstr "norvegiană bokmål"
 
 #. Name for nog
 msgid "Nogai"
@@ -1348,8 +1349,8 @@ msgid "Nzima"
 msgstr "nzima"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
-msgstr "occitană (după 1500); provensală"
+msgid "Occitan (post 1500)"
+msgstr "occitană (după 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1440,8 +1441,8 @@ msgid "Prakrit languages"
 msgstr "limbi prakrit"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
-msgstr "provensală veche (până la 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
+msgstr "provensală veche (până la 1500); occitană veche (până la 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1508,8 +1509,8 @@ msgid "Yakut"
 msgstr "iakută"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "indiană sud-americană (altele)"
+msgid "South American Indian languages"
+msgstr "limbi indiene sud americane"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1892,8 +1893,8 @@ msgid "Wakashan languages"
 msgstr "limbi wakashane"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "walamo (wolaytta)"
+msgid "Wolaitta; Wolaytta"
+msgstr "wolaitta; wolaytta"
 
 #. Name for war
 msgid "Waray"

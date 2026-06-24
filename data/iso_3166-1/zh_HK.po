@@ -2,7 +2,14 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2001 AceLan <acelan@kde.linux.org.tw>
+# SPDX-FileCopyrightText: 2001 Kenduest Lee <kenduest@i18n.linux.org.tw>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2005 Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>
+# SPDX-FileCopyrightText: 2006, 2023 Abel Cheung <abelcheung@gmail.com>
+# SPDX-FileCopyrightText: 2019 Walter Cheuk <wwycheuk@gmail.com>
 # .
 # Notes:
 # Source of information:
@@ -10,20 +17,12 @@
 # http://www.immd.gov.hk/chtml/embassy.htm
 # 立法會參考資料摘要《商標條例》
 # http://www.hkbu.edu.hk/~copyrigh/document/LegCo_Brief_full%20(Chin).pdf
-# .
-# Copyright ©
-# AceLan <acelan@kde.linux.org.tw>, 2001.
-# Kenduest Lee <kenduest@i18n.linux.org.tw>, 2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2005.
-# Abel Cheung <abelcheung@gmail.com>, 2006, 2023.
-# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-10 05:19+0000\n"
 "Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"

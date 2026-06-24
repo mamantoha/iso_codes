@@ -2,24 +2,24 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2005-2006, 2008-2011 Tommi Vainikainen <Tommi.Vainikainen@iki.fi>
+# SPDX-FileCopyrightText: 2025 Jiri Grönroos <jiri.gronroos@iki.fi>
+# SPDX-FileCopyrightText: 2025 Eero Häkkinen <+weblate@eero.xn--hkkinen-5wa.fi>
 # .
 # Notes:
 # Lähteet:
 # http://europa.eu.int/comm/translation/currencies/fitable1.htm
 # http://kotoistus.fi/avoimet/kop_alueiden-nimet.html
-# .
-# Copyright ©
-# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2006, 2008-2011.
-# Jiri Grönroos <jiri.gronroos@iki.fi>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
-"PO-Revision-Date: 2025-05-01 11:04+0000\n"
-"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-10 22:51+0000\n"
+"Last-Translator: Eero Häkkinen <+weblate@eero.xn--hkkinen-5wa.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fi/>\n"
 "Language: fi\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -35,7 +35,7 @@ msgstr "Aruba"
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr "Afghanistan"
+msgstr "Afganistan"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
@@ -195,7 +195,7 @@ msgstr "Bahaman liittovaltio"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnia-Hertsegovina"
+msgstr "Bosnia ja Hertsegovina"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -354,14 +354,10 @@ msgid "Union of the Comoros"
 msgstr "Komorien liitto"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Kap Verde"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Kap Verden tasavalta"
 
@@ -403,7 +399,7 @@ msgstr "Kyproksen tasavalta"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Tšekki"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -474,9 +470,8 @@ msgid "Eritrea"
 msgstr "Eritrea"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Amerikan yhdysvallat"
+msgstr "Eritrean valtio"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -599,10 +594,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Sambian tasavalta"
+msgstr "Gambian tasavalta"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -663,7 +656,7 @@ msgstr "Guyanan tasavalta"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Hong Kong"
+msgstr "Hongkong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -843,10 +836,8 @@ msgid "Korea, Republic of"
 msgstr "Korean tasavalta"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Etelä-Afrikka"
+msgstr "Etelä-Korea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -862,7 +853,7 @@ msgstr "Laos"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1241,9 +1232,8 @@ msgid "Papua New Guinea"
 msgstr "Papua-Uusi-Guinea"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Samoan itsenäinen valtio"
+msgstr "Papua-Uuden-Guinean itsenäinen valtio"
 
 #. Name for POL
 msgid "Poland"
@@ -1287,12 +1277,11 @@ msgstr "Paraguayn tasavalta"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "Palestiina, valtio"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "Amerikan yhdysvallat"
+msgstr "Palestiinan valtio"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1403,9 +1392,8 @@ msgid "Somalia"
 msgstr "Somalia"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Saksan liittotasavalta"
+msgstr "Somalian liittotasavalta"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1469,13 +1457,11 @@ msgstr "Ruotsin kuningaskunta"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Swazimaa"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Espanjan kuningaskunta"
+msgstr "Eswatinin kuningaskunta"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

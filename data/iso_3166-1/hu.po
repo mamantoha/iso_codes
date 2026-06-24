@@ -2,24 +2,23 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Arpad Biro <biro_arpad@yahoo.com>, 2001.
-# VERÓK István <vi@fsf.hu>, 2004.
-# SZERVÁC Attila <sas@321.hu>, 2006.
-# Gabor Kelemen <kelemeng@gnome.hu>, 2006-2007.
-# Kalman Kemenczy <kkemenczy@gmail.com>, 2007-2008, 2010-2013.
-# Balázs Úr <urbalazs@gmail.com>, 2015.
-# Babos Gábor <gabor.babos@gmail.com>, 2019.
-# Balázs Meskó <meskobalazs@mailbox.org>, 2023.
-# RViktor <rviktor@ivankapal.com>, 2025.
+# SPDX-FileCopyrightText: 2001 Arpad Biro <biro_arpad@yahoo.com>
+# SPDX-FileCopyrightText: 2004 VERÓK István <vi@fsf.hu>
+# SPDX-FileCopyrightText: 2006 SZERVÁC Attila <sas@321.hu>
+# SPDX-FileCopyrightText: 2006-2007 Gabor Kelemen <kelemeng@gnome.hu>
+# SPDX-FileCopyrightText: 2007-2008, 2010-2013 Kalman Kemenczy <kkemenczy@gmail.com>
+# SPDX-FileCopyrightText: 2015 Balázs Úr <urbalazs@gmail.com>
+# SPDX-FileCopyrightText: 2019 Babos Gábor <gabor.babos@gmail.com>
+# SPDX-FileCopyrightText: 2023 Balázs Meskó <meskobalazs@mailbox.org>
+# SPDX-FileCopyrightText: 2025 RViktor <rviktor@ivankapal.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-04-07 21:57+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"

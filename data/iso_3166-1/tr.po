@@ -2,26 +2,25 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Ömer Fadıl USTA <omer_fad@hotmail.com>, 1999.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Nilgün Belma Bugüner <nilgun@fide.org>, 2001.
-# Recai Oktaş <roktas@omu.edu.tr>, 2004.
-# Mert Dirik <mertdirik@gmail.com>, 2008.
-# İsmail Baydan <ibaydan@gmail.com>, 2011.
-# Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015,2018.
-# Oguz Ersen <oguzersen@protonmail.com>, 2019.
-# Oğuz Ersen <oguzersen@protonmail.com>, 2020, 2021.
-# EminUZUN <eminuzunn@gmail.com>, 2020.
-# Oğuz Ersen <oguz@ersen.moe>, 2022, 2023.
+# SPDX-FileCopyrightText: 1999 Ömer Fadıl USTA <omer_fad@hotmail.com>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Nilgün Belma Bugüner <nilgun@fide.org>
+# SPDX-FileCopyrightText: 2004 Recai Oktaş <roktas@omu.edu.tr>
+# SPDX-FileCopyrightText: 2008 Mert Dirik <mertdirik@gmail.com>
+# SPDX-FileCopyrightText: 2011 İsmail Baydan <ibaydan@gmail.com>
+# SPDX-FileCopyrightText: 2013-2015,2018 Atila KOÇ <koc@artielektronik.com.tr>
+# SPDX-FileCopyrightText: 2019 Oguz Ersen <oguzersen@protonmail.com>
+# SPDX-FileCopyrightText: 2020, 2021 Oğuz Ersen <oguzersen@protonmail.com>
+# SPDX-FileCopyrightText: 2020 EminUZUN <eminuzunn@gmail.com>
+# SPDX-FileCopyrightText: 2022, 2023 Oğuz Ersen <oguz@ersen.moe>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-02-26 15:37+0000\n"
 "Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"

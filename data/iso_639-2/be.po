@@ -2,20 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Alexander Nyakhaychyk <nyakhaychyk@gmail.com>, 2009.
-# Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010, 2012-2013.
-# Serge Karpesh <skarpiesz@gmail.com>, 2020.
-# Viktar Vauchkevich <victorenator@gmail.com>, 2020, 2022.
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2009 Alexander Nyakhaychyk <nyakhaychyk@gmail.com>
+# SPDX-FileCopyrightText: 2007, 2010, 2012-2013 Ihar Hrachyshka <ihar.hrachyshka@gmail.com>
+# SPDX-FileCopyrightText: 2020 Serge Karpesh <skarpiesz@gmail.com>
+# SPDX-FileCopyrightText: 2020, 2022 Viktar Vauchkevich <victorenator@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-10-17 00:54+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
@@ -249,8 +248,10 @@ msgid "Siksika"
 msgstr "сіксіка"
 
 #. Name for bnt
-msgid "Bantu (Other)"
-msgstr "банту (іншыя)"
+#, fuzzy
+#| msgid "Banda languages"
+msgid "Bantu languages"
+msgstr "мовы банда"
 
 #. Name for bod
 msgid "Tibetan"
@@ -459,7 +460,9 @@ msgid "German"
 msgstr "нямецкая"
 
 #. Name for dgr
-msgid "Dogrib"
+#, fuzzy
+#| msgid "Dogrib"
+msgid "Tlicho; Dogrib"
 msgstr "догрыб"
 
 #. Name for din
@@ -1247,11 +1250,15 @@ msgid "Navajo; Navaho"
 msgstr "наваха"
 
 #. Name for nbl
-msgid "Ndebele, South; South Ndebele"
+#, fuzzy
+#| msgid "Ndebele, South; South Ndebele"
+msgid "South Ndebele"
 msgstr "паўднёвая ндэбеле"
 
 #. Name for nde
-msgid "Ndebele, North; North Ndebele"
+#, fuzzy
+#| msgid "Ndebele, North; North Ndebele"
+msgid "North Ndebele"
 msgstr "паўночная ндэбеле"
 
 #. Name for ndo
@@ -1267,7 +1274,9 @@ msgid "Nepali"
 msgstr "непалі"
 
 #. Name for new
-msgid "Nepal Bhasa; Newari"
+#, fuzzy
+#| msgid "Nepal Bhasa; Newari"
+msgid "Nepal Bhasa; Newar; Newari"
 msgstr "неварская"
 
 #. Name for nia
@@ -1287,12 +1296,16 @@ msgid "Dutch; Flemish"
 msgstr "галандская"
 
 #. Name for nno
-msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "нарвежская нюнорск"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Nynorsk"
+msgstr "нарвежская"
 
 #. Name for nob
-msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr "нарвежская букмал"
+#, fuzzy
+#| msgid "Norwegian"
+msgid "Norwegian Bokmål"
+msgstr "нарвежская"
 
 #. Name for nog
 msgid "Nogai"
@@ -1343,7 +1356,9 @@ msgid "Nzima"
 msgstr "нзема"
 
 #. Name for oci
-msgid "Occitan (post 1500); Provençal"
+#, fuzzy
+#| msgid "Occitan (post 1500); Provençal"
+msgid "Occitan (post 1500)"
 msgstr "аксітанская (пасля 1500); правансальская"
 
 #. Name for oji
@@ -1435,7 +1450,9 @@ msgid "Prakrit languages"
 msgstr "пракрыты"
 
 #. Name for pro
-msgid "Provençal, Old (to 1500)"
+#, fuzzy
+#| msgid "Provençal, Old (to 1500)"
+msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgstr "стараправансальская (да 1500)"
 
 #. Name for pus
@@ -1503,8 +1520,10 @@ msgid "Yakut"
 msgstr "якуцкая"
 
 #. Name for sai
-msgid "South American Indian (Other)"
-msgstr "індзейскія паўднёва-амерыканскія (іншыя)"
+#, fuzzy
+#| msgid "North American Indian languages"
+msgid "South American Indian languages"
+msgstr "індзейскія паўночна-амерыканскія мовы"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1887,8 +1906,8 @@ msgid "Wakashan languages"
 msgstr "вакашскія мовы"
 
 #. Name for wal
-msgid "Walamo"
-msgstr "валама"
+msgid "Wolaitta; Wolaytta"
+msgstr ""
 
 #. Name for war
 msgid "Waray"
