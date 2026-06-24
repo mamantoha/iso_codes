@@ -62,8 +62,8 @@ module ISOCodes
     end
 
     private def po_to_hash(data) : Hash(String, String)
-      names = data.select { |l| l =~ /^msgid/ }.map { |line| line.match(/^msgid "(.*?)"/).try(&.[1]) }
-      translations = data.select { |l| l =~ /^msgstr/ }.map { |line| line.match(/^msgstr "(.*?)"/).try(&.[1]) }
+      names = data.select(&.=~(/^msgid/)).map(&.match(/^msgid "(.*?)"/).try(&.[1]))
+      translations = data.select(&.=~(/^msgstr/)).map(&.match(/^msgstr "(.*?)"/).try(&.[1]))
 
       names.map_with_index do |name, index|
         [name.to_s, translations[index].to_s]

@@ -11,7 +11,7 @@ describe ISOCodes do
     it "forward_missing_to @languages" do
       languages = ISOCodes.languages
 
-      language = languages.find { |l| l.alpha_2 == "pt" }
+      language = languages.find(&.alpha_2.==("pt"))
       language.try(&.name).should eq("Portuguese")
     end
 
@@ -70,7 +70,7 @@ describe ISOCodes do
     it "forward_missing_to @countries" do
       countries = ISOCodes.countries
 
-      country = countries.find { |c| c.name == "United States" }
+      country = countries.find(&.name.==("United States"))
       country.try(&.alpha_2).should eq("US")
     end
 
